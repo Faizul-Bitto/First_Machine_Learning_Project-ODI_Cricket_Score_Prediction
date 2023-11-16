@@ -1,0 +1,5255 @@
+---
+meta:
+  data_version: 0.92
+  created: '2023-06-30'
+  revision: 3
+info:
+  balls_per_over: 6
+  city: Galle
+  dates:
+  - '2023-06-30'
+  gender: female
+  match_type: ODI
+  match_type_number: 1320
+  outcome:
+    winner: New Zealand
+    by:
+      runs: 116
+  overs: 50
+  player_of_match:
+  - SFM Devine
+  players:
+    New Zealand:
+    - SW Bates
+    - B Bezuidenhout
+    - AC Kerr
+    - SFM Devine
+    - ML Green
+    - GE Plimmer
+    - BM Halliday
+    - HM Rowe
+    - LMM Tahuhu
+    - EJ Carson
+    - FC Jonas
+    Sri Lanka:
+    - RMVD Gunaratne
+    - H Madavi
+    - AC Jayangani
+    - NND de Silva
+    - MAA Sanjeewani
+    - WK Dilhari
+    - OU Ranasinghe
+    - K Kavindi
+    - BMSM Kumari
+    - KDU Prabodhani
+    - I Ranaweera
+  registry:
+    people:
+      AC Jayangani: ac56b5a7
+      AC Kerr: 7673c908
+      B Bezuidenhout: 564afdcf
+      BM Halliday: efb6cb2a
+      BMSM Kumari: b55fb828
+      EJ Carson: 7693851c
+      FC Jonas: 6df697a9
+      GE Plimmer: 575494db
+      H Madavi: 85021bcd
+      HM Rowe: 8ca1f93a
+      I Ranaweera: a61850e6
+      K Kavindi: 2fa916b3
+      KDU Prabodhani: a0fdf513
+      LDVV Silva: 6e226c31
+      LMM Tahuhu: '60471339'
+      MAA Sanjeewani: 318a4039
+      ML Green: 865eae1f
+      N Perera: 129709f9
+      NND de Silva: f0b4294e
+      OU Ranasinghe: 52d3b7ff
+      PSR Fonseka: 8fd2cea5
+      RMVD Gunaratne: 9e866b59
+      SFM Devine: de69af96
+      SW Bates: 89bbc67a
+      V Bowen: 7297ac4d
+      WK Dilhari: c34a15e6
+  teams:
+  - New Zealand
+  - Sri Lanka
+  toss:
+    winner: New Zealand
+    decision: bat
+  umpires:
+  - LDVV Silva
+  - PSR Fonseka
+  venue: Galle International Stadium
+innings:
+- 1st innings:
+    team: New Zealand
+    deliveries:
+    - 0.1:
+        non_striker: B Bezuidenhout
+        bowler: KDU Prabodhani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SW Bates
+    - 0.2:
+        non_striker: B Bezuidenhout
+        bowler: KDU Prabodhani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SW Bates
+    - 0.3:
+        non_striker: B Bezuidenhout
+        bowler: KDU Prabodhani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SW Bates
+    - 0.4:
+        non_striker: B Bezuidenhout
+        bowler: KDU Prabodhani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SW Bates
+    - 0.5:
+        non_striker: B Bezuidenhout
+        bowler: KDU Prabodhani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SW Bates
+    - 0.6:
+        non_striker: SW Bates
+        bowler: KDU Prabodhani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Bezuidenhout
+    - 1.1:
+        non_striker: B Bezuidenhout
+        bowler: K Kavindi
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: SW Bates
+    - 1.2:
+        non_striker: B Bezuidenhout
+        bowler: K Kavindi
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: SW Bates
+    - 1.3:
+        non_striker: SW Bates
+        bowler: K Kavindi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Bezuidenhout
+    - 1.4:
+        non_striker: SW Bates
+        bowler: K Kavindi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Bezuidenhout
+    - 1.5:
+        non_striker: SW Bates
+        bowler: K Kavindi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Bezuidenhout
+    - 1.6:
+        non_striker: SW Bates
+        bowler: K Kavindi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B Bezuidenhout
+    - 1.7:
+        non_striker: B Bezuidenhout
+        bowler: K Kavindi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SW Bates
+    - 1.8:
+        non_striker: B Bezuidenhout
+        bowler: K Kavindi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SW Bates
+    - 2.1:
+        non_striker: SW Bates
+        bowler: KDU Prabodhani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Bezuidenhout
+    - 2.2:
+        non_striker: SW Bates
+        bowler: KDU Prabodhani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Bezuidenhout
+    - 2.3:
+        non_striker: SW Bates
+        bowler: KDU Prabodhani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B Bezuidenhout
+    - 2.4:
+        non_striker: B Bezuidenhout
+        bowler: KDU Prabodhani
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: SW Bates
+    - 2.5:
+        non_striker: B Bezuidenhout
+        bowler: KDU Prabodhani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SW Bates
+    - 2.6:
+        non_striker: B Bezuidenhout
+        bowler: KDU Prabodhani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SW Bates
+    - 2.7:
+        non_striker: B Bezuidenhout
+        bowler: KDU Prabodhani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SW Bates
+        wicket:
+          player_out: SW Bates
+          fielders:
+          - H Madavi
+          kind: caught
+    - 3.1:
+        non_striker: AC Kerr
+        bowler: OU Ranasinghe
+        runs:
+          extras: 1
+          total: 2
+          batsman: 1
+        extras:
+          noballs: 1
+        batsman: B Bezuidenhout
+    - 3.2:
+        non_striker: B Bezuidenhout
+        bowler: OU Ranasinghe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Kerr
+    - 3.3:
+        non_striker: AC Kerr
+        bowler: OU Ranasinghe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B Bezuidenhout
+    - 3.4:
+        non_striker: B Bezuidenhout
+        bowler: OU Ranasinghe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Kerr
+    - 3.5:
+        non_striker: AC Kerr
+        bowler: OU Ranasinghe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Bezuidenhout
+    - 3.6:
+        non_striker: AC Kerr
+        bowler: OU Ranasinghe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B Bezuidenhout
+    - 3.7:
+        non_striker: B Bezuidenhout
+        bowler: OU Ranasinghe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Kerr
+    - 4.1:
+        non_striker: B Bezuidenhout
+        bowler: KDU Prabodhani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Kerr
+    - 4.2:
+        non_striker: B Bezuidenhout
+        bowler: KDU Prabodhani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Kerr
+    - 4.3:
+        non_striker: B Bezuidenhout
+        bowler: KDU Prabodhani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Kerr
+    - 4.4:
+        non_striker: B Bezuidenhout
+        bowler: KDU Prabodhani
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AC Kerr
+    - 4.5:
+        non_striker: B Bezuidenhout
+        bowler: KDU Prabodhani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Kerr
+    - 4.6:
+        non_striker: B Bezuidenhout
+        bowler: KDU Prabodhani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Kerr
+    - 5.1:
+        non_striker: AC Kerr
+        bowler: OU Ranasinghe
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: B Bezuidenhout
+    - 5.2:
+        non_striker: AC Kerr
+        bowler: OU Ranasinghe
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: B Bezuidenhout
+    - 5.3:
+        non_striker: AC Kerr
+        bowler: OU Ranasinghe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B Bezuidenhout
+    - 5.4:
+        non_striker: B Bezuidenhout
+        bowler: OU Ranasinghe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Kerr
+    - 5.5:
+        non_striker: AC Kerr
+        bowler: OU Ranasinghe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B Bezuidenhout
+    - 5.6:
+        non_striker: B Bezuidenhout
+        bowler: OU Ranasinghe
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AC Kerr
+    - 6.1:
+        non_striker: AC Kerr
+        bowler: KDU Prabodhani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Bezuidenhout
+    - 6.2:
+        non_striker: AC Kerr
+        bowler: KDU Prabodhani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Bezuidenhout
+    - 6.3:
+        non_striker: AC Kerr
+        bowler: KDU Prabodhani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B Bezuidenhout
+    - 6.4:
+        non_striker: B Bezuidenhout
+        bowler: KDU Prabodhani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Kerr
+    - 6.5:
+        non_striker: B Bezuidenhout
+        bowler: KDU Prabodhani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Kerr
+    - 6.6:
+        non_striker: B Bezuidenhout
+        bowler: KDU Prabodhani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Kerr
+    - 7.1:
+        non_striker: AC Kerr
+        bowler: BMSM Kumari
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: B Bezuidenhout
+    - 7.2:
+        non_striker: AC Kerr
+        bowler: BMSM Kumari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Bezuidenhout
+    - 7.3:
+        non_striker: AC Kerr
+        bowler: BMSM Kumari
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: B Bezuidenhout
+    - 7.4:
+        non_striker: AC Kerr
+        bowler: BMSM Kumari
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B Bezuidenhout
+    - 7.5:
+        non_striker: B Bezuidenhout
+        bowler: BMSM Kumari
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Kerr
+    - 7.6:
+        non_striker: AC Kerr
+        bowler: BMSM Kumari
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: B Bezuidenhout
+    - 7.7:
+        non_striker: AC Kerr
+        bowler: BMSM Kumari
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B Bezuidenhout
+    - 7.8:
+        non_striker: B Bezuidenhout
+        bowler: BMSM Kumari
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Kerr
+    - 8.1:
+        non_striker: B Bezuidenhout
+        bowler: K Kavindi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Kerr
+    - 8.2:
+        non_striker: B Bezuidenhout
+        bowler: K Kavindi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Kerr
+    - 8.3:
+        non_striker: B Bezuidenhout
+        bowler: K Kavindi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Kerr
+    - 8.4:
+        non_striker: AC Kerr
+        bowler: K Kavindi
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: B Bezuidenhout
+    - 8.5:
+        non_striker: B Bezuidenhout
+        bowler: K Kavindi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AC Kerr
+    - 8.6:
+        non_striker: B Bezuidenhout
+        bowler: K Kavindi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AC Kerr
+    - 8.7:
+        non_striker: B Bezuidenhout
+        bowler: K Kavindi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AC Kerr
+    - 9.1:
+        non_striker: AC Kerr
+        bowler: OU Ranasinghe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B Bezuidenhout
+    - 9.2:
+        non_striker: B Bezuidenhout
+        bowler: OU Ranasinghe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Kerr
+    - 9.3:
+        non_striker: B Bezuidenhout
+        bowler: OU Ranasinghe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Kerr
+    - 9.4:
+        non_striker: AC Kerr
+        bowler: OU Ranasinghe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Bezuidenhout
+    - 9.5:
+        non_striker: AC Kerr
+        bowler: OU Ranasinghe
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: B Bezuidenhout
+    - 9.6:
+        non_striker: AC Kerr
+        bowler: OU Ranasinghe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Bezuidenhout
+        wicket:
+          player_out: B Bezuidenhout
+          fielders:
+          - NND de Silva
+          kind: caught
+    - 10.1:
+        non_striker: SFM Devine
+        bowler: BMSM Kumari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Kerr
+    - 10.2:
+        non_striker: SFM Devine
+        bowler: BMSM Kumari
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Kerr
+    - 10.3:
+        non_striker: AC Kerr
+        bowler: BMSM Kumari
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: SFM Devine
+    - 10.4:
+        non_striker: AC Kerr
+        bowler: BMSM Kumari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SFM Devine
+    - 10.5:
+        non_striker: AC Kerr
+        bowler: BMSM Kumari
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: SFM Devine
+    - 10.6:
+        non_striker: AC Kerr
+        bowler: BMSM Kumari
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SFM Devine
+    - 10.7:
+        non_striker: SFM Devine
+        bowler: BMSM Kumari
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Kerr
+    - 10.8:
+        non_striker: AC Kerr
+        bowler: BMSM Kumari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SFM Devine
+    - 11.1:
+        non_striker: SFM Devine
+        bowler: I Ranaweera
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Kerr
+    - 11.2:
+        non_striker: AC Kerr
+        bowler: I Ranaweera
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SFM Devine
+    - 11.3:
+        non_striker: SFM Devine
+        bowler: I Ranaweera
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Kerr
+    - 11.4:
+        non_striker: AC Kerr
+        bowler: I Ranaweera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SFM Devine
+    - 11.5:
+        non_striker: AC Kerr
+        bowler: I Ranaweera
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SFM Devine
+    - 11.6:
+        non_striker: SFM Devine
+        bowler: I Ranaweera
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AC Kerr
+    - 12.1:
+        non_striker: AC Kerr
+        bowler: BMSM Kumari
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SFM Devine
+    - 12.2:
+        non_striker: SFM Devine
+        bowler: BMSM Kumari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Kerr
+    - 12.3:
+        non_striker: SFM Devine
+        bowler: BMSM Kumari
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AC Kerr
+    - 12.4:
+        non_striker: SFM Devine
+        bowler: BMSM Kumari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Kerr
+    - 12.5:
+        non_striker: SFM Devine
+        bowler: BMSM Kumari
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Kerr
+    - 12.6:
+        non_striker: AC Kerr
+        bowler: BMSM Kumari
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SFM Devine
+    - 13.1:
+        non_striker: AC Kerr
+        bowler: I Ranaweera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SFM Devine
+    - 13.2:
+        non_striker: AC Kerr
+        bowler: I Ranaweera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SFM Devine
+    - 13.3:
+        non_striker: AC Kerr
+        bowler: I Ranaweera
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SFM Devine
+    - 13.4:
+        non_striker: AC Kerr
+        bowler: I Ranaweera
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SFM Devine
+    - 13.5:
+        non_striker: SFM Devine
+        bowler: I Ranaweera
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Kerr
+    - 13.6:
+        non_striker: AC Kerr
+        bowler: I Ranaweera
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SFM Devine
+    - 14.1:
+        non_striker: AC Kerr
+        bowler: KDU Prabodhani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SFM Devine
+    - 14.2:
+        non_striker: AC Kerr
+        bowler: KDU Prabodhani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SFM Devine
+    - 14.3:
+        non_striker: SFM Devine
+        bowler: KDU Prabodhani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Kerr
+    - 14.4:
+        non_striker: AC Kerr
+        bowler: KDU Prabodhani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SFM Devine
+    - 14.5:
+        non_striker: SFM Devine
+        bowler: KDU Prabodhani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Kerr
+    - 14.6:
+        non_striker: SFM Devine
+        bowler: KDU Prabodhani
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AC Kerr
+    - 15.1:
+        non_striker: AC Kerr
+        bowler: I Ranaweera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SFM Devine
+    - 15.2:
+        non_striker: AC Kerr
+        bowler: I Ranaweera
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SFM Devine
+    - 15.3:
+        non_striker: SFM Devine
+        bowler: I Ranaweera
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Kerr
+    - 15.4:
+        non_striker: AC Kerr
+        bowler: I Ranaweera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SFM Devine
+    - 15.5:
+        non_striker: AC Kerr
+        bowler: I Ranaweera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SFM Devine
+    - 15.6:
+        non_striker: AC Kerr
+        bowler: I Ranaweera
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SFM Devine
+    - 16.1:
+        non_striker: AC Kerr
+        bowler: WK Dilhari
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SFM Devine
+    - 16.2:
+        non_striker: AC Kerr
+        bowler: WK Dilhari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SFM Devine
+    - 16.3:
+        non_striker: AC Kerr
+        bowler: WK Dilhari
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SFM Devine
+    - 16.4:
+        non_striker: SFM Devine
+        bowler: WK Dilhari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Kerr
+    - 16.5:
+        non_striker: SFM Devine
+        bowler: WK Dilhari
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Kerr
+    - 16.6:
+        non_striker: AC Kerr
+        bowler: WK Dilhari
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SFM Devine
+    - 17.1:
+        non_striker: SFM Devine
+        bowler: I Ranaweera
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Kerr
+    - 17.2:
+        non_striker: AC Kerr
+        bowler: I Ranaweera
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SFM Devine
+    - 17.3:
+        non_striker: AC Kerr
+        bowler: I Ranaweera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SFM Devine
+    - 17.4:
+        non_striker: AC Kerr
+        bowler: I Ranaweera
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SFM Devine
+    - 17.5:
+        non_striker: AC Kerr
+        bowler: I Ranaweera
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SFM Devine
+    - 17.6:
+        non_striker: SFM Devine
+        bowler: I Ranaweera
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Kerr
+    - 18.1:
+        non_striker: SFM Devine
+        bowler: WK Dilhari
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Kerr
+    - 18.2:
+        non_striker: AC Kerr
+        bowler: WK Dilhari
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SFM Devine
+    - 18.3:
+        non_striker: SFM Devine
+        bowler: WK Dilhari
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Kerr
+    - 18.4:
+        non_striker: AC Kerr
+        bowler: WK Dilhari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SFM Devine
+    - 18.5:
+        non_striker: AC Kerr
+        bowler: WK Dilhari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SFM Devine
+    - 18.6:
+        non_striker: AC Kerr
+        bowler: WK Dilhari
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SFM Devine
+    - 19.1:
+        non_striker: AC Kerr
+        bowler: AC Jayangani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SFM Devine
+    - 19.2:
+        non_striker: SFM Devine
+        bowler: AC Jayangani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Kerr
+    - 19.3:
+        non_striker: AC Kerr
+        bowler: AC Jayangani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SFM Devine
+    - 19.4:
+        non_striker: SFM Devine
+        bowler: AC Jayangani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Kerr
+    - 19.5:
+        non_striker: AC Kerr
+        bowler: AC Jayangani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SFM Devine
+    - 19.6:
+        non_striker: AC Kerr
+        bowler: AC Jayangani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SFM Devine
+    - 20.1:
+        non_striker: AC Kerr
+        bowler: I Ranaweera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SFM Devine
+    - 20.2:
+        non_striker: AC Kerr
+        bowler: I Ranaweera
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SFM Devine
+    - 20.3:
+        non_striker: SFM Devine
+        bowler: I Ranaweera
+        runs:
+          extras: 5
+          total: 5
+          batsman: 0
+        extras:
+          wides: 5
+        batsman: AC Kerr
+    - 20.4:
+        non_striker: SFM Devine
+        bowler: I Ranaweera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Kerr
+    - 20.5:
+        non_striker: SFM Devine
+        bowler: I Ranaweera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Kerr
+    - 20.6:
+        non_striker: SFM Devine
+        bowler: I Ranaweera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Kerr
+    - 20.7:
+        non_striker: SFM Devine
+        bowler: I Ranaweera
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Kerr
+    - 21.1:
+        non_striker: SFM Devine
+        bowler: AC Jayangani
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AC Kerr
+    - 21.2:
+        non_striker: SFM Devine
+        bowler: AC Jayangani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Kerr
+    - 21.3:
+        non_striker: AC Kerr
+        bowler: AC Jayangani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SFM Devine
+    - 21.4:
+        non_striker: AC Kerr
+        bowler: AC Jayangani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SFM Devine
+    - 21.5:
+        non_striker: SFM Devine
+        bowler: AC Jayangani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Kerr
+    - 21.6:
+        non_striker: SFM Devine
+        bowler: AC Jayangani
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AC Kerr
+    - 22.1:
+        non_striker: AC Kerr
+        bowler: I Ranaweera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SFM Devine
+    - 22.2:
+        non_striker: AC Kerr
+        bowler: I Ranaweera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SFM Devine
+    - 22.3:
+        non_striker: AC Kerr
+        bowler: I Ranaweera
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SFM Devine
+    - 22.4:
+        non_striker: SFM Devine
+        bowler: I Ranaweera
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Kerr
+    - 22.5:
+        non_striker: AC Kerr
+        bowler: I Ranaweera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SFM Devine
+    - 22.6:
+        non_striker: AC Kerr
+        bowler: I Ranaweera
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SFM Devine
+    - 23.1:
+        non_striker: SFM Devine
+        bowler: OU Ranasinghe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Kerr
+    - 23.2:
+        non_striker: AC Kerr
+        bowler: OU Ranasinghe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SFM Devine
+    - 23.3:
+        non_striker: SFM Devine
+        bowler: OU Ranasinghe
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AC Kerr
+    - 23.4:
+        non_striker: SFM Devine
+        bowler: OU Ranasinghe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Kerr
+    - 23.5:
+        non_striker: SFM Devine
+        bowler: OU Ranasinghe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Kerr
+    - 23.6:
+        non_striker: AC Kerr
+        bowler: OU Ranasinghe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SFM Devine
+    - 24.1:
+        non_striker: SFM Devine
+        bowler: BMSM Kumari
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Kerr
+    - 24.2:
+        non_striker: AC Kerr
+        bowler: BMSM Kumari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SFM Devine
+    - 24.3:
+        non_striker: AC Kerr
+        bowler: BMSM Kumari
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SFM Devine
+    - 24.4:
+        non_striker: AC Kerr
+        bowler: BMSM Kumari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SFM Devine
+    - 24.5:
+        non_striker: AC Kerr
+        bowler: BMSM Kumari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SFM Devine
+    - 24.6:
+        non_striker: AC Kerr
+        bowler: BMSM Kumari
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SFM Devine
+    - 25.1:
+        non_striker: AC Kerr
+        bowler: OU Ranasinghe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SFM Devine
+    - 25.2:
+        non_striker: SFM Devine
+        bowler: OU Ranasinghe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Kerr
+    - 25.3:
+        non_striker: AC Kerr
+        bowler: OU Ranasinghe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SFM Devine
+    - 25.4:
+        non_striker: SFM Devine
+        bowler: OU Ranasinghe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Kerr
+    - 25.5:
+        non_striker: SFM Devine
+        bowler: OU Ranasinghe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Kerr
+    - 25.6:
+        non_striker: SFM Devine
+        bowler: OU Ranasinghe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Kerr
+    - 26.1:
+        non_striker: SFM Devine
+        bowler: BMSM Kumari
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Kerr
+    - 26.2:
+        non_striker: AC Kerr
+        bowler: BMSM Kumari
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SFM Devine
+    - 26.3:
+        non_striker: SFM Devine
+        bowler: BMSM Kumari
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Kerr
+    - 26.4:
+        non_striker: AC Kerr
+        bowler: BMSM Kumari
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SFM Devine
+    - 26.5:
+        non_striker: AC Kerr
+        bowler: BMSM Kumari
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SFM Devine
+    - 26.6:
+        non_striker: SFM Devine
+        bowler: BMSM Kumari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Kerr
+    - 27.1:
+        non_striker: AC Kerr
+        bowler: OU Ranasinghe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SFM Devine
+    - 27.2:
+        non_striker: SFM Devine
+        bowler: OU Ranasinghe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Kerr
+    - 27.3:
+        non_striker: AC Kerr
+        bowler: OU Ranasinghe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SFM Devine
+    - 27.4:
+        non_striker: SFM Devine
+        bowler: OU Ranasinghe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Kerr
+    - 27.5:
+        non_striker: SFM Devine
+        bowler: OU Ranasinghe
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AC Kerr
+    - 27.6:
+        non_striker: SFM Devine
+        bowler: OU Ranasinghe
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: AC Kerr
+    - 28.1:
+        non_striker: AC Kerr
+        bowler: AC Jayangani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SFM Devine
+    - 28.2:
+        non_striker: AC Kerr
+        bowler: AC Jayangani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SFM Devine
+    - 28.3:
+        non_striker: SFM Devine
+        bowler: AC Jayangani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Kerr
+    - 28.4:
+        non_striker: SFM Devine
+        bowler: AC Jayangani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Kerr
+    - 28.5:
+        non_striker: AC Kerr
+        bowler: AC Jayangani
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          byes: 4
+        batsman: SFM Devine
+    - 28.6:
+        non_striker: AC Kerr
+        bowler: AC Jayangani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SFM Devine
+    - 29.1:
+        non_striker: SFM Devine
+        bowler: WK Dilhari
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Kerr
+    - 29.2:
+        non_striker: AC Kerr
+        bowler: WK Dilhari
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SFM Devine
+    - 29.3:
+        non_striker: SFM Devine
+        bowler: WK Dilhari
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Kerr
+    - 29.4:
+        non_striker: AC Kerr
+        bowler: WK Dilhari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SFM Devine
+    - 29.5:
+        non_striker: AC Kerr
+        bowler: WK Dilhari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SFM Devine
+    - 29.6:
+        non_striker: AC Kerr
+        bowler: WK Dilhari
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SFM Devine
+    - 30.1:
+        non_striker: AC Kerr
+        bowler: AC Jayangani
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SFM Devine
+    - 30.2:
+        non_striker: AC Kerr
+        bowler: AC Jayangani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SFM Devine
+    - 30.3:
+        non_striker: SFM Devine
+        bowler: AC Jayangani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Kerr
+    - 30.4:
+        non_striker: AC Kerr
+        bowler: AC Jayangani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SFM Devine
+    - 30.5:
+        non_striker: SFM Devine
+        bowler: AC Jayangani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Kerr
+    - 30.6:
+        non_striker: AC Kerr
+        bowler: AC Jayangani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SFM Devine
+    - 31.1:
+        non_striker: SFM Devine
+        bowler: OU Ranasinghe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Kerr
+    - 31.2:
+        non_striker: AC Kerr
+        bowler: OU Ranasinghe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SFM Devine
+    - 31.3:
+        non_striker: AC Kerr
+        bowler: OU Ranasinghe
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: SFM Devine
+    - 31.4:
+        non_striker: AC Kerr
+        bowler: OU Ranasinghe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SFM Devine
+    - 31.5:
+        non_striker: AC Kerr
+        bowler: OU Ranasinghe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SFM Devine
+    - 31.6:
+        non_striker: SFM Devine
+        bowler: OU Ranasinghe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Kerr
+    - 31.7:
+        non_striker: AC Kerr
+        bowler: OU Ranasinghe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SFM Devine
+    - 32.1:
+        non_striker: AC Kerr
+        bowler: KDU Prabodhani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SFM Devine
+    - 32.2:
+        non_striker: SFM Devine
+        bowler: KDU Prabodhani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Kerr
+    - 32.3:
+        non_striker: SFM Devine
+        bowler: KDU Prabodhani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Kerr
+    - 32.4:
+        non_striker: AC Kerr
+        bowler: KDU Prabodhani
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SFM Devine
+    - 32.5:
+        non_striker: AC Kerr
+        bowler: KDU Prabodhani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SFM Devine
+    - 32.6:
+        non_striker: AC Kerr
+        bowler: KDU Prabodhani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SFM Devine
+    - 33.1:
+        non_striker: AC Kerr
+        bowler: OU Ranasinghe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SFM Devine
+    - 33.2:
+        non_striker: SFM Devine
+        bowler: OU Ranasinghe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Kerr
+    - 33.3:
+        non_striker: AC Kerr
+        bowler: OU Ranasinghe
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SFM Devine
+    - 33.4:
+        non_striker: AC Kerr
+        bowler: OU Ranasinghe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SFM Devine
+    - 33.5:
+        non_striker: SFM Devine
+        bowler: OU Ranasinghe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Kerr
+    - 33.6:
+        non_striker: AC Kerr
+        bowler: OU Ranasinghe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SFM Devine
+    - 34.1:
+        non_striker: AC Kerr
+        bowler: I Ranaweera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SFM Devine
+    - 34.2:
+        non_striker: AC Kerr
+        bowler: I Ranaweera
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SFM Devine
+    - 34.3:
+        non_striker: SFM Devine
+        bowler: I Ranaweera
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Kerr
+    - 34.4:
+        non_striker: AC Kerr
+        bowler: I Ranaweera
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SFM Devine
+    - 34.5:
+        non_striker: SFM Devine
+        bowler: I Ranaweera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Kerr
+    - 34.6:
+        non_striker: SFM Devine
+        bowler: I Ranaweera
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AC Kerr
+    - 35.1:
+        non_striker: AC Kerr
+        bowler: WK Dilhari
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SFM Devine
+    - 35.2:
+        non_striker: SFM Devine
+        bowler: WK Dilhari
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AC Kerr
+    - 35.3:
+        non_striker: SFM Devine
+        bowler: WK Dilhari
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Kerr
+    - 35.4:
+        non_striker: AC Kerr
+        bowler: WK Dilhari
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SFM Devine
+    - 35.5:
+        non_striker: SFM Devine
+        bowler: WK Dilhari
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Kerr
+    - 35.6:
+        non_striker: AC Kerr
+        bowler: WK Dilhari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SFM Devine
+    - 36.1:
+        non_striker: SFM Devine
+        bowler: BMSM Kumari
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Kerr
+    - 36.2:
+        non_striker: AC Kerr
+        bowler: BMSM Kumari
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SFM Devine
+    - 36.3:
+        non_striker: SFM Devine
+        bowler: BMSM Kumari
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Kerr
+    - 36.4:
+        non_striker: AC Kerr
+        bowler: BMSM Kumari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SFM Devine
+    - 36.5:
+        non_striker: AC Kerr
+        bowler: BMSM Kumari
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SFM Devine
+    - 36.6:
+        non_striker: SFM Devine
+        bowler: BMSM Kumari
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Kerr
+    - 37.1:
+        non_striker: SFM Devine
+        bowler: WK Dilhari
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Kerr
+    - 37.2:
+        non_striker: AC Kerr
+        bowler: WK Dilhari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SFM Devine
+    - 37.3:
+        non_striker: AC Kerr
+        bowler: WK Dilhari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SFM Devine
+    - 37.4:
+        non_striker: AC Kerr
+        bowler: WK Dilhari
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SFM Devine
+    - 37.5:
+        non_striker: AC Kerr
+        bowler: WK Dilhari
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SFM Devine
+    - 37.6:
+        non_striker: AC Kerr
+        bowler: WK Dilhari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SFM Devine
+    - 38.1:
+        non_striker: SFM Devine
+        bowler: BMSM Kumari
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Kerr
+    - 38.2:
+        non_striker: AC Kerr
+        bowler: BMSM Kumari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SFM Devine
+    - 38.3:
+        non_striker: AC Kerr
+        bowler: BMSM Kumari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SFM Devine
+    - 38.4:
+        non_striker: AC Kerr
+        bowler: BMSM Kumari
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SFM Devine
+    - 38.5:
+        non_striker: SFM Devine
+        bowler: BMSM Kumari
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Kerr
+    - 38.6:
+        non_striker: AC Kerr
+        bowler: BMSM Kumari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SFM Devine
+    - 39.1:
+        non_striker: SFM Devine
+        bowler: WK Dilhari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Kerr
+    - 39.2:
+        non_striker: SFM Devine
+        bowler: WK Dilhari
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Kerr
+    - 39.3:
+        non_striker: AC Kerr
+        bowler: WK Dilhari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SFM Devine
+    - 39.4:
+        non_striker: AC Kerr
+        bowler: WK Dilhari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SFM Devine
+    - 39.5:
+        non_striker: AC Kerr
+        bowler: WK Dilhari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SFM Devine
+    - 39.6:
+        non_striker: AC Kerr
+        bowler: WK Dilhari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SFM Devine
+    - 40.1:
+        non_striker: SFM Devine
+        bowler: BMSM Kumari
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Kerr
+    - 40.2:
+        non_striker: AC Kerr
+        bowler: BMSM Kumari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SFM Devine
+    - 40.3:
+        non_striker: AC Kerr
+        bowler: BMSM Kumari
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SFM Devine
+    - 40.4:
+        non_striker: AC Kerr
+        bowler: BMSM Kumari
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SFM Devine
+    - 40.5:
+        non_striker: SFM Devine
+        bowler: BMSM Kumari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Kerr
+    - 40.6:
+        non_striker: SFM Devine
+        bowler: BMSM Kumari
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Kerr
+    - 41.1:
+        non_striker: SFM Devine
+        bowler: WK Dilhari
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AC Kerr
+    - 41.2:
+        non_striker: SFM Devine
+        bowler: WK Dilhari
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Kerr
+    - 41.3:
+        non_striker: AC Kerr
+        bowler: WK Dilhari
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SFM Devine
+    - 41.4:
+        non_striker: AC Kerr
+        bowler: WK Dilhari
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SFM Devine
+    - 41.5:
+        non_striker: AC Kerr
+        bowler: WK Dilhari
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SFM Devine
+    - 41.6:
+        non_striker: SFM Devine
+        bowler: WK Dilhari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Kerr
+    - 42.1:
+        non_striker: AC Kerr
+        bowler: BMSM Kumari
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SFM Devine
+    - 42.2:
+        non_striker: SFM Devine
+        bowler: BMSM Kumari
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Kerr
+    - 42.3:
+        non_striker: AC Kerr
+        bowler: BMSM Kumari
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: SFM Devine
+    - 42.4:
+        non_striker: AC Kerr
+        bowler: BMSM Kumari
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SFM Devine
+    - 42.5:
+        non_striker: AC Kerr
+        bowler: BMSM Kumari
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SFM Devine
+    - 42.6:
+        non_striker: AC Kerr
+        bowler: BMSM Kumari
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: SFM Devine
+    - 43.1:
+        non_striker: SFM Devine
+        bowler: OU Ranasinghe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Kerr
+        wicket:
+          player_out: AC Kerr
+          fielders:
+          - WK Dilhari
+          kind: caught
+    - 43.2:
+        non_striker: SFM Devine
+        bowler: OU Ranasinghe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ML Green
+    - 43.3:
+        non_striker: ML Green
+        bowler: OU Ranasinghe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SFM Devine
+    - 43.4:
+        non_striker: SFM Devine
+        bowler: OU Ranasinghe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ML Green
+    - 43.5:
+        non_striker: SFM Devine
+        bowler: OU Ranasinghe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ML Green
+    - 43.6:
+        non_striker: ML Green
+        bowler: OU Ranasinghe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SFM Devine
+    - 44.1:
+        non_striker: ML Green
+        bowler: KDU Prabodhani
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SFM Devine
+    - 44.2:
+        non_striker: ML Green
+        bowler: KDU Prabodhani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SFM Devine
+        wicket:
+          player_out: SFM Devine
+          fielders:
+          - NND de Silva
+          kind: caught
+    - 44.3:
+        non_striker: ML Green
+        bowler: KDU Prabodhani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GE Plimmer
+    - 44.4:
+        non_striker: GE Plimmer
+        bowler: KDU Prabodhani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ML Green
+    - 44.5:
+        non_striker: GE Plimmer
+        bowler: KDU Prabodhani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ML Green
+    - 44.6:
+        non_striker: GE Plimmer
+        bowler: KDU Prabodhani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ML Green
+    - 45.1:
+        non_striker: GE Plimmer
+        bowler: OU Ranasinghe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ML Green
+    - 45.2:
+        non_striker: ML Green
+        bowler: OU Ranasinghe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GE Plimmer
+    - 45.3:
+        non_striker: GE Plimmer
+        bowler: OU Ranasinghe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ML Green
+    - 45.4:
+        non_striker: ML Green
+        bowler: OU Ranasinghe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GE Plimmer
+    - 45.5:
+        non_striker: GE Plimmer
+        bowler: OU Ranasinghe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ML Green
+    - 45.6:
+        non_striker: GE Plimmer
+        bowler: OU Ranasinghe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ML Green
+        wicket:
+          player_out: ML Green
+          fielders:
+          - WK Dilhari
+          kind: caught
+    - 46.1:
+        non_striker: BM Halliday
+        bowler: KDU Prabodhani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GE Plimmer
+    - 46.2:
+        non_striker: GE Plimmer
+        bowler: KDU Prabodhani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BM Halliday
+    - 46.3:
+        non_striker: GE Plimmer
+        bowler: KDU Prabodhani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BM Halliday
+    - 46.4:
+        non_striker: GE Plimmer
+        bowler: KDU Prabodhani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BM Halliday
+    - 46.5:
+        non_striker: BM Halliday
+        bowler: KDU Prabodhani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GE Plimmer
+    - 46.6:
+        non_striker: GE Plimmer
+        bowler: KDU Prabodhani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BM Halliday
+    - 47.1:
+        non_striker: GE Plimmer
+        bowler: BMSM Kumari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BM Halliday
+    - 47.2:
+        non_striker: GE Plimmer
+        bowler: BMSM Kumari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BM Halliday
+        wicket:
+          player_out: BM Halliday
+          kind: bowled
+    - 47.3:
+        non_striker: GE Plimmer
+        bowler: BMSM Kumari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HM Rowe
+    - 47.4:
+        non_striker: GE Plimmer
+        bowler: BMSM Kumari
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HM Rowe
+    - 47.5:
+        non_striker: GE Plimmer
+        bowler: BMSM Kumari
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HM Rowe
+    - 47.6:
+        non_striker: HM Rowe
+        bowler: BMSM Kumari
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GE Plimmer
+    - 48.1:
+        non_striker: HM Rowe
+        bowler: KDU Prabodhani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GE Plimmer
+    - 48.2:
+        non_striker: HM Rowe
+        bowler: KDU Prabodhani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GE Plimmer
+    - 48.3:
+        non_striker: GE Plimmer
+        bowler: KDU Prabodhani
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HM Rowe
+    - 48.4:
+        non_striker: GE Plimmer
+        bowler: KDU Prabodhani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HM Rowe
+    - 48.5:
+        non_striker: GE Plimmer
+        bowler: KDU Prabodhani
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: HM Rowe
+    - 48.6:
+        non_striker: GE Plimmer
+        bowler: KDU Prabodhani
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: HM Rowe
+    - 48.7:
+        non_striker: HM Rowe
+        bowler: KDU Prabodhani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GE Plimmer
+    - 49.1:
+        non_striker: HM Rowe
+        bowler: I Ranaweera
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GE Plimmer
+    - 49.2:
+        non_striker: GE Plimmer
+        bowler: I Ranaweera
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HM Rowe
+    - 49.3:
+        non_striker: HM Rowe
+        bowler: I Ranaweera
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GE Plimmer
+    - 49.4:
+        non_striker: GE Plimmer
+        bowler: I Ranaweera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HM Rowe
+        wicket:
+          player_out: HM Rowe
+          fielders:
+          - MAA Sanjeewani
+          kind: caught
+    - 49.5:
+        non_striker: GE Plimmer
+        bowler: I Ranaweera
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: LMM Tahuhu
+    - 49.6:
+        non_striker: GE Plimmer
+        bowler: I Ranaweera
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: LMM Tahuhu
+- 2nd innings:
+    team: Sri Lanka
+    penalty_runs:
+      pre: 5
+    deliveries:
+    - 0.1:
+        non_striker: H Madavi
+        bowler: HM Rowe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RMVD Gunaratne
+    - 0.2:
+        non_striker: H Madavi
+        bowler: HM Rowe
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: RMVD Gunaratne
+    - 0.3:
+        non_striker: H Madavi
+        bowler: HM Rowe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RMVD Gunaratne
+    - 0.4:
+        non_striker: H Madavi
+        bowler: HM Rowe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RMVD Gunaratne
+    - 0.5:
+        non_striker: RMVD Gunaratne
+        bowler: HM Rowe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Madavi
+    - 0.6:
+        non_striker: RMVD Gunaratne
+        bowler: HM Rowe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Madavi
+    - 0.7:
+        non_striker: RMVD Gunaratne
+        bowler: HM Rowe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Madavi
+    - 1.1:
+        non_striker: H Madavi
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RMVD Gunaratne
+    - 1.2:
+        non_striker: RMVD Gunaratne
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Madavi
+    - 1.3:
+        non_striker: RMVD Gunaratne
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Madavi
+    - 1.4:
+        non_striker: RMVD Gunaratne
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Madavi
+    - 1.5:
+        non_striker: H Madavi
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RMVD Gunaratne
+    - 1.6:
+        non_striker: H Madavi
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RMVD Gunaratne
+    - 2.1:
+        non_striker: H Madavi
+        bowler: HM Rowe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RMVD Gunaratne
+    - 2.2:
+        non_striker: H Madavi
+        bowler: HM Rowe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RMVD Gunaratne
+    - 2.3:
+        non_striker: H Madavi
+        bowler: HM Rowe
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RMVD Gunaratne
+    - 2.4:
+        non_striker: H Madavi
+        bowler: HM Rowe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RMVD Gunaratne
+    - 2.5:
+        non_striker: H Madavi
+        bowler: HM Rowe
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RMVD Gunaratne
+    - 2.6:
+        non_striker: H Madavi
+        bowler: HM Rowe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RMVD Gunaratne
+    - 3.1:
+        non_striker: RMVD Gunaratne
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Madavi
+    - 3.2:
+        non_striker: H Madavi
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RMVD Gunaratne
+    - 3.3:
+        non_striker: RMVD Gunaratne
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: H Madavi
+    - 3.4:
+        non_striker: RMVD Gunaratne
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Madavi
+    - 3.5:
+        non_striker: H Madavi
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RMVD Gunaratne
+    - 3.6:
+        non_striker: H Madavi
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RMVD Gunaratne
+    - 4.1:
+        non_striker: RMVD Gunaratne
+        bowler: HM Rowe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Madavi
+    - 4.2:
+        non_striker: RMVD Gunaratne
+        bowler: HM Rowe
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: H Madavi
+    - 4.3:
+        non_striker: RMVD Gunaratne
+        bowler: HM Rowe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Madavi
+    - 4.4:
+        non_striker: RMVD Gunaratne
+        bowler: HM Rowe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Madavi
+    - 4.5:
+        non_striker: RMVD Gunaratne
+        bowler: HM Rowe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Madavi
+    - 4.6:
+        non_striker: RMVD Gunaratne
+        bowler: HM Rowe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Madavi
+    - 4.7:
+        non_striker: RMVD Gunaratne
+        bowler: HM Rowe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Madavi
+    - 5.1:
+        non_striker: H Madavi
+        bowler: LMM Tahuhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RMVD Gunaratne
+        wicket:
+          player_out: RMVD Gunaratne
+          fielders:
+          - ML Green
+          kind: caught
+    - 5.2:
+        non_striker: H Madavi
+        bowler: LMM Tahuhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Jayangani
+        wicket:
+          player_out: AC Jayangani
+          fielders:
+          - HM Rowe
+          kind: caught
+    - 5.3:
+        non_striker: H Madavi
+        bowler: LMM Tahuhu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NND de Silva
+    - 5.4:
+        non_striker: NND de Silva
+        bowler: LMM Tahuhu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Madavi
+    - 5.5:
+        non_striker: H Madavi
+        bowler: LMM Tahuhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NND de Silva
+    - 5.6:
+        non_striker: H Madavi
+        bowler: LMM Tahuhu
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: NND de Silva
+    - 6.1:
+        non_striker: NND de Silva
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Madavi
+    - 6.2:
+        non_striker: H Madavi
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NND de Silva
+    - 6.3:
+        non_striker: NND de Silva
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Madavi
+    - 6.4:
+        non_striker: NND de Silva
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Madavi
+    - 6.5:
+        non_striker: NND de Silva
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Madavi
+    - 6.6:
+        non_striker: NND de Silva
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Madavi
+        wicket:
+          player_out: H Madavi
+          fielders:
+          - ML Green
+          kind: caught
+    - 7.1:
+        non_striker: MAA Sanjeewani
+        bowler: LMM Tahuhu
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: NND de Silva
+    - 7.2:
+        non_striker: MAA Sanjeewani
+        bowler: LMM Tahuhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NND de Silva
+    - 7.3:
+        non_striker: MAA Sanjeewani
+        bowler: LMM Tahuhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NND de Silva
+        wicket:
+          player_out: NND de Silva
+          fielders:
+          - AC Kerr
+          kind: caught
+    - 7.4:
+        non_striker: MAA Sanjeewani
+        bowler: LMM Tahuhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WK Dilhari
+    - 7.5:
+        non_striker: MAA Sanjeewani
+        bowler: LMM Tahuhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WK Dilhari
+    - 7.6:
+        non_striker: MAA Sanjeewani
+        bowler: LMM Tahuhu
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: WK Dilhari
+    - 7.7:
+        non_striker: MAA Sanjeewani
+        bowler: LMM Tahuhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WK Dilhari
+    - 7.8:
+        non_striker: MAA Sanjeewani
+        bowler: LMM Tahuhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WK Dilhari
+    - 8.1:
+        non_striker: WK Dilhari
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MAA Sanjeewani
+    - 8.2:
+        non_striker: MAA Sanjeewani
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WK Dilhari
+    - 8.3:
+        non_striker: MAA Sanjeewani
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WK Dilhari
+    - 8.4:
+        non_striker: MAA Sanjeewani
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: WK Dilhari
+    - 8.5:
+        non_striker: MAA Sanjeewani
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WK Dilhari
+    - 8.6:
+        non_striker: MAA Sanjeewani
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WK Dilhari
+    - 9.1:
+        non_striker: WK Dilhari
+        bowler: LMM Tahuhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MAA Sanjeewani
+    - 9.2:
+        non_striker: WK Dilhari
+        bowler: LMM Tahuhu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MAA Sanjeewani
+    - 9.3:
+        non_striker: MAA Sanjeewani
+        bowler: LMM Tahuhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WK Dilhari
+    - 9.4:
+        non_striker: MAA Sanjeewani
+        bowler: LMM Tahuhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WK Dilhari
+    - 9.5:
+        non_striker: MAA Sanjeewani
+        bowler: LMM Tahuhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WK Dilhari
+    - 9.6:
+        non_striker: MAA Sanjeewani
+        bowler: LMM Tahuhu
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: WK Dilhari
+    - 9.7:
+        non_striker: MAA Sanjeewani
+        bowler: LMM Tahuhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WK Dilhari
+    - 10.1:
+        non_striker: WK Dilhari
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MAA Sanjeewani
+    - 10.2:
+        non_striker: WK Dilhari
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MAA Sanjeewani
+    - 10.3:
+        non_striker: WK Dilhari
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MAA Sanjeewani
+    - 10.4:
+        non_striker: WK Dilhari
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: MAA Sanjeewani
+    - 10.5:
+        non_striker: MAA Sanjeewani
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: WK Dilhari
+    - 10.6:
+        non_striker: MAA Sanjeewani
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WK Dilhari
+    - 11.1:
+        non_striker: WK Dilhari
+        bowler: FC Jonas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MAA Sanjeewani
+    - 11.2:
+        non_striker: WK Dilhari
+        bowler: FC Jonas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MAA Sanjeewani
+    - 11.3:
+        non_striker: WK Dilhari
+        bowler: FC Jonas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MAA Sanjeewani
+    - 11.4:
+        non_striker: MAA Sanjeewani
+        bowler: FC Jonas
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: WK Dilhari
+    - 11.5:
+        non_striker: MAA Sanjeewani
+        bowler: FC Jonas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WK Dilhari
+    - 11.6:
+        non_striker: MAA Sanjeewani
+        bowler: FC Jonas
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: WK Dilhari
+    - 12.1:
+        non_striker: WK Dilhari
+        bowler: HM Rowe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MAA Sanjeewani
+    - 12.2:
+        non_striker: WK Dilhari
+        bowler: HM Rowe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MAA Sanjeewani
+    - 12.3:
+        non_striker: MAA Sanjeewani
+        bowler: HM Rowe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WK Dilhari
+    - 12.4:
+        non_striker: WK Dilhari
+        bowler: HM Rowe
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MAA Sanjeewani
+    - 12.5:
+        non_striker: WK Dilhari
+        bowler: HM Rowe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MAA Sanjeewani
+        wicket:
+          player_out: MAA Sanjeewani
+          fielders:
+          - B Bezuidenhout
+          kind: caught
+    - 12.6:
+        non_striker: WK Dilhari
+        bowler: HM Rowe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: OU Ranasinghe
+    - 13.1:
+        non_striker: OU Ranasinghe
+        bowler: FC Jonas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WK Dilhari
+    - 13.2:
+        non_striker: WK Dilhari
+        bowler: FC Jonas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: OU Ranasinghe
+    - 13.3:
+        non_striker: OU Ranasinghe
+        bowler: FC Jonas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WK Dilhari
+    - 13.4:
+        non_striker: OU Ranasinghe
+        bowler: FC Jonas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WK Dilhari
+    - 13.5:
+        non_striker: WK Dilhari
+        bowler: FC Jonas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: OU Ranasinghe
+    - 13.6:
+        non_striker: OU Ranasinghe
+        bowler: FC Jonas
+        runs:
+          extras: 1
+          total: 5
+          batsman: 4
+        extras:
+          noballs: 1
+        batsman: WK Dilhari
+    - 13.7:
+        non_striker: OU Ranasinghe
+        bowler: FC Jonas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WK Dilhari
+    - 14.1:
+        non_striker: OU Ranasinghe
+        bowler: HM Rowe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WK Dilhari
+    - 14.2:
+        non_striker: WK Dilhari
+        bowler: HM Rowe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: OU Ranasinghe
+    - 14.3:
+        non_striker: WK Dilhari
+        bowler: HM Rowe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: OU Ranasinghe
+    - 14.4:
+        non_striker: OU Ranasinghe
+        bowler: HM Rowe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WK Dilhari
+    - 14.5:
+        non_striker: WK Dilhari
+        bowler: HM Rowe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: OU Ranasinghe
+    - 14.6:
+        non_striker: WK Dilhari
+        bowler: HM Rowe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: OU Ranasinghe
+    - 15.1:
+        non_striker: OU Ranasinghe
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WK Dilhari
+    - 15.2:
+        non_striker: WK Dilhari
+        bowler: AC Kerr
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: OU Ranasinghe
+    - 15.3:
+        non_striker: OU Ranasinghe
+        bowler: AC Kerr
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          legbyes: 4
+        batsman: WK Dilhari
+    - 15.4:
+        non_striker: OU Ranasinghe
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WK Dilhari
+    - 15.5:
+        non_striker: OU Ranasinghe
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WK Dilhari
+    - 15.6:
+        non_striker: OU Ranasinghe
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WK Dilhari
+    - 15.7:
+        non_striker: OU Ranasinghe
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WK Dilhari
+    - 16.1:
+        non_striker: WK Dilhari
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: OU Ranasinghe
+    - 16.2:
+        non_striker: OU Ranasinghe
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: WK Dilhari
+    - 16.3:
+        non_striker: OU Ranasinghe
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WK Dilhari
+    - 16.4:
+        non_striker: OU Ranasinghe
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WK Dilhari
+    - 16.5:
+        non_striker: WK Dilhari
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: OU Ranasinghe
+    - 16.6:
+        non_striker: WK Dilhari
+        bowler: EJ Carson
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: OU Ranasinghe
+    - 16.7:
+        non_striker: OU Ranasinghe
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WK Dilhari
+    - 17.1:
+        non_striker: OU Ranasinghe
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WK Dilhari
+    - 17.2:
+        non_striker: OU Ranasinghe
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WK Dilhari
+    - 17.3:
+        non_striker: OU Ranasinghe
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WK Dilhari
+    - 17.4:
+        non_striker: WK Dilhari
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: OU Ranasinghe
+    - 17.5:
+        non_striker: OU Ranasinghe
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WK Dilhari
+    - 17.6:
+        non_striker: OU Ranasinghe
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WK Dilhari
+    - 18.1:
+        non_striker: WK Dilhari
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: OU Ranasinghe
+    - 18.2:
+        non_striker: WK Dilhari
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: OU Ranasinghe
+    - 18.3:
+        non_striker: OU Ranasinghe
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WK Dilhari
+    - 18.4:
+        non_striker: OU Ranasinghe
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WK Dilhari
+    - 18.5:
+        non_striker: OU Ranasinghe
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WK Dilhari
+    - 18.6:
+        non_striker: OU Ranasinghe
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WK Dilhari
+    - 19.1:
+        non_striker: WK Dilhari
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: OU Ranasinghe
+    - 19.2:
+        non_striker: WK Dilhari
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: OU Ranasinghe
+        wicket:
+          player_out: OU Ranasinghe
+          kind: caught and bowled
+    - 19.3:
+        non_striker: WK Dilhari
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Kavindi
+    - 19.4:
+        non_striker: WK Dilhari
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Kavindi
+    - 19.5:
+        non_striker: WK Dilhari
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Kavindi
+    - 19.6:
+        non_striker: WK Dilhari
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Kavindi
+    - 20.1:
+        non_striker: K Kavindi
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: WK Dilhari
+    - 20.2:
+        non_striker: K Kavindi
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WK Dilhari
+    - 20.3:
+        non_striker: K Kavindi
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WK Dilhari
+    - 20.4:
+        non_striker: K Kavindi
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WK Dilhari
+    - 20.5:
+        non_striker: K Kavindi
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WK Dilhari
+    - 20.6:
+        non_striker: K Kavindi
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WK Dilhari
+    - 21.1:
+        non_striker: WK Dilhari
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Kavindi
+    - 21.2:
+        non_striker: K Kavindi
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WK Dilhari
+    - 21.3:
+        non_striker: WK Dilhari
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Kavindi
+    - 21.4:
+        non_striker: WK Dilhari
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Kavindi
+    - 21.5:
+        non_striker: WK Dilhari
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Kavindi
+    - 21.6:
+        non_striker: WK Dilhari
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Kavindi
+    - 22.1:
+        non_striker: WK Dilhari
+        bowler: EJ Carson
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: K Kavindi
+    - 22.2:
+        non_striker: WK Dilhari
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Kavindi
+    - 22.3:
+        non_striker: WK Dilhari
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Kavindi
+    - 22.4:
+        non_striker: K Kavindi
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: WK Dilhari
+    - 22.5:
+        non_striker: K Kavindi
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WK Dilhari
+    - 22.6:
+        non_striker: K Kavindi
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WK Dilhari
+    - 22.7:
+        non_striker: WK Dilhari
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Kavindi
+    - 23.1:
+        non_striker: WK Dilhari
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Kavindi
+    - 23.2:
+        non_striker: WK Dilhari
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: K Kavindi
+    - 23.3:
+        non_striker: WK Dilhari
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Kavindi
+    - 23.4:
+        non_striker: WK Dilhari
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Kavindi
+    - 23.5:
+        non_striker: WK Dilhari
+        bowler: AC Kerr
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: K Kavindi
+    - 23.6:
+        non_striker: WK Dilhari
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Kavindi
+    - 23.7:
+        non_striker: WK Dilhari
+        bowler: AC Kerr
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: K Kavindi
+    - 23.8:
+        non_striker: WK Dilhari
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Kavindi
+    - 24.1:
+        non_striker: WK Dilhari
+        bowler: BM Halliday
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Kavindi
+    - 24.2:
+        non_striker: WK Dilhari
+        bowler: BM Halliday
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Kavindi
+    - 24.3:
+        non_striker: WK Dilhari
+        bowler: BM Halliday
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: K Kavindi
+    - 24.4:
+        non_striker: WK Dilhari
+        bowler: BM Halliday
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Kavindi
+    - 24.5:
+        non_striker: WK Dilhari
+        bowler: BM Halliday
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Kavindi
+    - 24.6:
+        non_striker: WK Dilhari
+        bowler: BM Halliday
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Kavindi
+    - 24.7:
+        non_striker: WK Dilhari
+        bowler: BM Halliday
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: K Kavindi
+    - 25.1:
+        non_striker: K Kavindi
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WK Dilhari
+    - 25.2:
+        non_striker: K Kavindi
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WK Dilhari
+    - 25.3:
+        non_striker: K Kavindi
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WK Dilhari
+    - 25.4:
+        non_striker: K Kavindi
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WK Dilhari
+    - 25.5:
+        non_striker: WK Dilhari
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Kavindi
+    - 25.6:
+        non_striker: WK Dilhari
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Kavindi
+    - 26.1:
+        non_striker: K Kavindi
+        bowler: BM Halliday
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: WK Dilhari
+    - 26.2:
+        non_striker: K Kavindi
+        bowler: BM Halliday
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WK Dilhari
+    - 26.3:
+        non_striker: WK Dilhari
+        bowler: BM Halliday
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Kavindi
+    - 26.4:
+        non_striker: K Kavindi
+        bowler: BM Halliday
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WK Dilhari
+    - 26.5:
+        non_striker: WK Dilhari
+        bowler: BM Halliday
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: K Kavindi
+    - 26.6:
+        non_striker: WK Dilhari
+        bowler: BM Halliday
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Kavindi
+    - 27.1:
+        non_striker: WK Dilhari
+        bowler: LMM Tahuhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Kavindi
+    - 27.2:
+        non_striker: WK Dilhari
+        bowler: LMM Tahuhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Kavindi
+        wicket:
+          player_out: K Kavindi
+          kind: bowled
+    - 27.3:
+        non_striker: WK Dilhari
+        bowler: LMM Tahuhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BMSM Kumari
+    - 27.4:
+        non_striker: WK Dilhari
+        bowler: LMM Tahuhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BMSM Kumari
+    - 27.5:
+        non_striker: WK Dilhari
+        bowler: LMM Tahuhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BMSM Kumari
+    - 27.6:
+        non_striker: WK Dilhari
+        bowler: LMM Tahuhu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BMSM Kumari
+    - 28.1:
+        non_striker: WK Dilhari
+        bowler: BM Halliday
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: BMSM Kumari
+    - 28.2:
+        non_striker: BMSM Kumari
+        bowler: BM Halliday
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: WK Dilhari
+    - 28.3:
+        non_striker: BMSM Kumari
+        bowler: BM Halliday
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WK Dilhari
+    - 28.4:
+        non_striker: WK Dilhari
+        bowler: BM Halliday
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BMSM Kumari
+    - 28.5:
+        non_striker: BMSM Kumari
+        bowler: BM Halliday
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WK Dilhari
+    - 28.6:
+        non_striker: WK Dilhari
+        bowler: BM Halliday
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BMSM Kumari
+    - 28.7:
+        non_striker: WK Dilhari
+        bowler: BM Halliday
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BMSM Kumari
+    - 29.1:
+        non_striker: WK Dilhari
+        bowler: LMM Tahuhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BMSM Kumari
+    - 29.2:
+        non_striker: WK Dilhari
+        bowler: LMM Tahuhu
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: BMSM Kumari
+    - 29.3:
+        non_striker: BMSM Kumari
+        bowler: LMM Tahuhu
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: WK Dilhari
+    - 29.4:
+        non_striker: BMSM Kumari
+        bowler: LMM Tahuhu
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: WK Dilhari
+    - 29.5:
+        non_striker: BMSM Kumari
+        bowler: LMM Tahuhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WK Dilhari
+    - 29.6:
+        non_striker: BMSM Kumari
+        bowler: LMM Tahuhu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WK Dilhari
+    - 29.7:
+        non_striker: WK Dilhari
+        bowler: LMM Tahuhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BMSM Kumari
+    - 30.1:
+        non_striker: BMSM Kumari
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WK Dilhari
+    - 30.2:
+        non_striker: BMSM Kumari
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WK Dilhari
+    - 30.3:
+        non_striker: WK Dilhari
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BMSM Kumari
+    - 30.4:
+        non_striker: WK Dilhari
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BMSM Kumari
+    - 30.5:
+        non_striker: BMSM Kumari
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WK Dilhari
+    - 30.6:
+        non_striker: BMSM Kumari
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: WK Dilhari
+    - 31.1:
+        non_striker: WK Dilhari
+        bowler: FC Jonas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BMSM Kumari
+    - 31.2:
+        non_striker: WK Dilhari
+        bowler: FC Jonas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BMSM Kumari
+    - 31.3:
+        non_striker: BMSM Kumari
+        bowler: FC Jonas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WK Dilhari
+    - 31.4:
+        non_striker: WK Dilhari
+        bowler: FC Jonas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BMSM Kumari
+    - 31.5:
+        non_striker: WK Dilhari
+        bowler: FC Jonas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BMSM Kumari
+    - 31.6:
+        non_striker: WK Dilhari
+        bowler: FC Jonas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BMSM Kumari
+    - 32.1:
+        non_striker: WK Dilhari
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BMSM Kumari
+    - 32.2:
+        non_striker: BMSM Kumari
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WK Dilhari
+    - 32.3:
+        non_striker: WK Dilhari
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BMSM Kumari
+    - 32.4:
+        non_striker: WK Dilhari
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BMSM Kumari
+    - 32.5:
+        non_striker: WK Dilhari
+        bowler: EJ Carson
+        runs:
+          extras: 3
+          total: 3
+          batsman: 0
+        extras:
+          wides: 3
+        batsman: BMSM Kumari
+    - 32.6:
+        non_striker: WK Dilhari
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BMSM Kumari
+    - 32.7:
+        non_striker: WK Dilhari
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BMSM Kumari
+    - 33.1:
+        non_striker: WK Dilhari
+        bowler: FC Jonas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BMSM Kumari
+    - 33.2:
+        non_striker: BMSM Kumari
+        bowler: FC Jonas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WK Dilhari
+    - 33.3:
+        non_striker: WK Dilhari
+        bowler: FC Jonas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BMSM Kumari
+    - 33.4:
+        non_striker: BMSM Kumari
+        bowler: FC Jonas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WK Dilhari
+    - 33.5:
+        non_striker: BMSM Kumari
+        bowler: FC Jonas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WK Dilhari
+    - 33.6:
+        non_striker: BMSM Kumari
+        bowler: FC Jonas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WK Dilhari
+    - 34.1:
+        non_striker: BMSM Kumari
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WK Dilhari
+    - 34.2:
+        non_striker: WK Dilhari
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BMSM Kumari
+        wicket:
+          player_out: BMSM Kumari
+          fielders:
+          - B Bezuidenhout
+          kind: caught
+    - 34.3:
+        non_striker: WK Dilhari
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KDU Prabodhani
+    - 34.4:
+        non_striker: WK Dilhari
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KDU Prabodhani
+    - 34.5:
+        non_striker: WK Dilhari
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KDU Prabodhani
+    - 34.6:
+        non_striker: WK Dilhari
+        bowler: SFM Devine
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: KDU Prabodhani
+    - 34.7:
+        non_striker: WK Dilhari
+        bowler: SFM Devine
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: KDU Prabodhani
+    - 34.8:
+        non_striker: WK Dilhari
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KDU Prabodhani
+    - 35.1:
+        non_striker: KDU Prabodhani
+        bowler: FC Jonas
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: WK Dilhari
+    - 35.2:
+        non_striker: KDU Prabodhani
+        bowler: FC Jonas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WK Dilhari
+    - 35.3:
+        non_striker: WK Dilhari
+        bowler: FC Jonas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KDU Prabodhani
+    - 35.4:
+        non_striker: WK Dilhari
+        bowler: FC Jonas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KDU Prabodhani
+    - 35.5:
+        non_striker: WK Dilhari
+        bowler: FC Jonas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KDU Prabodhani
+    - 35.6:
+        non_striker: WK Dilhari
+        bowler: FC Jonas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KDU Prabodhani
+    - 36.1:
+        non_striker: KDU Prabodhani
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WK Dilhari
+    - 36.2:
+        non_striker: WK Dilhari
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KDU Prabodhani
+    - 36.3:
+        non_striker: WK Dilhari
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KDU Prabodhani
+    - 36.4:
+        non_striker: WK Dilhari
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KDU Prabodhani
+    - 36.5:
+        non_striker: WK Dilhari
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KDU Prabodhani
+    - 36.6:
+        non_striker: WK Dilhari
+        bowler: SFM Devine
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: KDU Prabodhani
+    - 36.7:
+        non_striker: WK Dilhari
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KDU Prabodhani
+    - 37.1:
+        non_striker: KDU Prabodhani
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WK Dilhari
+    - 37.2:
+        non_striker: KDU Prabodhani
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WK Dilhari
+    - 37.3:
+        non_striker: WK Dilhari
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KDU Prabodhani
+    - 37.4:
+        non_striker: WK Dilhari
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KDU Prabodhani
+    - 37.5:
+        non_striker: KDU Prabodhani
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: WK Dilhari
+    - 37.6:
+        non_striker: KDU Prabodhani
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WK Dilhari
+    - 38.1:
+        non_striker: KDU Prabodhani
+        bowler: LMM Tahuhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WK Dilhari
+    - 38.2:
+        non_striker: KDU Prabodhani
+        bowler: LMM Tahuhu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WK Dilhari
+    - 38.3:
+        non_striker: WK Dilhari
+        bowler: LMM Tahuhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KDU Prabodhani
+    - 38.4:
+        non_striker: WK Dilhari
+        bowler: LMM Tahuhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KDU Prabodhani
+    - 38.5:
+        non_striker: WK Dilhari
+        bowler: LMM Tahuhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KDU Prabodhani
+    - 38.6:
+        non_striker: WK Dilhari
+        bowler: LMM Tahuhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KDU Prabodhani
+    - 39.1:
+        non_striker: KDU Prabodhani
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WK Dilhari
+    - 39.2:
+        non_striker: KDU Prabodhani
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WK Dilhari
+    - 39.3:
+        non_striker: WK Dilhari
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KDU Prabodhani
+    - 39.4:
+        non_striker: WK Dilhari
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KDU Prabodhani
+    - 39.5:
+        non_striker: WK Dilhari
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KDU Prabodhani
+    - 39.6:
+        non_striker: WK Dilhari
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KDU Prabodhani
+    - 40.1:
+        non_striker: KDU Prabodhani
+        bowler: LMM Tahuhu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WK Dilhari
+    - 40.2:
+        non_striker: WK Dilhari
+        bowler: LMM Tahuhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KDU Prabodhani
+    - 40.3:
+        non_striker: WK Dilhari
+        bowler: LMM Tahuhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KDU Prabodhani
+    - 40.4:
+        non_striker: WK Dilhari
+        bowler: LMM Tahuhu
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: KDU Prabodhani
+    - 40.5:
+        non_striker: WK Dilhari
+        bowler: LMM Tahuhu
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: KDU Prabodhani
+    - 40.6:
+        non_striker: KDU Prabodhani
+        bowler: LMM Tahuhu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WK Dilhari
+    - 40.7:
+        non_striker: WK Dilhari
+        bowler: LMM Tahuhu
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KDU Prabodhani
+    - 41.1:
+        non_striker: KDU Prabodhani
+        bowler: HM Rowe
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: WK Dilhari
+    - 41.2:
+        non_striker: KDU Prabodhani
+        bowler: HM Rowe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WK Dilhari
+    - 41.3:
+        non_striker: KDU Prabodhani
+        bowler: HM Rowe
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: WK Dilhari
+    - 41.4:
+        non_striker: KDU Prabodhani
+        bowler: HM Rowe
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: WK Dilhari
+    - 41.5:
+        non_striker: KDU Prabodhani
+        bowler: HM Rowe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WK Dilhari
+    - 41.6:
+        non_striker: WK Dilhari
+        bowler: HM Rowe
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: KDU Prabodhani
+    - 41.7:
+        non_striker: WK Dilhari
+        bowler: HM Rowe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KDU Prabodhani
+    - 41.8:
+        non_striker: KDU Prabodhani
+        bowler: HM Rowe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WK Dilhari
+    - 42.1:
+        non_striker: KDU Prabodhani
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WK Dilhari
+        wicket:
+          player_out: WK Dilhari
+          fielders:
+          - B Bezuidenhout
+          kind: caught
+    - 42.2:
+        non_striker: KDU Prabodhani
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Ranaweera
+    - 42.3:
+        non_striker: KDU Prabodhani
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Ranaweera
+    - 42.4:
+        non_striker: KDU Prabodhani
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Ranaweera
+    - 42.5:
+        non_striker: KDU Prabodhani
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Ranaweera
+    - 42.6:
+        non_striker: KDU Prabodhani
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Ranaweera
+    - 43.1:
+        non_striker: I Ranaweera
+        bowler: HM Rowe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KDU Prabodhani
+    - 43.2:
+        non_striker: I Ranaweera
+        bowler: HM Rowe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KDU Prabodhani
+    - 43.3:
+        non_striker: I Ranaweera
+        bowler: HM Rowe
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: KDU Prabodhani
+    - 43.4:
+        non_striker: I Ranaweera
+        bowler: HM Rowe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KDU Prabodhani
+    - 43.5:
+        non_striker: I Ranaweera
+        bowler: HM Rowe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KDU Prabodhani
+    - 43.6:
+        non_striker: KDU Prabodhani
+        bowler: HM Rowe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Ranaweera
+    - 43.7:
+        non_striker: KDU Prabodhani
+        bowler: HM Rowe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: I Ranaweera
+    - 44.1:
+        non_striker: KDU Prabodhani
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: I Ranaweera
+    - 44.2:
+        non_striker: I Ranaweera
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KDU Prabodhani
+    - 44.3:
+        non_striker: I Ranaweera
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KDU Prabodhani
+    - 44.4:
+        non_striker: I Ranaweera
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KDU Prabodhani
+    - 44.5:
+        non_striker: I Ranaweera
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KDU Prabodhani
+    - 44.6:
+        non_striker: I Ranaweera
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KDU Prabodhani
+    - 45.1:
+        non_striker: KDU Prabodhani
+        bowler: LMM Tahuhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Ranaweera
+    - 45.2:
+        non_striker: KDU Prabodhani
+        bowler: LMM Tahuhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Ranaweera
+    - 45.3:
+        non_striker: KDU Prabodhani
+        bowler: LMM Tahuhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Ranaweera
+    - 45.4:
+        non_striker: KDU Prabodhani
+        bowler: LMM Tahuhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Ranaweera
+    - 45.5:
+        non_striker: KDU Prabodhani
+        bowler: LMM Tahuhu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: I Ranaweera
+    - 45.6:
+        non_striker: I Ranaweera
+        bowler: LMM Tahuhu
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: KDU Prabodhani
+    - 46.1:
+        non_striker: KDU Prabodhani
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Ranaweera
+    - 46.2:
+        non_striker: KDU Prabodhani
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Ranaweera
+    - 46.3:
+        non_striker: KDU Prabodhani
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Ranaweera
+    - 46.4:
+        non_striker: KDU Prabodhani
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: I Ranaweera
+    - 46.5:
+        non_striker: I Ranaweera
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KDU Prabodhani
+    - 46.6:
+        non_striker: I Ranaweera
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KDU Prabodhani
+    - 47.1:
+        non_striker: KDU Prabodhani
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Ranaweera
+    - 47.2:
+        non_striker: KDU Prabodhani
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Ranaweera
+    - 47.3:
+        non_striker: KDU Prabodhani
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: I Ranaweera
+    - 47.4:
+        non_striker: I Ranaweera
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KDU Prabodhani
+    - 47.5:
+        non_striker: I Ranaweera
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KDU Prabodhani
+    - 47.6:
+        non_striker: I Ranaweera
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KDU Prabodhani
+    - 48.1:
+        non_striker: KDU Prabodhani
+        bowler: FC Jonas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Ranaweera
+    - 48.2:
+        non_striker: KDU Prabodhani
+        bowler: FC Jonas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Ranaweera
+    - 48.3:
+        non_striker: KDU Prabodhani
+        bowler: FC Jonas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Ranaweera
+    - 48.4:
+        non_striker: KDU Prabodhani
+        bowler: FC Jonas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Ranaweera
+        wicket:
+          player_out: I Ranaweera
+          fielders:
+          - EJ Carson
+          kind: caught

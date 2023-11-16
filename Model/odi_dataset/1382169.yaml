@@ -1,0 +1,4406 @@
+---
+meta:
+  data_version: 0.92
+  created: '2023-09-13'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Karachi
+  dates:
+  - '2023-09-08'
+  gender: female
+  match_type: ODI
+  match_type_number: 1333
+  outcome:
+    winner: South Africa
+    by:
+      runs: 127
+  overs: 50
+  player_of_match:
+  - M Kapp
+  players:
+    South Africa:
+    - L Wolvaardt
+    - T Brits
+    - L Goodall
+    - S Luus
+    - M Kapp
+    - N de Klerk
+    - D Tucker
+    - S Jafta
+    - A Khaka
+    - M Klaas
+    - N Mlaba
+    Pakistan:
+    - Shawaal Zulfiqar
+    - Sidra Ameen
+    - Bismah Maroof
+    - Muneeba Ali
+    - Nida Dar
+    - Aliya Riaz
+    - Sidra Nawaz
+    - Umm-e-Hani
+    - Nashra Sandhu
+    - Diana Baig
+    - Ghulam Fatima
+  registry:
+    people:
+      A Khaka: 0d518f89
+      Ali Naqvi: 3c89fc88
+      Aliya Riaz: 2904b4b6
+      Bismah Maroof: 3b770527
+      D Tucker: 2b425403
+      Diana Baig: a51e6c6e
+      Faisal Afridi: ed0bc503
+      Ghulam Fatima: 3d689960
+      L Goodall: 0bb32e98
+      L Wolvaardt: e60f81c9
+      M Kapp: 63e3b6b3
+      M Klaas: ce85fcaf
+      Muneeba Ali: 86fdf668
+      N Mlaba: 686362af
+      N de Klerk: ea544967
+      Nashra Sandhu: c981d3c2
+      Nida Dar: ed840f44
+      Rashid Riaz: fb82725e
+      S Jafta: '34304210'
+      S Luus: 6d76bc23
+      Saleema Imtiaz: d17d21d5
+      Shawaal Zulfiqar: adb2f55e
+      Sidra Ameen: 72c9ad99
+      Sidra Nawaz: ca3ded6f
+      T Brits: '06659caa'
+      Tariq Rasheed: 1008518c
+      Umm-e-Hani: 6ee11109
+  teams:
+  - South Africa
+  - Pakistan
+  toss:
+    winner: South Africa
+    decision: bat
+  umpires:
+  - Faisal Afridi
+  - Rashid Riaz
+  venue: National Stadium, Karachi
+innings:
+- 1st innings:
+    team: South Africa
+    deliveries:
+    - 0.1:
+        non_striker: T Brits
+        bowler: Diana Baig
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: L Wolvaardt
+    - 0.2:
+        non_striker: L Wolvaardt
+        bowler: Diana Baig
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Brits
+    - 0.3:
+        non_striker: L Wolvaardt
+        bowler: Diana Baig
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: T Brits
+    - 0.4:
+        non_striker: T Brits
+        bowler: Diana Baig
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Wolvaardt
+    - 0.5:
+        non_striker: T Brits
+        bowler: Diana Baig
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: L Wolvaardt
+    - 0.6:
+        non_striker: T Brits
+        bowler: Diana Baig
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: L Wolvaardt
+    - 1.1:
+        non_striker: L Wolvaardt
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Brits
+    - 1.2:
+        non_striker: L Wolvaardt
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Brits
+    - 1.3:
+        non_striker: T Brits
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Wolvaardt
+    - 1.4:
+        non_striker: T Brits
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Wolvaardt
+    - 1.5:
+        non_striker: T Brits
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Wolvaardt
+    - 1.6:
+        non_striker: T Brits
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Wolvaardt
+    - 2.1:
+        non_striker: L Wolvaardt
+        bowler: Diana Baig
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: T Brits
+    - 2.2:
+        non_striker: L Wolvaardt
+        bowler: Diana Baig
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: T Brits
+    - 2.3:
+        non_striker: L Wolvaardt
+        bowler: Diana Baig
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Brits
+    - 2.4:
+        non_striker: T Brits
+        bowler: Diana Baig
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Wolvaardt
+    - 2.5:
+        non_striker: T Brits
+        bowler: Diana Baig
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Wolvaardt
+    - 2.6:
+        non_striker: L Wolvaardt
+        bowler: Diana Baig
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: T Brits
+    - 3.1:
+        non_striker: T Brits
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: L Wolvaardt
+    - 3.2:
+        non_striker: T Brits
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Wolvaardt
+    - 3.3:
+        non_striker: T Brits
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: L Wolvaardt
+    - 3.4:
+        non_striker: L Wolvaardt
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Brits
+        wicket:
+          player_out: T Brits
+          kind: lbw
+    - 3.5:
+        non_striker: L Wolvaardt
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Goodall
+    - 3.6:
+        non_striker: L Wolvaardt
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: L Goodall
+    - 4.1:
+        non_striker: L Goodall
+        bowler: Umm-e-Hani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Wolvaardt
+    - 4.2:
+        non_striker: L Wolvaardt
+        bowler: Umm-e-Hani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Goodall
+    - 4.3:
+        non_striker: L Goodall
+        bowler: Umm-e-Hani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Wolvaardt
+        wicket:
+          player_out: L Wolvaardt
+          fielders:
+          - Nashra Sandhu
+          kind: caught
+    - 4.4:
+        non_striker: L Goodall
+        bowler: Umm-e-Hani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Luus
+    - 4.5:
+        non_striker: L Goodall
+        bowler: Umm-e-Hani
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Luus
+    - 4.6:
+        non_striker: L Goodall
+        bowler: Umm-e-Hani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Luus
+    - 5.1:
+        non_striker: S Luus
+        bowler: Nida Dar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Goodall
+    - 5.2:
+        non_striker: L Goodall
+        bowler: Nida Dar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Luus
+    - 5.3:
+        non_striker: L Goodall
+        bowler: Nida Dar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Luus
+    - 5.4:
+        non_striker: S Luus
+        bowler: Nida Dar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Goodall
+    - 5.5:
+        non_striker: S Luus
+        bowler: Nida Dar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Goodall
+    - 5.6:
+        non_striker: S Luus
+        bowler: Nida Dar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Goodall
+    - 6.1:
+        non_striker: S Luus
+        bowler: Umm-e-Hani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Goodall
+    - 6.2:
+        non_striker: S Luus
+        bowler: Umm-e-Hani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Goodall
+    - 6.3:
+        non_striker: L Goodall
+        bowler: Umm-e-Hani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Luus
+    - 6.4:
+        non_striker: L Goodall
+        bowler: Umm-e-Hani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Luus
+    - 6.5:
+        non_striker: L Goodall
+        bowler: Umm-e-Hani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Luus
+    - 6.6:
+        non_striker: L Goodall
+        bowler: Umm-e-Hani
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Luus
+    - 7.1:
+        non_striker: S Luus
+        bowler: Nida Dar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Goodall
+    - 7.2:
+        non_striker: L Goodall
+        bowler: Nida Dar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Luus
+    - 7.3:
+        non_striker: S Luus
+        bowler: Nida Dar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Goodall
+    - 7.4:
+        non_striker: S Luus
+        bowler: Nida Dar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: L Goodall
+    - 7.5:
+        non_striker: S Luus
+        bowler: Nida Dar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Goodall
+    - 7.6:
+        non_striker: S Luus
+        bowler: Nida Dar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Goodall
+    - 8.1:
+        non_striker: S Luus
+        bowler: Umm-e-Hani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Goodall
+    - 8.2:
+        non_striker: S Luus
+        bowler: Umm-e-Hani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Goodall
+    - 8.3:
+        non_striker: S Luus
+        bowler: Umm-e-Hani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Goodall
+    - 8.4:
+        non_striker: S Luus
+        bowler: Umm-e-Hani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Goodall
+    - 8.5:
+        non_striker: L Goodall
+        bowler: Umm-e-Hani
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Luus
+    - 8.6:
+        non_striker: L Goodall
+        bowler: Umm-e-Hani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Luus
+    - 9.1:
+        non_striker: S Luus
+        bowler: Aliya Riaz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Goodall
+        wicket:
+          player_out: L Goodall
+          fielders:
+          - Sidra Nawaz
+          kind: caught
+    - 9.2:
+        non_striker: S Luus
+        bowler: Aliya Riaz
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M Kapp
+    - 9.3:
+        non_striker: S Luus
+        bowler: Aliya Riaz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Kapp
+    - 9.4:
+        non_striker: S Luus
+        bowler: Aliya Riaz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Kapp
+    - 9.5:
+        non_striker: S Luus
+        bowler: Aliya Riaz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Kapp
+    - 9.6:
+        non_striker: S Luus
+        bowler: Aliya Riaz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Kapp
+    - 10.1:
+        non_striker: M Kapp
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Luus
+    - 10.2:
+        non_striker: S Luus
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M Kapp
+    - 10.3:
+        non_striker: S Luus
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Kapp
+    - 10.4:
+        non_striker: S Luus
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Kapp
+    - 10.5:
+        non_striker: S Luus
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Kapp
+    - 10.6:
+        non_striker: M Kapp
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Luus
+    - 11.1:
+        non_striker: S Luus
+        bowler: Aliya Riaz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Kapp
+    - 11.2:
+        non_striker: M Kapp
+        bowler: Aliya Riaz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Luus
+    - 11.3:
+        non_striker: M Kapp
+        bowler: Aliya Riaz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Luus
+    - 11.4:
+        non_striker: M Kapp
+        bowler: Aliya Riaz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Luus
+    - 11.5:
+        non_striker: M Kapp
+        bowler: Aliya Riaz
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: S Luus
+    - 11.6:
+        non_striker: M Kapp
+        bowler: Aliya Riaz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Luus
+    - 11.7:
+        non_striker: S Luus
+        bowler: Aliya Riaz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Kapp
+    - 12.1:
+        non_striker: S Luus
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Kapp
+    - 12.2:
+        non_striker: S Luus
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Kapp
+    - 12.3:
+        non_striker: S Luus
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Kapp
+    - 12.4:
+        non_striker: S Luus
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Kapp
+    - 12.5:
+        non_striker: S Luus
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Kapp
+    - 12.6:
+        non_striker: S Luus
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Kapp
+    - 13.1:
+        non_striker: M Kapp
+        bowler: Ghulam Fatima
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Luus
+    - 13.2:
+        non_striker: S Luus
+        bowler: Ghulam Fatima
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Kapp
+    - 13.3:
+        non_striker: M Kapp
+        bowler: Ghulam Fatima
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Luus
+    - 13.4:
+        non_striker: M Kapp
+        bowler: Ghulam Fatima
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Luus
+    - 13.5:
+        non_striker: M Kapp
+        bowler: Ghulam Fatima
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Luus
+    - 13.6:
+        non_striker: S Luus
+        bowler: Ghulam Fatima
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Kapp
+    - 14.1:
+        non_striker: M Kapp
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Luus
+    - 14.2:
+        non_striker: M Kapp
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Luus
+    - 14.3:
+        non_striker: M Kapp
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Luus
+    - 14.4:
+        non_striker: S Luus
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Kapp
+    - 14.5:
+        non_striker: S Luus
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Kapp
+    - 14.6:
+        non_striker: M Kapp
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Luus
+    - 15.1:
+        non_striker: S Luus
+        bowler: Ghulam Fatima
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Kapp
+    - 15.2:
+        non_striker: M Kapp
+        bowler: Ghulam Fatima
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Luus
+    - 15.3:
+        non_striker: S Luus
+        bowler: Ghulam Fatima
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Kapp
+    - 15.4:
+        non_striker: S Luus
+        bowler: Ghulam Fatima
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: M Kapp
+    - 15.5:
+        non_striker: S Luus
+        bowler: Ghulam Fatima
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Kapp
+    - 15.6:
+        non_striker: S Luus
+        bowler: Ghulam Fatima
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Kapp
+    - 16.1:
+        non_striker: S Luus
+        bowler: Diana Baig
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Kapp
+    - 16.2:
+        non_striker: S Luus
+        bowler: Diana Baig
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Kapp
+    - 16.3:
+        non_striker: S Luus
+        bowler: Diana Baig
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Kapp
+    - 16.4:
+        non_striker: S Luus
+        bowler: Diana Baig
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Kapp
+    - 16.5:
+        non_striker: M Kapp
+        bowler: Diana Baig
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Luus
+    - 16.6:
+        non_striker: S Luus
+        bowler: Diana Baig
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Kapp
+    - 17.1:
+        non_striker: M Kapp
+        bowler: Ghulam Fatima
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Luus
+    - 17.2:
+        non_striker: S Luus
+        bowler: Ghulam Fatima
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Kapp
+    - 17.3:
+        non_striker: S Luus
+        bowler: Ghulam Fatima
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Kapp
+    - 17.4:
+        non_striker: M Kapp
+        bowler: Ghulam Fatima
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Luus
+    - 17.5:
+        non_striker: M Kapp
+        bowler: Ghulam Fatima
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Luus
+    - 17.6:
+        non_striker: M Kapp
+        bowler: Ghulam Fatima
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Luus
+    - 18.1:
+        non_striker: M Kapp
+        bowler: Diana Baig
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Luus
+    - 18.2:
+        non_striker: M Kapp
+        bowler: Diana Baig
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Luus
+    - 18.3:
+        non_striker: M Kapp
+        bowler: Diana Baig
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Luus
+    - 18.4:
+        non_striker: M Kapp
+        bowler: Diana Baig
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Luus
+    - 18.5:
+        non_striker: S Luus
+        bowler: Diana Baig
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Kapp
+    - 18.6:
+        non_striker: S Luus
+        bowler: Diana Baig
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M Kapp
+    - 19.1:
+        non_striker: M Kapp
+        bowler: Ghulam Fatima
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Luus
+    - 19.2:
+        non_striker: S Luus
+        bowler: Ghulam Fatima
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Kapp
+    - 19.3:
+        non_striker: S Luus
+        bowler: Ghulam Fatima
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Kapp
+    - 19.4:
+        non_striker: M Kapp
+        bowler: Ghulam Fatima
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Luus
+    - 19.5:
+        non_striker: S Luus
+        bowler: Ghulam Fatima
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Kapp
+    - 19.6:
+        non_striker: S Luus
+        bowler: Ghulam Fatima
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Kapp
+    - 20.1:
+        non_striker: M Kapp
+        bowler: Diana Baig
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Luus
+    - 20.2:
+        non_striker: M Kapp
+        bowler: Diana Baig
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Luus
+    - 20.3:
+        non_striker: S Luus
+        bowler: Diana Baig
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Kapp
+    - 20.4:
+        non_striker: M Kapp
+        bowler: Diana Baig
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Luus
+    - 20.5:
+        non_striker: M Kapp
+        bowler: Diana Baig
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Luus
+    - 20.6:
+        non_striker: M Kapp
+        bowler: Diana Baig
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Luus
+    - 21.1:
+        non_striker: S Luus
+        bowler: Ghulam Fatima
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: M Kapp
+    - 21.2:
+        non_striker: S Luus
+        bowler: Ghulam Fatima
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Kapp
+    - 21.3:
+        non_striker: S Luus
+        bowler: Ghulam Fatima
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Kapp
+    - 21.4:
+        non_striker: S Luus
+        bowler: Ghulam Fatima
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Kapp
+    - 21.5:
+        non_striker: S Luus
+        bowler: Ghulam Fatima
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Kapp
+    - 21.6:
+        non_striker: M Kapp
+        bowler: Ghulam Fatima
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Luus
+    - 22.1:
+        non_striker: M Kapp
+        bowler: Umm-e-Hani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Luus
+    - 22.2:
+        non_striker: S Luus
+        bowler: Umm-e-Hani
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: M Kapp
+    - 22.3:
+        non_striker: S Luus
+        bowler: Umm-e-Hani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Kapp
+    - 22.4:
+        non_striker: S Luus
+        bowler: Umm-e-Hani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Kapp
+    - 22.5:
+        non_striker: M Kapp
+        bowler: Umm-e-Hani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Luus
+    - 22.6:
+        non_striker: S Luus
+        bowler: Umm-e-Hani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Kapp
+    - 23.1:
+        non_striker: M Kapp
+        bowler: Ghulam Fatima
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Luus
+    - 23.2:
+        non_striker: S Luus
+        bowler: Ghulam Fatima
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Kapp
+    - 23.3:
+        non_striker: S Luus
+        bowler: Ghulam Fatima
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Kapp
+    - 23.4:
+        non_striker: M Kapp
+        bowler: Ghulam Fatima
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Luus
+    - 23.5:
+        non_striker: S Luus
+        bowler: Ghulam Fatima
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: M Kapp
+    - 23.6:
+        non_striker: S Luus
+        bowler: Ghulam Fatima
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Kapp
+    - 24.1:
+        non_striker: M Kapp
+        bowler: Umm-e-Hani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Luus
+    - 24.2:
+        non_striker: S Luus
+        bowler: Umm-e-Hani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Kapp
+    - 24.3:
+        non_striker: S Luus
+        bowler: Umm-e-Hani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Kapp
+    - 24.4:
+        non_striker: M Kapp
+        bowler: Umm-e-Hani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Luus
+    - 24.5:
+        non_striker: M Kapp
+        bowler: Umm-e-Hani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Luus
+    - 24.6:
+        non_striker: M Kapp
+        bowler: Umm-e-Hani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Luus
+    - 25.1:
+        non_striker: M Kapp
+        bowler: Aliya Riaz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Luus
+    - 25.2:
+        non_striker: M Kapp
+        bowler: Aliya Riaz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Luus
+    - 25.3:
+        non_striker: M Kapp
+        bowler: Aliya Riaz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Luus
+    - 25.4:
+        non_striker: S Luus
+        bowler: Aliya Riaz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Kapp
+    - 25.5:
+        non_striker: S Luus
+        bowler: Aliya Riaz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Kapp
+    - 25.6:
+        non_striker: S Luus
+        bowler: Aliya Riaz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Kapp
+    - 26.1:
+        non_striker: M Kapp
+        bowler: Umm-e-Hani
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Luus
+    - 26.2:
+        non_striker: M Kapp
+        bowler: Umm-e-Hani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Luus
+    - 26.3:
+        non_striker: M Kapp
+        bowler: Umm-e-Hani
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Luus
+    - 26.4:
+        non_striker: M Kapp
+        bowler: Umm-e-Hani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Luus
+    - 26.5:
+        non_striker: M Kapp
+        bowler: Umm-e-Hani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Luus
+    - 26.6:
+        non_striker: M Kapp
+        bowler: Umm-e-Hani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Luus
+    - 27.1:
+        non_striker: M Kapp
+        bowler: Aliya Riaz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Luus
+    - 27.2:
+        non_striker: S Luus
+        bowler: Aliya Riaz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Kapp
+    - 27.3:
+        non_striker: M Kapp
+        bowler: Aliya Riaz
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: S Luus
+    - 27.4:
+        non_striker: M Kapp
+        bowler: Aliya Riaz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Luus
+    - 27.5:
+        non_striker: M Kapp
+        bowler: Aliya Riaz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Luus
+    - 27.6:
+        non_striker: M Kapp
+        bowler: Aliya Riaz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Luus
+    - 27.7:
+        non_striker: S Luus
+        bowler: Aliya Riaz
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M Kapp
+    - 28.1:
+        non_striker: M Kapp
+        bowler: Nida Dar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Luus
+    - 28.2:
+        non_striker: S Luus
+        bowler: Nida Dar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Kapp
+    - 28.3:
+        non_striker: S Luus
+        bowler: Nida Dar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Kapp
+    - 28.4:
+        non_striker: S Luus
+        bowler: Nida Dar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Kapp
+    - 28.5:
+        non_striker: M Kapp
+        bowler: Nida Dar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Luus
+    - 28.6:
+        non_striker: S Luus
+        bowler: Nida Dar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Kapp
+    - 29.1:
+        non_striker: M Kapp
+        bowler: Aliya Riaz
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: S Luus
+    - 29.2:
+        non_striker: M Kapp
+        bowler: Aliya Riaz
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Luus
+    - 29.3:
+        non_striker: M Kapp
+        bowler: Aliya Riaz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Luus
+    - 29.4:
+        non_striker: S Luus
+        bowler: Aliya Riaz
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M Kapp
+    - 29.5:
+        non_striker: S Luus
+        bowler: Aliya Riaz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Kapp
+    - 29.6:
+        non_striker: S Luus
+        bowler: Aliya Riaz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Kapp
+    - 29.7:
+        non_striker: S Luus
+        bowler: Aliya Riaz
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M Kapp
+    - 30.1:
+        non_striker: M Kapp
+        bowler: Nida Dar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Luus
+    - 30.2:
+        non_striker: M Kapp
+        bowler: Nida Dar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Luus
+    - 30.3:
+        non_striker: S Luus
+        bowler: Nida Dar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M Kapp
+    - 30.4:
+        non_striker: S Luus
+        bowler: Nida Dar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Kapp
+    - 30.5:
+        non_striker: M Kapp
+        bowler: Nida Dar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Luus
+    - 30.6:
+        non_striker: M Kapp
+        bowler: Nida Dar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Luus
+    - 31.1:
+        non_striker: S Luus
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Kapp
+    - 31.2:
+        non_striker: S Luus
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Kapp
+    - 31.3:
+        non_striker: M Kapp
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Luus
+    - 31.4:
+        non_striker: M Kapp
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Luus
+    - 31.5:
+        non_striker: M Kapp
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Luus
+    - 31.6:
+        non_striker: M Kapp
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Luus
+    - 32.1:
+        non_striker: S Luus
+        bowler: Nida Dar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Kapp
+    - 32.2:
+        non_striker: M Kapp
+        bowler: Nida Dar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Luus
+    - 32.3:
+        non_striker: S Luus
+        bowler: Nida Dar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Kapp
+    - 32.4:
+        non_striker: S Luus
+        bowler: Nida Dar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Kapp
+    - 32.5:
+        non_striker: M Kapp
+        bowler: Nida Dar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Luus
+    - 32.6:
+        non_striker: S Luus
+        bowler: Nida Dar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Kapp
+    - 33.1:
+        non_striker: M Kapp
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Luus
+    - 33.2:
+        non_striker: M Kapp
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Luus
+    - 33.3:
+        non_striker: S Luus
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Kapp
+    - 33.4:
+        non_striker: M Kapp
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Luus
+    - 33.5:
+        non_striker: S Luus
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Kapp
+    - 33.6:
+        non_striker: S Luus
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Kapp
+    - 34.1:
+        non_striker: M Kapp
+        bowler: Nida Dar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Luus
+    - 34.2:
+        non_striker: S Luus
+        bowler: Nida Dar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Kapp
+    - 34.3:
+        non_striker: M Kapp
+        bowler: Nida Dar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Luus
+    - 34.4:
+        non_striker: S Luus
+        bowler: Nida Dar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Kapp
+    - 34.5:
+        non_striker: M Kapp
+        bowler: Nida Dar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Luus
+    - 34.6:
+        non_striker: S Luus
+        bowler: Nida Dar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M Kapp
+    - 35.1:
+        non_striker: M Kapp
+        bowler: Ghulam Fatima
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Luus
+    - 35.2:
+        non_striker: M Kapp
+        bowler: Ghulam Fatima
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Luus
+    - 35.3:
+        non_striker: M Kapp
+        bowler: Ghulam Fatima
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Luus
+    - 35.4:
+        non_striker: M Kapp
+        bowler: Ghulam Fatima
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Luus
+    - 35.5:
+        non_striker: M Kapp
+        bowler: Ghulam Fatima
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Luus
+    - 35.6:
+        non_striker: M Kapp
+        bowler: Ghulam Fatima
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Luus
+    - 36.1:
+        non_striker: S Luus
+        bowler: Umm-e-Hani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Kapp
+    - 36.2:
+        non_striker: M Kapp
+        bowler: Umm-e-Hani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Luus
+    - 36.3:
+        non_striker: M Kapp
+        bowler: Umm-e-Hani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Luus
+    - 36.4:
+        non_striker: S Luus
+        bowler: Umm-e-Hani
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: M Kapp
+    - 36.5:
+        non_striker: M Kapp
+        bowler: Umm-e-Hani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Luus
+    - 36.6:
+        non_striker: M Kapp
+        bowler: Umm-e-Hani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Luus
+    - 37.1:
+        non_striker: M Kapp
+        bowler: Diana Baig
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Luus
+    - 37.2:
+        non_striker: S Luus
+        bowler: Diana Baig
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Kapp
+    - 37.3:
+        non_striker: M Kapp
+        bowler: Diana Baig
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Luus
+    - 37.4:
+        non_striker: M Kapp
+        bowler: Diana Baig
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Luus
+    - 37.5:
+        non_striker: M Kapp
+        bowler: Diana Baig
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Luus
+    - 37.6:
+        non_striker: M Kapp
+        bowler: Diana Baig
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Luus
+    - 38.1:
+        non_striker: M Kapp
+        bowler: Umm-e-Hani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Luus
+    - 38.2:
+        non_striker: S Luus
+        bowler: Umm-e-Hani
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: M Kapp
+    - 38.3:
+        non_striker: S Luus
+        bowler: Umm-e-Hani
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: M Kapp
+    - 38.4:
+        non_striker: S Luus
+        bowler: Umm-e-Hani
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M Kapp
+    - 38.5:
+        non_striker: S Luus
+        bowler: Umm-e-Hani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Kapp
+    - 38.6:
+        non_striker: S Luus
+        bowler: Umm-e-Hani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Kapp
+    - 39.1:
+        non_striker: S Luus
+        bowler: Diana Baig
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M Kapp
+    - 39.2:
+        non_striker: S Luus
+        bowler: Diana Baig
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Kapp
+    - 39.3:
+        non_striker: S Luus
+        bowler: Diana Baig
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Kapp
+    - 39.4:
+        non_striker: S Luus
+        bowler: Diana Baig
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Kapp
+    - 39.5:
+        non_striker: M Kapp
+        bowler: Diana Baig
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Luus
+    - 39.6:
+        non_striker: S Luus
+        bowler: Diana Baig
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M Kapp
+    - 40.1:
+        non_striker: M Kapp
+        bowler: Nida Dar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Luus
+    - 40.2:
+        non_striker: M Kapp
+        bowler: Nida Dar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Luus
+    - 40.3:
+        non_striker: M Kapp
+        bowler: Nida Dar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Luus
+    - 40.4:
+        non_striker: M Kapp
+        bowler: Nida Dar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Luus
+    - 40.5:
+        non_striker: M Kapp
+        bowler: Nida Dar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Luus
+    - 40.6:
+        non_striker: S Luus
+        bowler: Nida Dar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Kapp
+    - 41.1:
+        non_striker: M Kapp
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Luus
+    - 41.2:
+        non_striker: M Kapp
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Luus
+    - 41.3:
+        non_striker: S Luus
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: M Kapp
+    - 41.4:
+        non_striker: S Luus
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Kapp
+    - 41.5:
+        non_striker: S Luus
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M Kapp
+    - 41.6:
+        non_striker: S Luus
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Kapp
+    - 42.1:
+        non_striker: S Luus
+        bowler: Nida Dar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Kapp
+    - 42.2:
+        non_striker: S Luus
+        bowler: Nida Dar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Kapp
+    - 42.3:
+        non_striker: S Luus
+        bowler: Nida Dar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Kapp
+    - 42.4:
+        non_striker: M Kapp
+        bowler: Nida Dar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Luus
+    - 42.5:
+        non_striker: S Luus
+        bowler: Nida Dar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Kapp
+    - 42.6:
+        non_striker: M Kapp
+        bowler: Nida Dar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Luus
+    - 43.1:
+        non_striker: M Kapp
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Luus
+    - 43.2:
+        non_striker: M Kapp
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Luus
+    - 43.3:
+        non_striker: M Kapp
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Luus
+    - 43.4:
+        non_striker: S Luus
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Kapp
+        wicket:
+          player_out: M Kapp
+          fielders:
+          - Umm-e-Hani
+          kind: caught
+    - 43.5:
+        non_striker: S Luus
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N de Klerk
+    - 43.6:
+        non_striker: N de Klerk
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Luus
+    - 44.1:
+        non_striker: N de Klerk
+        bowler: Nida Dar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Luus
+    - 44.2:
+        non_striker: S Luus
+        bowler: Nida Dar
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: N de Klerk
+    - 44.3:
+        non_striker: N de Klerk
+        bowler: Nida Dar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Luus
+    - 44.4:
+        non_striker: S Luus
+        bowler: Nida Dar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N de Klerk
+    - 44.5:
+        non_striker: S Luus
+        bowler: Nida Dar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N de Klerk
+    - 44.6:
+        non_striker: S Luus
+        bowler: Nida Dar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N de Klerk
+    - 45.1:
+        non_striker: S Luus
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N de Klerk
+    - 45.2:
+        non_striker: N de Klerk
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Luus
+    - 45.3:
+        non_striker: N de Klerk
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Luus
+    - 45.4:
+        non_striker: S Luus
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: N de Klerk
+    - 45.5:
+        non_striker: N de Klerk
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Luus
+    - 45.6:
+        non_striker: S Luus
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N de Klerk
+    - 46.1:
+        non_striker: S Luus
+        bowler: Nida Dar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N de Klerk
+    - 46.2:
+        non_striker: N de Klerk
+        bowler: Nida Dar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Luus
+    - 46.3:
+        non_striker: S Luus
+        bowler: Nida Dar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N de Klerk
+    - 46.4:
+        non_striker: S Luus
+        bowler: Nida Dar
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: N de Klerk
+    - 46.5:
+        non_striker: S Luus
+        bowler: Nida Dar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N de Klerk
+    - 46.6:
+        non_striker: S Luus
+        bowler: Nida Dar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N de Klerk
+    - 47.1:
+        non_striker: S Luus
+        bowler: Diana Baig
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: N de Klerk
+    - 47.2:
+        non_striker: S Luus
+        bowler: Diana Baig
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N de Klerk
+    - 47.3:
+        non_striker: N de Klerk
+        bowler: Diana Baig
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Luus
+    - 47.4:
+        non_striker: N de Klerk
+        bowler: Diana Baig
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Luus
+    - 47.5:
+        non_striker: N de Klerk
+        bowler: Diana Baig
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: S Luus
+    - 47.6:
+        non_striker: N de Klerk
+        bowler: Diana Baig
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Luus
+    - 47.7:
+        non_striker: N de Klerk
+        bowler: Diana Baig
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Luus
+    - 48.1:
+        non_striker: S Luus
+        bowler: Umm-e-Hani
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: N de Klerk
+    - 48.2:
+        non_striker: S Luus
+        bowler: Umm-e-Hani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N de Klerk
+    - 48.3:
+        non_striker: N de Klerk
+        bowler: Umm-e-Hani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Luus
+    - 48.4:
+        non_striker: S Luus
+        bowler: Umm-e-Hani
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: N de Klerk
+    - 48.5:
+        non_striker: S Luus
+        bowler: Umm-e-Hani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N de Klerk
+    - 48.6:
+        non_striker: S Luus
+        bowler: Umm-e-Hani
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: N de Klerk
+    - 48.7:
+        non_striker: S Luus
+        bowler: Umm-e-Hani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N de Klerk
+    - 49.1:
+        non_striker: S Luus
+        bowler: Diana Baig
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N de Klerk
+    - 49.2:
+        non_striker: N de Klerk
+        bowler: Diana Baig
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Luus
+    - 49.3:
+        non_striker: N de Klerk
+        bowler: Diana Baig
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Luus
+    - 49.4:
+        non_striker: S Luus
+        bowler: Diana Baig
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N de Klerk
+    - 49.5:
+        non_striker: N de Klerk
+        bowler: Diana Baig
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Luus
+    - 49.6:
+        non_striker: S Luus
+        bowler: Diana Baig
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N de Klerk
+- 2nd innings:
+    team: Pakistan
+    deliveries:
+    - 0.1:
+        non_striker: Sidra Ameen
+        bowler: M Kapp
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shawaal Zulfiqar
+    - 0.2:
+        non_striker: Sidra Ameen
+        bowler: M Kapp
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shawaal Zulfiqar
+    - 0.3:
+        non_striker: Sidra Ameen
+        bowler: M Kapp
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shawaal Zulfiqar
+    - 0.4:
+        non_striker: Sidra Ameen
+        bowler: M Kapp
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shawaal Zulfiqar
+    - 0.5:
+        non_striker: Shawaal Zulfiqar
+        bowler: M Kapp
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sidra Ameen
+    - 0.6:
+        non_striker: Shawaal Zulfiqar
+        bowler: M Kapp
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sidra Ameen
+    - 1.1:
+        non_striker: Sidra Ameen
+        bowler: A Khaka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shawaal Zulfiqar
+    - 1.2:
+        non_striker: Sidra Ameen
+        bowler: A Khaka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shawaal Zulfiqar
+    - 1.3:
+        non_striker: Shawaal Zulfiqar
+        bowler: A Khaka
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Sidra Ameen
+    - 1.4:
+        non_striker: Shawaal Zulfiqar
+        bowler: A Khaka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sidra Ameen
+    - 1.5:
+        non_striker: Shawaal Zulfiqar
+        bowler: A Khaka
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Sidra Ameen
+    - 1.6:
+        non_striker: Shawaal Zulfiqar
+        bowler: A Khaka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sidra Ameen
+    - 2.1:
+        non_striker: Shawaal Zulfiqar
+        bowler: M Kapp
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Sidra Ameen
+    - 2.2:
+        non_striker: Shawaal Zulfiqar
+        bowler: M Kapp
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sidra Ameen
+    - 2.3:
+        non_striker: Shawaal Zulfiqar
+        bowler: M Kapp
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sidra Ameen
+    - 2.4:
+        non_striker: Shawaal Zulfiqar
+        bowler: M Kapp
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sidra Ameen
+    - 2.5:
+        non_striker: Sidra Ameen
+        bowler: M Kapp
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shawaal Zulfiqar
+    - 2.6:
+        non_striker: Shawaal Zulfiqar
+        bowler: M Kapp
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sidra Ameen
+    - 3.1:
+        non_striker: Shawaal Zulfiqar
+        bowler: A Khaka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sidra Ameen
+    - 3.2:
+        non_striker: Sidra Ameen
+        bowler: A Khaka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shawaal Zulfiqar
+    - 3.3:
+        non_striker: Sidra Ameen
+        bowler: A Khaka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shawaal Zulfiqar
+    - 3.4:
+        non_striker: Sidra Ameen
+        bowler: A Khaka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shawaal Zulfiqar
+    - 3.5:
+        non_striker: Sidra Ameen
+        bowler: A Khaka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shawaal Zulfiqar
+    - 3.6:
+        non_striker: Sidra Ameen
+        bowler: A Khaka
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Shawaal Zulfiqar
+    - 4.1:
+        non_striker: Shawaal Zulfiqar
+        bowler: M Kapp
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sidra Ameen
+    - 4.2:
+        non_striker: Shawaal Zulfiqar
+        bowler: M Kapp
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sidra Ameen
+    - 4.3:
+        non_striker: Sidra Ameen
+        bowler: M Kapp
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: Shawaal Zulfiqar
+    - 4.4:
+        non_striker: Shawaal Zulfiqar
+        bowler: M Kapp
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sidra Ameen
+    - 4.5:
+        non_striker: Shawaal Zulfiqar
+        bowler: M Kapp
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sidra Ameen
+    - 4.6:
+        non_striker: Shawaal Zulfiqar
+        bowler: M Kapp
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sidra Ameen
+    - 5.1:
+        non_striker: Sidra Ameen
+        bowler: A Khaka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shawaal Zulfiqar
+    - 5.2:
+        non_striker: Sidra Ameen
+        bowler: A Khaka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shawaal Zulfiqar
+        wicket:
+          player_out: Shawaal Zulfiqar
+          kind: bowled
+    - 5.3:
+        non_striker: Sidra Ameen
+        bowler: A Khaka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Bismah Maroof
+    - 5.4:
+        non_striker: Sidra Ameen
+        bowler: A Khaka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Bismah Maroof
+    - 5.5:
+        non_striker: Sidra Ameen
+        bowler: A Khaka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Bismah Maroof
+    - 5.6:
+        non_striker: Sidra Ameen
+        bowler: A Khaka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Bismah Maroof
+    - 6.1:
+        non_striker: Bismah Maroof
+        bowler: M Klaas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sidra Ameen
+    - 6.2:
+        non_striker: Bismah Maroof
+        bowler: M Klaas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sidra Ameen
+    - 6.3:
+        non_striker: Bismah Maroof
+        bowler: M Klaas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sidra Ameen
+    - 6.4:
+        non_striker: Bismah Maroof
+        bowler: M Klaas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sidra Ameen
+    - 6.5:
+        non_striker: Sidra Ameen
+        bowler: M Klaas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Bismah Maroof
+    - 6.6:
+        non_striker: Bismah Maroof
+        bowler: M Klaas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sidra Ameen
+    - 7.1:
+        non_striker: Sidra Ameen
+        bowler: N de Klerk
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Bismah Maroof
+    - 7.2:
+        non_striker: Sidra Ameen
+        bowler: N de Klerk
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Bismah Maroof
+    - 7.3:
+        non_striker: Sidra Ameen
+        bowler: N de Klerk
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Bismah Maroof
+    - 7.4:
+        non_striker: Bismah Maroof
+        bowler: N de Klerk
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sidra Ameen
+    - 7.5:
+        non_striker: Bismah Maroof
+        bowler: N de Klerk
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sidra Ameen
+    - 7.6:
+        non_striker: Sidra Ameen
+        bowler: N de Klerk
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Bismah Maroof
+    - 8.1:
+        non_striker: Sidra Ameen
+        bowler: M Klaas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Bismah Maroof
+    - 8.2:
+        non_striker: Sidra Ameen
+        bowler: M Klaas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Bismah Maroof
+    - 8.3:
+        non_striker: Bismah Maroof
+        bowler: M Klaas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sidra Ameen
+    - 8.4:
+        non_striker: Bismah Maroof
+        bowler: M Klaas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sidra Ameen
+    - 8.5:
+        non_striker: Bismah Maroof
+        bowler: M Klaas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sidra Ameen
+    - 8.6:
+        non_striker: Bismah Maroof
+        bowler: M Klaas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sidra Ameen
+    - 9.1:
+        non_striker: Sidra Ameen
+        bowler: N de Klerk
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Bismah Maroof
+    - 9.2:
+        non_striker: Sidra Ameen
+        bowler: N de Klerk
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Bismah Maroof
+    - 9.3:
+        non_striker: Sidra Ameen
+        bowler: N de Klerk
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Bismah Maroof
+    - 9.4:
+        non_striker: Sidra Ameen
+        bowler: N de Klerk
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Bismah Maroof
+        wicket:
+          player_out: Bismah Maroof
+          kind: bowled
+    - 9.5:
+        non_striker: Sidra Ameen
+        bowler: N de Klerk
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muneeba Ali
+    - 9.6:
+        non_striker: Sidra Ameen
+        bowler: N de Klerk
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muneeba Ali
+    - 10.1:
+        non_striker: Muneeba Ali
+        bowler: M Klaas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sidra Ameen
+    - 10.2:
+        non_striker: Sidra Ameen
+        bowler: M Klaas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muneeba Ali
+    - 10.3:
+        non_striker: Sidra Ameen
+        bowler: M Klaas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Muneeba Ali
+    - 10.4:
+        non_striker: Muneeba Ali
+        bowler: M Klaas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sidra Ameen
+    - 10.5:
+        non_striker: Muneeba Ali
+        bowler: M Klaas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sidra Ameen
+    - 10.6:
+        non_striker: Muneeba Ali
+        bowler: M Klaas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sidra Ameen
+    - 11.1:
+        non_striker: Muneeba Ali
+        bowler: N de Klerk
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sidra Ameen
+        wicket:
+          player_out: Sidra Ameen
+          kind: lbw
+    - 11.2:
+        non_striker: Muneeba Ali
+        bowler: N de Klerk
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nida Dar
+    - 11.3:
+        non_striker: Muneeba Ali
+        bowler: N de Klerk
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Nida Dar
+    - 11.4:
+        non_striker: Muneeba Ali
+        bowler: N de Klerk
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nida Dar
+    - 11.5:
+        non_striker: Muneeba Ali
+        bowler: N de Klerk
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nida Dar
+    - 11.6:
+        non_striker: Nida Dar
+        bowler: N de Klerk
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muneeba Ali
+    - 12.1:
+        non_striker: Muneeba Ali
+        bowler: N Mlaba
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nida Dar
+    - 12.2:
+        non_striker: Muneeba Ali
+        bowler: N Mlaba
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Nida Dar
+    - 12.3:
+        non_striker: Muneeba Ali
+        bowler: N Mlaba
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nida Dar
+    - 12.4:
+        non_striker: Muneeba Ali
+        bowler: N Mlaba
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Nida Dar
+    - 12.5:
+        non_striker: Muneeba Ali
+        bowler: N Mlaba
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nida Dar
+    - 12.6:
+        non_striker: Muneeba Ali
+        bowler: N Mlaba
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nida Dar
+        wicket:
+          player_out: Nida Dar
+          kind: bowled
+    - 13.1:
+        non_striker: Aliya Riaz
+        bowler: D Tucker
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Muneeba Ali
+    - 13.2:
+        non_striker: Aliya Riaz
+        bowler: D Tucker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muneeba Ali
+    - 13.3:
+        non_striker: Aliya Riaz
+        bowler: D Tucker
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Muneeba Ali
+    - 13.4:
+        non_striker: Aliya Riaz
+        bowler: D Tucker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muneeba Ali
+    - 13.5:
+        non_striker: Aliya Riaz
+        bowler: D Tucker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muneeba Ali
+    - 13.6:
+        non_striker: Aliya Riaz
+        bowler: D Tucker
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Muneeba Ali
+    - 13.7:
+        non_striker: Muneeba Ali
+        bowler: D Tucker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aliya Riaz
+    - 14.1:
+        non_striker: Aliya Riaz
+        bowler: N Mlaba
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muneeba Ali
+    - 14.2:
+        non_striker: Aliya Riaz
+        bowler: N Mlaba
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Muneeba Ali
+    - 14.3:
+        non_striker: Aliya Riaz
+        bowler: N Mlaba
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Muneeba Ali
+    - 14.4:
+        non_striker: Aliya Riaz
+        bowler: N Mlaba
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muneeba Ali
+    - 14.5:
+        non_striker: Aliya Riaz
+        bowler: N Mlaba
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muneeba Ali
+    - 14.6:
+        non_striker: Aliya Riaz
+        bowler: N Mlaba
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Muneeba Ali
+    - 15.1:
+        non_striker: Aliya Riaz
+        bowler: D Tucker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muneeba Ali
+    - 15.2:
+        non_striker: Aliya Riaz
+        bowler: D Tucker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muneeba Ali
+    - 15.3:
+        non_striker: Aliya Riaz
+        bowler: D Tucker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muneeba Ali
+    - 15.4:
+        non_striker: Aliya Riaz
+        bowler: D Tucker
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Muneeba Ali
+    - 15.5:
+        non_striker: Muneeba Ali
+        bowler: D Tucker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aliya Riaz
+    - 15.6:
+        non_striker: Muneeba Ali
+        bowler: D Tucker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aliya Riaz
+    - 16.1:
+        non_striker: Aliya Riaz
+        bowler: N Mlaba
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muneeba Ali
+    - 16.2:
+        non_striker: Aliya Riaz
+        bowler: N Mlaba
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muneeba Ali
+    - 16.3:
+        non_striker: Aliya Riaz
+        bowler: N Mlaba
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muneeba Ali
+    - 16.4:
+        non_striker: Aliya Riaz
+        bowler: N Mlaba
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muneeba Ali
+    - 16.5:
+        non_striker: Aliya Riaz
+        bowler: N Mlaba
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Muneeba Ali
+    - 16.6:
+        non_striker: Aliya Riaz
+        bowler: N Mlaba
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muneeba Ali
+        wicket:
+          player_out: Muneeba Ali
+          kind: lbw
+    - 17.1:
+        non_striker: Sidra Nawaz
+        bowler: D Tucker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aliya Riaz
+    - 17.2:
+        non_striker: Sidra Nawaz
+        bowler: D Tucker
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aliya Riaz
+    - 17.3:
+        non_striker: Aliya Riaz
+        bowler: D Tucker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sidra Nawaz
+    - 17.4:
+        non_striker: Aliya Riaz
+        bowler: D Tucker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sidra Nawaz
+    - 17.5:
+        non_striker: Aliya Riaz
+        bowler: D Tucker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sidra Nawaz
+    - 17.6:
+        non_striker: Aliya Riaz
+        bowler: D Tucker
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Sidra Nawaz
+    - 18.1:
+        non_striker: Sidra Nawaz
+        bowler: N Mlaba
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aliya Riaz
+    - 18.2:
+        non_striker: Sidra Nawaz
+        bowler: N Mlaba
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Aliya Riaz
+    - 18.3:
+        non_striker: Sidra Nawaz
+        bowler: N Mlaba
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aliya Riaz
+    - 18.4:
+        non_striker: Sidra Nawaz
+        bowler: N Mlaba
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aliya Riaz
+    - 18.5:
+        non_striker: Sidra Nawaz
+        bowler: N Mlaba
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aliya Riaz
+    - 18.6:
+        non_striker: Sidra Nawaz
+        bowler: N Mlaba
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aliya Riaz
+    - 19.1:
+        non_striker: Aliya Riaz
+        bowler: A Khaka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sidra Nawaz
+    - 19.2:
+        non_striker: Aliya Riaz
+        bowler: A Khaka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sidra Nawaz
+    - 19.3:
+        non_striker: Aliya Riaz
+        bowler: A Khaka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sidra Nawaz
+    - 19.4:
+        non_striker: Sidra Nawaz
+        bowler: A Khaka
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Aliya Riaz
+    - 19.5:
+        non_striker: Sidra Nawaz
+        bowler: A Khaka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aliya Riaz
+    - 19.6:
+        non_striker: Sidra Nawaz
+        bowler: A Khaka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aliya Riaz
+    - 20.1:
+        non_striker: Sidra Nawaz
+        bowler: D Tucker
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Aliya Riaz
+    - 20.2:
+        non_striker: Sidra Nawaz
+        bowler: D Tucker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aliya Riaz
+    - 20.3:
+        non_striker: Sidra Nawaz
+        bowler: D Tucker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aliya Riaz
+    - 20.4:
+        non_striker: Sidra Nawaz
+        bowler: D Tucker
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Aliya Riaz
+    - 20.5:
+        non_striker: Sidra Nawaz
+        bowler: D Tucker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aliya Riaz
+    - 20.6:
+        non_striker: Sidra Nawaz
+        bowler: D Tucker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aliya Riaz
+    - 21.1:
+        non_striker: Aliya Riaz
+        bowler: A Khaka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sidra Nawaz
+    - 21.2:
+        non_striker: Aliya Riaz
+        bowler: A Khaka
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Sidra Nawaz
+    - 21.3:
+        non_striker: Aliya Riaz
+        bowler: A Khaka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sidra Nawaz
+    - 21.4:
+        non_striker: Aliya Riaz
+        bowler: A Khaka
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Sidra Nawaz
+    - 21.5:
+        non_striker: Aliya Riaz
+        bowler: A Khaka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sidra Nawaz
+    - 21.6:
+        non_striker: Aliya Riaz
+        bowler: A Khaka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sidra Nawaz
+    - 22.1:
+        non_striker: Sidra Nawaz
+        bowler: D Tucker
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Aliya Riaz
+    - 22.2:
+        non_striker: Sidra Nawaz
+        bowler: D Tucker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aliya Riaz
+    - 22.3:
+        non_striker: Sidra Nawaz
+        bowler: D Tucker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aliya Riaz
+    - 22.4:
+        non_striker: Sidra Nawaz
+        bowler: D Tucker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aliya Riaz
+    - 22.5:
+        non_striker: Sidra Nawaz
+        bowler: D Tucker
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aliya Riaz
+    - 22.6:
+        non_striker: Aliya Riaz
+        bowler: D Tucker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sidra Nawaz
+    - 23.1:
+        non_striker: Sidra Nawaz
+        bowler: M Klaas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aliya Riaz
+    - 23.2:
+        non_striker: Sidra Nawaz
+        bowler: M Klaas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aliya Riaz
+    - 23.3:
+        non_striker: Sidra Nawaz
+        bowler: M Klaas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aliya Riaz
+    - 23.4:
+        non_striker: Aliya Riaz
+        bowler: M Klaas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sidra Nawaz
+    - 23.5:
+        non_striker: Aliya Riaz
+        bowler: M Klaas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sidra Nawaz
+    - 23.6:
+        non_striker: Aliya Riaz
+        bowler: M Klaas
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Sidra Nawaz
+    - 24.1:
+        non_striker: Sidra Nawaz
+        bowler: D Tucker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aliya Riaz
+    - 24.2:
+        non_striker: Sidra Nawaz
+        bowler: D Tucker
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aliya Riaz
+    - 24.3:
+        non_striker: Aliya Riaz
+        bowler: D Tucker
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sidra Nawaz
+    - 24.4:
+        non_striker: Sidra Nawaz
+        bowler: D Tucker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aliya Riaz
+    - 24.5:
+        non_striker: Sidra Nawaz
+        bowler: D Tucker
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aliya Riaz
+    - 24.6:
+        non_striker: Aliya Riaz
+        bowler: D Tucker
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sidra Nawaz
+    - 25.1:
+        non_striker: Aliya Riaz
+        bowler: M Klaas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sidra Nawaz
+    - 25.2:
+        non_striker: Aliya Riaz
+        bowler: M Klaas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sidra Nawaz
+    - 25.3:
+        non_striker: Aliya Riaz
+        bowler: M Klaas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sidra Nawaz
+    - 25.4:
+        non_striker: Aliya Riaz
+        bowler: M Klaas
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Sidra Nawaz
+    - 25.5:
+        non_striker: Aliya Riaz
+        bowler: M Klaas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sidra Nawaz
+    - 25.6:
+        non_striker: Aliya Riaz
+        bowler: M Klaas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sidra Nawaz
+    - 26.1:
+        non_striker: Aliya Riaz
+        bowler: N Mlaba
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sidra Nawaz
+    - 26.2:
+        non_striker: Aliya Riaz
+        bowler: N Mlaba
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sidra Nawaz
+        wicket:
+          player_out: Sidra Nawaz
+          fielders:
+          - S Jafta
+          kind: caught
+    - 26.3:
+        non_striker: Aliya Riaz
+        bowler: N Mlaba
+        runs:
+          extras: 5
+          total: 5
+          batsman: 0
+        extras:
+          wides: 5
+        batsman: Umm-e-Hani
+    - 26.4:
+        non_striker: Aliya Riaz
+        bowler: N Mlaba
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Umm-e-Hani
+    - 26.5:
+        non_striker: Umm-e-Hani
+        bowler: N Mlaba
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Aliya Riaz
+    - 26.6:
+        non_striker: Umm-e-Hani
+        bowler: N Mlaba
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aliya Riaz
+    - 26.7:
+        non_striker: Umm-e-Hani
+        bowler: N Mlaba
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aliya Riaz
+    - 27.1:
+        non_striker: Umm-e-Hani
+        bowler: M Klaas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aliya Riaz
+    - 27.2:
+        non_striker: Aliya Riaz
+        bowler: M Klaas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Umm-e-Hani
+    - 27.3:
+        non_striker: Aliya Riaz
+        bowler: M Klaas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Umm-e-Hani
+        wicket:
+          player_out: Umm-e-Hani
+          fielders:
+          - T Brits
+          - M Klaas
+          kind: run out
+    - 27.4:
+        non_striker: Nashra Sandhu
+        bowler: M Klaas
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Aliya Riaz
+    - 27.5:
+        non_striker: Nashra Sandhu
+        bowler: M Klaas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aliya Riaz
+    - 27.6:
+        non_striker: Nashra Sandhu
+        bowler: M Klaas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aliya Riaz
+    - 28.1:
+        non_striker: Aliya Riaz
+        bowler: N Mlaba
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nashra Sandhu
+    - 28.2:
+        non_striker: Aliya Riaz
+        bowler: N Mlaba
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nashra Sandhu
+    - 28.3:
+        non_striker: Aliya Riaz
+        bowler: N Mlaba
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nashra Sandhu
+    - 28.4:
+        non_striker: Aliya Riaz
+        bowler: N Mlaba
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nashra Sandhu
+    - 28.5:
+        non_striker: Aliya Riaz
+        bowler: N Mlaba
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nashra Sandhu
+    - 28.6:
+        non_striker: Aliya Riaz
+        bowler: N Mlaba
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nashra Sandhu
+    - 29.1:
+        non_striker: Nashra Sandhu
+        bowler: N de Klerk
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aliya Riaz
+    - 29.2:
+        non_striker: Aliya Riaz
+        bowler: N de Klerk
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nashra Sandhu
+    - 29.3:
+        non_striker: Aliya Riaz
+        bowler: N de Klerk
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nashra Sandhu
+    - 29.4:
+        non_striker: Aliya Riaz
+        bowler: N de Klerk
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nashra Sandhu
+        wicket:
+          player_out: Nashra Sandhu
+          kind: lbw
+    - 29.5:
+        non_striker: Aliya Riaz
+        bowler: N de Klerk
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Diana Baig
+    - 29.6:
+        non_striker: Aliya Riaz
+        bowler: N de Klerk
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          byes: 4
+        batsman: Diana Baig
+    - 30.1:
+        non_striker: Diana Baig
+        bowler: N Mlaba
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aliya Riaz
+    - 30.2:
+        non_striker: Aliya Riaz
+        bowler: N Mlaba
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Diana Baig
+    - 30.3:
+        non_striker: Aliya Riaz
+        bowler: N Mlaba
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Diana Baig
+    - 30.4:
+        non_striker: Aliya Riaz
+        bowler: N Mlaba
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Diana Baig
+    - 30.5:
+        non_striker: Aliya Riaz
+        bowler: N Mlaba
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Diana Baig
+    - 30.6:
+        non_striker: Aliya Riaz
+        bowler: N Mlaba
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Diana Baig
+    - 31.1:
+        non_striker: Diana Baig
+        bowler: N de Klerk
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aliya Riaz
+    - 31.2:
+        non_striker: Diana Baig
+        bowler: N de Klerk
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aliya Riaz
+    - 31.3:
+        non_striker: Aliya Riaz
+        bowler: N de Klerk
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Diana Baig
+    - 31.4:
+        non_striker: Aliya Riaz
+        bowler: N de Klerk
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Diana Baig
+    - 31.5:
+        non_striker: Aliya Riaz
+        bowler: N de Klerk
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Diana Baig
+    - 31.6:
+        non_striker: Aliya Riaz
+        bowler: N de Klerk
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Diana Baig
+    - 32.1:
+        non_striker: Aliya Riaz
+        bowler: D Tucker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Diana Baig
+    - 32.2:
+        non_striker: Aliya Riaz
+        bowler: D Tucker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Diana Baig
+    - 32.3:
+        non_striker: Aliya Riaz
+        bowler: D Tucker
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Diana Baig
+    - 32.4:
+        non_striker: Diana Baig
+        bowler: D Tucker
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Aliya Riaz
+    - 32.5:
+        non_striker: Diana Baig
+        bowler: D Tucker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aliya Riaz
+    - 32.6:
+        non_striker: Diana Baig
+        bowler: D Tucker
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aliya Riaz
+    - 33.1:
+        non_striker: Diana Baig
+        bowler: N de Klerk
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: Aliya Riaz
+    - 33.2:
+        non_striker: Aliya Riaz
+        bowler: N de Klerk
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Diana Baig
+    - 33.3:
+        non_striker: Aliya Riaz
+        bowler: N de Klerk
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Diana Baig
+    - 33.4:
+        non_striker: Aliya Riaz
+        bowler: N de Klerk
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: Diana Baig
+    - 33.5:
+        non_striker: Diana Baig
+        bowler: N de Klerk
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aliya Riaz
+    - 33.6:
+        non_striker: Aliya Riaz
+        bowler: N de Klerk
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Diana Baig
+    - 34.1:
+        non_striker: Aliya Riaz
+        bowler: D Tucker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Diana Baig
+    - 34.2:
+        non_striker: Aliya Riaz
+        bowler: D Tucker
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Diana Baig
+    - 34.3:
+        non_striker: Diana Baig
+        bowler: D Tucker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aliya Riaz
+    - 34.4:
+        non_striker: Diana Baig
+        bowler: D Tucker
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aliya Riaz
+    - 34.5:
+        non_striker: Aliya Riaz
+        bowler: D Tucker
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Diana Baig
+    - 34.6:
+        non_striker: Diana Baig
+        bowler: D Tucker
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aliya Riaz
+    - 35.1:
+        non_striker: Diana Baig
+        bowler: A Khaka
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Aliya Riaz
+    - 35.2:
+        non_striker: Diana Baig
+        bowler: A Khaka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aliya Riaz
+    - 35.3:
+        non_striker: Diana Baig
+        bowler: A Khaka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aliya Riaz
+        wicket:
+          player_out: Diana Baig
+          fielders:
+          - N de Klerk
+          kind: run out
+    - 35.4:
+        non_striker: Aliya Riaz
+        bowler: A Khaka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ghulam Fatima
+    - 35.5:
+        non_striker: Ghulam Fatima
+        bowler: A Khaka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aliya Riaz
+    - 35.6:
+        non_striker: Aliya Riaz
+        bowler: A Khaka
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Ghulam Fatima
+    - 35.7:
+        non_striker: Aliya Riaz
+        bowler: A Khaka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ghulam Fatima
+    - 36.1:
+        non_striker: Ghulam Fatima
+        bowler: D Tucker
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Aliya Riaz
+    - 36.2:
+        non_striker: Ghulam Fatima
+        bowler: D Tucker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aliya Riaz
+    - 36.3:
+        non_striker: Ghulam Fatima
+        bowler: D Tucker
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aliya Riaz
+    - 36.4:
+        non_striker: Aliya Riaz
+        bowler: D Tucker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ghulam Fatima
+    - 36.5:
+        non_striker: Aliya Riaz
+        bowler: D Tucker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ghulam Fatima
+        wicket:
+          player_out: Ghulam Fatima
+          kind: lbw

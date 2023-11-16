@@ -1,0 +1,3713 @@
+---
+meta:
+  data_version: 0.92
+  created: '2023-01-17'
+  revision: 2
+info:
+  balls_per_over: 6
+  city: Brisbane
+  dates:
+  - '2023-01-16'
+  gender: female
+  match_type: ODI
+  match_type_number: 1309
+  outcome:
+    winner: Australia
+    by:
+      wickets: 8
+    method: D/L
+  overs: 50
+  player_of_match:
+  - P Litchfield
+  players:
+    Pakistan:
+    - Muneeba Ali
+    - Sidra Ameen
+    - Bismah Maroof
+    - Umaima Sohail
+    - Nida Dar
+    - Aliya Riaz
+    - Kainat Imtiaz
+    - Fatima Sana
+    - Sidra Nawaz
+    - Diana Baig
+    - Sadia Iqbal
+    Australia:
+    - BL Mooney
+    - P Litchfield
+    - MM Lanning
+    - EA Perry
+    - TM McGrath
+    - A Gardner
+    - A Sutherland
+    - JL Jonassen
+    - A King
+    - ML Schutt
+    - D Brown
+  registry:
+    people:
+      A Gardner: bc969efb
+      A King: '83558266'
+      A Sutherland: 65d9b6b6
+      Aliya Riaz: 2904b4b6
+      BL Mooney: 52d1dbc8
+      Bismah Maroof: 3b770527
+      CA Polosak: 26a360d2
+      D Brown: 2e81be88
+      Diana Baig: a51e6c6e
+      EA Perry: be150fc8
+      Eloise Sheridan: d8d43840
+      Fatima Sana: ea9c54de
+      JL Jonassen: 0475a86b
+      Kainat Imtiaz: 9714e764
+      ML Schutt: 17608a6f
+      MM Lanning: 27e003ce
+      MW Graham-Smith: 18aca3ce
+      Muneeba Ali: 86fdf668
+      Nida Dar: ed840f44
+      P Litchfield: 4e6ef14f
+      RW Stratford: '85489579'
+      SAJ Craig: 689f2eed
+      Sadia Iqbal: 53bb50f0
+      Sidra Ameen: 72c9ad99
+      Sidra Nawaz: ca3ded6f
+      TM McGrath: ca5acfa4
+      Umaima Sohail: 821d7d46
+  teams:
+  - Pakistan
+  - Australia
+  toss:
+    winner: Australia
+    decision: field
+  umpires:
+  - CA Polosak
+  - Eloise Sheridan
+  venue: Allan Border Field, Brisbane
+innings:
+- 1st innings:
+    team: Pakistan
+    deliveries:
+    - 0.1:
+        bowler: ML Schutt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Sidra Ameen
+        batsman: Muneeba Ali
+    - 0.2:
+        bowler: ML Schutt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Sidra Ameen
+        batsman: Muneeba Ali
+    - 0.3:
+        bowler: ML Schutt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Sidra Ameen
+        batsman: Muneeba Ali
+    - 0.4:
+        bowler: ML Schutt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Sidra Ameen
+        batsman: Muneeba Ali
+    - 0.5:
+        bowler: ML Schutt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Sidra Ameen
+        batsman: Muneeba Ali
+    - 0.6:
+        non_striker: Sidra Ameen
+        bowler: ML Schutt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muneeba Ali
+    - 1.1:
+        non_striker: Muneeba Ali
+        bowler: D Brown
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Sidra Ameen
+    - 1.2:
+        non_striker: Muneeba Ali
+        bowler: D Brown
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sidra Ameen
+    - 1.3:
+        non_striker: Muneeba Ali
+        bowler: D Brown
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sidra Ameen
+    - 1.4:
+        non_striker: Sidra Ameen
+        bowler: D Brown
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Muneeba Ali
+    - 1.5:
+        non_striker: Sidra Ameen
+        bowler: D Brown
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muneeba Ali
+        wicket:
+          player_out: Muneeba Ali
+          fielders:
+          - A Sutherland
+          kind: caught
+    - 1.6:
+        non_striker: Sidra Ameen
+        bowler: D Brown
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Bismah Maroof
+    - 1.7:
+        non_striker: Sidra Ameen
+        bowler: D Brown
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Bismah Maroof
+    - 1.8:
+        non_striker: Bismah Maroof
+        bowler: D Brown
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sidra Ameen
+    - 2.1:
+        non_striker: Sidra Ameen
+        bowler: ML Schutt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Bismah Maroof
+    - 2.2:
+        non_striker: Sidra Ameen
+        bowler: ML Schutt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Bismah Maroof
+    - 2.3:
+        non_striker: Sidra Ameen
+        bowler: ML Schutt
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Bismah Maroof
+    - 2.4:
+        non_striker: Sidra Ameen
+        bowler: ML Schutt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Bismah Maroof
+    - 2.5:
+        non_striker: Sidra Ameen
+        bowler: ML Schutt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Bismah Maroof
+    - 2.6:
+        non_striker: Sidra Ameen
+        bowler: ML Schutt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Bismah Maroof
+    - 3.1:
+        non_striker: Bismah Maroof
+        bowler: D Brown
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Sidra Ameen
+    - 3.2:
+        non_striker: Bismah Maroof
+        bowler: D Brown
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Sidra Ameen
+    - 3.3:
+        non_striker: Bismah Maroof
+        bowler: D Brown
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sidra Ameen
+    - 3.4:
+        non_striker: Sidra Ameen
+        bowler: D Brown
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Bismah Maroof
+    - 3.5:
+        non_striker: Sidra Ameen
+        bowler: D Brown
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Bismah Maroof
+    - 3.6:
+        non_striker: Bismah Maroof
+        bowler: D Brown
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sidra Ameen
+    - 3.7:
+        non_striker: Bismah Maroof
+        bowler: D Brown
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sidra Ameen
+    - 3.8:
+        non_striker: Bismah Maroof
+        bowler: D Brown
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sidra Ameen
+    - 3.9:
+        non_striker: Bismah Maroof
+        bowler: D Brown
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Sidra Ameen
+    - 4.1:
+        non_striker: Sidra Ameen
+        bowler: ML Schutt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Bismah Maroof
+    - 4.2:
+        non_striker: Sidra Ameen
+        bowler: ML Schutt
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Bismah Maroof
+    - 4.3:
+        non_striker: Sidra Ameen
+        bowler: ML Schutt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Bismah Maroof
+    - 4.4:
+        non_striker: Sidra Ameen
+        bowler: ML Schutt
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Bismah Maroof
+    - 4.5:
+        non_striker: Sidra Ameen
+        bowler: ML Schutt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Bismah Maroof
+    - 4.6:
+        non_striker: Sidra Ameen
+        bowler: ML Schutt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Bismah Maroof
+    - 5.1:
+        non_striker: Bismah Maroof
+        bowler: D Brown
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sidra Ameen
+    - 5.2:
+        non_striker: Bismah Maroof
+        bowler: D Brown
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sidra Ameen
+        wicket:
+          player_out: Sidra Ameen
+          kind: caught and bowled
+    - 5.3:
+        non_striker: Bismah Maroof
+        bowler: D Brown
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Umaima Sohail
+    - 5.4:
+        non_striker: Bismah Maroof
+        bowler: D Brown
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Umaima Sohail
+    - 5.5:
+        non_striker: Bismah Maroof
+        bowler: D Brown
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Umaima Sohail
+    - 5.6:
+        non_striker: Bismah Maroof
+        bowler: D Brown
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Umaima Sohail
+    - 6.1:
+        non_striker: Umaima Sohail
+        bowler: ML Schutt
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Bismah Maroof
+    - 6.2:
+        non_striker: Umaima Sohail
+        bowler: ML Schutt
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Bismah Maroof
+    - 6.3:
+        non_striker: Umaima Sohail
+        bowler: ML Schutt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Bismah Maroof
+    - 6.4:
+        non_striker: Umaima Sohail
+        bowler: ML Schutt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Bismah Maroof
+    - 6.5:
+        non_striker: Umaima Sohail
+        bowler: ML Schutt
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Bismah Maroof
+    - 6.6:
+        non_striker: Umaima Sohail
+        bowler: ML Schutt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Bismah Maroof
+    - 6.7:
+        non_striker: Bismah Maroof
+        bowler: ML Schutt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Umaima Sohail
+    - 6.8:
+        non_striker: Bismah Maroof
+        bowler: ML Schutt
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Umaima Sohail
+    - 6.9:
+        non_striker: Bismah Maroof
+        bowler: ML Schutt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Umaima Sohail
+    - 7.1:
+        non_striker: Umaima Sohail
+        bowler: D Brown
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Bismah Maroof
+    - 7.2:
+        non_striker: Bismah Maroof
+        bowler: D Brown
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Umaima Sohail
+    - 7.3:
+        non_striker: Bismah Maroof
+        bowler: D Brown
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Umaima Sohail
+    - 7.4:
+        non_striker: Bismah Maroof
+        bowler: D Brown
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Umaima Sohail
+    - 7.5:
+        non_striker: Bismah Maroof
+        bowler: D Brown
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Umaima Sohail
+    - 7.6:
+        non_striker: Bismah Maroof
+        bowler: D Brown
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Umaima Sohail
+    - 7.7:
+        non_striker: Bismah Maroof
+        bowler: D Brown
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Umaima Sohail
+    - 8.1:
+        non_striker: Umaima Sohail
+        bowler: TM McGrath
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Bismah Maroof
+    - 8.2:
+        non_striker: Umaima Sohail
+        bowler: TM McGrath
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Bismah Maroof
+    - 8.3:
+        non_striker: Bismah Maroof
+        bowler: TM McGrath
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Umaima Sohail
+    - 8.4:
+        non_striker: Bismah Maroof
+        bowler: TM McGrath
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Umaima Sohail
+    - 8.5:
+        non_striker: Bismah Maroof
+        bowler: TM McGrath
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Umaima Sohail
+        wicket:
+          player_out: Umaima Sohail
+          fielders:
+          - A Gardner
+          kind: caught
+    - 8.6:
+        non_striker: Bismah Maroof
+        bowler: TM McGrath
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nida Dar
+    - 8.7:
+        non_striker: Bismah Maroof
+        bowler: TM McGrath
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Nida Dar
+    - 8.8:
+        non_striker: Bismah Maroof
+        bowler: TM McGrath
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Nida Dar
+    - 8.9:
+        non_striker: Bismah Maroof
+        bowler: TM McGrath
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nida Dar
+    - 8.10:
+        non_striker: Bismah Maroof
+        bowler: TM McGrath
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Nida Dar
+    - 9.1:
+        non_striker: Nida Dar
+        bowler: EA Perry
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Bismah Maroof
+    - 9.2:
+        non_striker: Nida Dar
+        bowler: EA Perry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Bismah Maroof
+    - 9.3:
+        non_striker: Nida Dar
+        bowler: EA Perry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Bismah Maroof
+    - 9.4:
+        non_striker: Nida Dar
+        bowler: EA Perry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Bismah Maroof
+    - 9.5:
+        non_striker: Nida Dar
+        bowler: EA Perry
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Bismah Maroof
+    - 9.6:
+        non_striker: Bismah Maroof
+        bowler: EA Perry
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Nida Dar
+    - 9.7:
+        non_striker: Bismah Maroof
+        bowler: EA Perry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nida Dar
+    - 9.8:
+        non_striker: Bismah Maroof
+        bowler: EA Perry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nida Dar
+    - 10.1:
+        non_striker: Nida Dar
+        bowler: TM McGrath
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Bismah Maroof
+    - 10.2:
+        non_striker: Nida Dar
+        bowler: TM McGrath
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Bismah Maroof
+    - 10.3:
+        non_striker: Nida Dar
+        bowler: TM McGrath
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Bismah Maroof
+    - 10.4:
+        non_striker: Nida Dar
+        bowler: TM McGrath
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Bismah Maroof
+    - 10.5:
+        non_striker: Nida Dar
+        bowler: TM McGrath
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Bismah Maroof
+    - 10.6:
+        non_striker: Nida Dar
+        bowler: TM McGrath
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Bismah Maroof
+    - 10.7:
+        non_striker: Bismah Maroof
+        bowler: TM McGrath
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Nida Dar
+    - 11.1:
+        non_striker: Nida Dar
+        bowler: EA Perry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Bismah Maroof
+    - 11.2:
+        non_striker: Nida Dar
+        bowler: EA Perry
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Bismah Maroof
+    - 11.3:
+        non_striker: Bismah Maroof
+        bowler: EA Perry
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Nida Dar
+    - 11.4:
+        non_striker: Bismah Maroof
+        bowler: EA Perry
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: Nida Dar
+    - 11.5:
+        non_striker: Nida Dar
+        bowler: EA Perry
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Bismah Maroof
+    - 11.6:
+        non_striker: Bismah Maroof
+        bowler: EA Perry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nida Dar
+    - 11.7:
+        non_striker: Bismah Maroof
+        bowler: EA Perry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nida Dar
+    - 12.1:
+        non_striker: Nida Dar
+        bowler: JL Jonassen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Bismah Maroof
+    - 12.2:
+        non_striker: Nida Dar
+        bowler: JL Jonassen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Bismah Maroof
+    - 12.3:
+        non_striker: Nida Dar
+        bowler: JL Jonassen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Bismah Maroof
+    - 12.4:
+        non_striker: Nida Dar
+        bowler: JL Jonassen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Bismah Maroof
+    - 12.5:
+        non_striker: Bismah Maroof
+        bowler: JL Jonassen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nida Dar
+    - 12.6:
+        non_striker: Bismah Maroof
+        bowler: JL Jonassen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nida Dar
+    - 13.1:
+        non_striker: Nida Dar
+        bowler: EA Perry
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Bismah Maroof
+    - 13.2:
+        non_striker: Bismah Maroof
+        bowler: EA Perry
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Nida Dar
+    - 13.3:
+        non_striker: Bismah Maroof
+        bowler: EA Perry
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Nida Dar
+    - 13.4:
+        non_striker: Bismah Maroof
+        bowler: EA Perry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nida Dar
+    - 13.5:
+        non_striker: Bismah Maroof
+        bowler: EA Perry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nida Dar
+    - 13.6:
+        non_striker: Bismah Maroof
+        bowler: EA Perry
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Nida Dar
+    - 13.7:
+        non_striker: Bismah Maroof
+        bowler: EA Perry
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nida Dar
+    - 14.1:
+        non_striker: Bismah Maroof
+        bowler: JL Jonassen
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Nida Dar
+    - 14.2:
+        non_striker: Bismah Maroof
+        bowler: JL Jonassen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nida Dar
+    - 14.3:
+        non_striker: Bismah Maroof
+        bowler: JL Jonassen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nida Dar
+    - 14.4:
+        non_striker: Nida Dar
+        bowler: JL Jonassen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Bismah Maroof
+    - 14.5:
+        non_striker: Bismah Maroof
+        bowler: JL Jonassen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nida Dar
+    - 14.6:
+        non_striker: Bismah Maroof
+        bowler: JL Jonassen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nida Dar
+    - 14.7:
+        non_striker: Nida Dar
+        bowler: JL Jonassen
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          byes: 2
+        batsman: Bismah Maroof
+    - 15.1:
+        non_striker: Bismah Maroof
+        bowler: A Gardner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nida Dar
+    - 15.2:
+        non_striker: Bismah Maroof
+        bowler: A Gardner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nida Dar
+    - 15.3:
+        non_striker: Bismah Maroof
+        bowler: A Gardner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nida Dar
+    - 15.4:
+        non_striker: Bismah Maroof
+        bowler: A Gardner
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Nida Dar
+    - 15.5:
+        non_striker: Bismah Maroof
+        bowler: A Gardner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nida Dar
+    - 15.6:
+        non_striker: Nida Dar
+        bowler: A Gardner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Bismah Maroof
+    - 16.1:
+        non_striker: Bismah Maroof
+        bowler: JL Jonassen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nida Dar
+    - 16.2:
+        non_striker: Bismah Maroof
+        bowler: JL Jonassen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nida Dar
+    - 16.3:
+        non_striker: Nida Dar
+        bowler: JL Jonassen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Bismah Maroof
+    - 16.4:
+        non_striker: Nida Dar
+        bowler: JL Jonassen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Bismah Maroof
+    - 16.5:
+        non_striker: Nida Dar
+        bowler: JL Jonassen
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Bismah Maroof
+    - 16.6:
+        non_striker: Nida Dar
+        bowler: JL Jonassen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Bismah Maroof
+    - 17.1:
+        non_striker: Nida Dar
+        bowler: A Gardner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Bismah Maroof
+    - 17.2:
+        non_striker: Bismah Maroof
+        bowler: A Gardner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nida Dar
+    - 17.3:
+        non_striker: Nida Dar
+        bowler: A Gardner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Bismah Maroof
+        wicket:
+          player_out: Bismah Maroof
+          fielders:
+          - BL Mooney
+          kind: caught
+    - 17.4:
+        non_striker: Nida Dar
+        bowler: A Gardner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aliya Riaz
+    - 17.5:
+        non_striker: Nida Dar
+        bowler: A Gardner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aliya Riaz
+    - 17.6:
+        non_striker: Nida Dar
+        bowler: A Gardner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aliya Riaz
+    - 18.1:
+        non_striker: Aliya Riaz
+        bowler: JL Jonassen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nida Dar
+    - 18.2:
+        non_striker: Aliya Riaz
+        bowler: JL Jonassen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nida Dar
+    - 18.3:
+        non_striker: Aliya Riaz
+        bowler: JL Jonassen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nida Dar
+    - 18.4:
+        non_striker: Aliya Riaz
+        bowler: JL Jonassen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nida Dar
+    - 18.5:
+        non_striker: Aliya Riaz
+        bowler: JL Jonassen
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Nida Dar
+    - 18.6:
+        non_striker: Aliya Riaz
+        bowler: JL Jonassen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nida Dar
+    - 19.1:
+        non_striker: Nida Dar
+        bowler: A Gardner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aliya Riaz
+    - 19.2:
+        non_striker: Nida Dar
+        bowler: A Gardner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aliya Riaz
+    - 19.3:
+        non_striker: Nida Dar
+        bowler: A Gardner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aliya Riaz
+    - 19.4:
+        non_striker: Nida Dar
+        bowler: A Gardner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aliya Riaz
+    - 19.5:
+        non_striker: Nida Dar
+        bowler: A Gardner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aliya Riaz
+    - 19.6:
+        non_striker: Aliya Riaz
+        bowler: A Gardner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nida Dar
+    - 20.1:
+        non_striker: Nida Dar
+        bowler: JL Jonassen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aliya Riaz
+    - 20.2:
+        non_striker: Nida Dar
+        bowler: JL Jonassen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aliya Riaz
+    - 20.3:
+        non_striker: Nida Dar
+        bowler: JL Jonassen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aliya Riaz
+    - 20.4:
+        non_striker: Nida Dar
+        bowler: JL Jonassen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aliya Riaz
+    - 20.5:
+        non_striker: Aliya Riaz
+        bowler: JL Jonassen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nida Dar
+    - 20.6:
+        non_striker: Aliya Riaz
+        bowler: JL Jonassen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nida Dar
+    - 21.1:
+        non_striker: Nida Dar
+        bowler: A Gardner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aliya Riaz
+    - 21.2:
+        non_striker: Nida Dar
+        bowler: A Gardner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aliya Riaz
+    - 21.3:
+        non_striker: Aliya Riaz
+        bowler: A Gardner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nida Dar
+    - 21.4:
+        non_striker: Aliya Riaz
+        bowler: A Gardner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nida Dar
+    - 21.5:
+        non_striker: Aliya Riaz
+        bowler: A Gardner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nida Dar
+    - 21.6:
+        non_striker: Nida Dar
+        bowler: A Gardner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aliya Riaz
+    - 22.1:
+        non_striker: Aliya Riaz
+        bowler: A King
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nida Dar
+    - 22.2:
+        non_striker: Nida Dar
+        bowler: A King
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aliya Riaz
+    - 22.3:
+        non_striker: Nida Dar
+        bowler: A King
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aliya Riaz
+    - 22.4:
+        non_striker: Nida Dar
+        bowler: A King
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aliya Riaz
+    - 22.5:
+        non_striker: Aliya Riaz
+        bowler: A King
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nida Dar
+    - 22.6:
+        non_striker: Aliya Riaz
+        bowler: A King
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nida Dar
+    - 23.1:
+        non_striker: Aliya Riaz
+        bowler: A Gardner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nida Dar
+    - 23.2:
+        non_striker: Aliya Riaz
+        bowler: A Gardner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nida Dar
+    - 23.3:
+        non_striker: Aliya Riaz
+        bowler: A Gardner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nida Dar
+    - 23.4:
+        non_striker: Aliya Riaz
+        bowler: A Gardner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nida Dar
+    - 23.5:
+        non_striker: Nida Dar
+        bowler: A Gardner
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Aliya Riaz
+    - 23.6:
+        non_striker: Nida Dar
+        bowler: A Gardner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aliya Riaz
+    - 24.1:
+        non_striker: Aliya Riaz
+        bowler: A King
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nida Dar
+    - 24.2:
+        non_striker: Aliya Riaz
+        bowler: A King
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Nida Dar
+    - 24.3:
+        non_striker: Aliya Riaz
+        bowler: A King
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nida Dar
+    - 24.4:
+        non_striker: Nida Dar
+        bowler: A King
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aliya Riaz
+    - 24.5:
+        non_striker: Nida Dar
+        bowler: A King
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aliya Riaz
+    - 24.6:
+        non_striker: Nida Dar
+        bowler: A King
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aliya Riaz
+    - 25.1:
+        non_striker: Aliya Riaz
+        bowler: A Sutherland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nida Dar
+    - 25.2:
+        non_striker: Aliya Riaz
+        bowler: A Sutherland
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nida Dar
+    - 25.3:
+        non_striker: Nida Dar
+        bowler: A Sutherland
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aliya Riaz
+    - 25.4:
+        non_striker: Aliya Riaz
+        bowler: A Sutherland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nida Dar
+    - 25.5:
+        non_striker: Aliya Riaz
+        bowler: A Sutherland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nida Dar
+    - 25.6:
+        non_striker: Aliya Riaz
+        bowler: A Sutherland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nida Dar
+    - 26.1:
+        non_striker: Nida Dar
+        bowler: A King
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aliya Riaz
+        wicket:
+          player_out: Aliya Riaz
+          fielders:
+          - BL Mooney
+          kind: stumped
+    - 26.2:
+        non_striker: Nida Dar
+        bowler: A King
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Kainat Imtiaz
+    - 26.3:
+        non_striker: Nida Dar
+        bowler: A King
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Kainat Imtiaz
+    - 26.4:
+        non_striker: Nida Dar
+        bowler: A King
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Kainat Imtiaz
+    - 26.5:
+        non_striker: Nida Dar
+        bowler: A King
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Kainat Imtiaz
+    - 26.6:
+        non_striker: Nida Dar
+        bowler: A King
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Kainat Imtiaz
+    - 27.1:
+        non_striker: Kainat Imtiaz
+        bowler: A Sutherland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nida Dar
+    - 27.2:
+        non_striker: Kainat Imtiaz
+        bowler: A Sutherland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nida Dar
+    - 27.3:
+        non_striker: Kainat Imtiaz
+        bowler: A Sutherland
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nida Dar
+    - 27.4:
+        non_striker: Nida Dar
+        bowler: A Sutherland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Kainat Imtiaz
+    - 27.5:
+        non_striker: Nida Dar
+        bowler: A Sutherland
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Kainat Imtiaz
+    - 27.6:
+        non_striker: Kainat Imtiaz
+        bowler: A Sutherland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nida Dar
+    - 28.1:
+        non_striker: Nida Dar
+        bowler: A King
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Kainat Imtiaz
+    - 28.2:
+        non_striker: Nida Dar
+        bowler: A King
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Kainat Imtiaz
+    - 28.3:
+        non_striker: Nida Dar
+        bowler: A King
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Kainat Imtiaz
+    - 28.4:
+        non_striker: Nida Dar
+        bowler: A King
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Kainat Imtiaz
+    - 28.5:
+        non_striker: Nida Dar
+        bowler: A King
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Kainat Imtiaz
+    - 28.6:
+        non_striker: Nida Dar
+        bowler: A King
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Kainat Imtiaz
+    - 29.1:
+        non_striker: Kainat Imtiaz
+        bowler: A Sutherland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nida Dar
+    - 29.2:
+        non_striker: Kainat Imtiaz
+        bowler: A Sutherland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nida Dar
+    - 29.3:
+        non_striker: Kainat Imtiaz
+        bowler: A Sutherland
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nida Dar
+    - 29.4:
+        non_striker: Nida Dar
+        bowler: A Sutherland
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Kainat Imtiaz
+    - 29.5:
+        non_striker: Nida Dar
+        bowler: A Sutherland
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Kainat Imtiaz
+    - 29.6:
+        non_striker: Kainat Imtiaz
+        bowler: A Sutherland
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nida Dar
+    - 29.7:
+        non_striker: Nida Dar
+        bowler: A Sutherland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Kainat Imtiaz
+    - 30.1:
+        non_striker: Kainat Imtiaz
+        bowler: A King
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nida Dar
+    - 30.2:
+        non_striker: Kainat Imtiaz
+        bowler: A King
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nida Dar
+    - 30.3:
+        non_striker: Kainat Imtiaz
+        bowler: A King
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nida Dar
+        wicket:
+          player_out: Kainat Imtiaz
+          fielders:
+          - BL Mooney
+          - MM Lanning
+          kind: run out
+    - 30.4:
+        non_striker: Nida Dar
+        bowler: A King
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Fatima Sana
+    - 30.5:
+        non_striker: Fatima Sana
+        bowler: A King
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nida Dar
+    - 30.6:
+        non_striker: Nida Dar
+        bowler: A King
+        runs:
+          extras: 3
+          total: 3
+          batsman: 0
+        extras:
+          wides: 3
+        batsman: Fatima Sana
+    - 30.7:
+        non_striker: Nida Dar
+        bowler: A King
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Fatima Sana
+    - 31.1:
+        non_striker: Nida Dar
+        bowler: A Sutherland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fatima Sana
+    - 31.2:
+        non_striker: Nida Dar
+        bowler: A Sutherland
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Fatima Sana
+    - 31.3:
+        non_striker: Fatima Sana
+        bowler: A Sutherland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nida Dar
+    - 31.4:
+        non_striker: Fatima Sana
+        bowler: A Sutherland
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nida Dar
+    - 31.5:
+        non_striker: Nida Dar
+        bowler: A Sutherland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fatima Sana
+    - 31.6:
+        non_striker: Nida Dar
+        bowler: A Sutherland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fatima Sana
+    - 32.1:
+        non_striker: Fatima Sana
+        bowler: ML Schutt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nida Dar
+    - 32.2:
+        non_striker: Nida Dar
+        bowler: ML Schutt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fatima Sana
+    - 32.3:
+        non_striker: Nida Dar
+        bowler: ML Schutt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fatima Sana
+    - 32.4:
+        non_striker: Nida Dar
+        bowler: ML Schutt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fatima Sana
+    - 32.5:
+        non_striker: Nida Dar
+        bowler: ML Schutt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fatima Sana
+    - 32.6:
+        non_striker: Nida Dar
+        bowler: ML Schutt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fatima Sana
+    - 33.1:
+        non_striker: Fatima Sana
+        bowler: JL Jonassen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nida Dar
+    - 33.2:
+        non_striker: Fatima Sana
+        bowler: JL Jonassen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nida Dar
+    - 33.3:
+        non_striker: Nida Dar
+        bowler: JL Jonassen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Fatima Sana
+    - 33.4:
+        non_striker: Fatima Sana
+        bowler: JL Jonassen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nida Dar
+    - 33.5:
+        non_striker: Fatima Sana
+        bowler: JL Jonassen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nida Dar
+    - 33.6:
+        non_striker: Nida Dar
+        bowler: JL Jonassen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fatima Sana
+    - 34.1:
+        non_striker: Fatima Sana
+        bowler: ML Schutt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nida Dar
+    - 34.2:
+        non_striker: Nida Dar
+        bowler: ML Schutt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Fatima Sana
+    - 34.3:
+        non_striker: Fatima Sana
+        bowler: ML Schutt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nida Dar
+    - 34.4:
+        non_striker: Fatima Sana
+        bowler: ML Schutt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nida Dar
+    - 34.5:
+        non_striker: Fatima Sana
+        bowler: ML Schutt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nida Dar
+    - 34.6:
+        non_striker: Nida Dar
+        bowler: ML Schutt
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: Fatima Sana
+    - 34.7:
+        non_striker: Nida Dar
+        bowler: ML Schutt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Fatima Sana
+    - 35.1:
+        non_striker: Nida Dar
+        bowler: JL Jonassen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fatima Sana
+    - 35.2:
+        non_striker: Nida Dar
+        bowler: JL Jonassen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fatima Sana
+        wicket:
+          player_out: Fatima Sana
+          fielders:
+          - MM Lanning
+          kind: caught
+    - 35.3:
+        non_striker: Nida Dar
+        bowler: JL Jonassen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sidra Nawaz
+    - 35.4:
+        non_striker: Nida Dar
+        bowler: JL Jonassen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sidra Nawaz
+    - 35.5:
+        non_striker: Nida Dar
+        bowler: JL Jonassen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sidra Nawaz
+    - 35.6:
+        non_striker: Nida Dar
+        bowler: JL Jonassen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sidra Nawaz
+    - 36.1:
+        non_striker: Sidra Nawaz
+        bowler: ML Schutt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nida Dar
+    - 36.2:
+        non_striker: Nida Dar
+        bowler: ML Schutt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sidra Nawaz
+    - 36.3:
+        non_striker: Nida Dar
+        bowler: ML Schutt
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Sidra Nawaz
+    - 36.4:
+        non_striker: Nida Dar
+        bowler: ML Schutt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sidra Nawaz
+    - 36.5:
+        non_striker: Nida Dar
+        bowler: ML Schutt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sidra Nawaz
+    - 36.6:
+        non_striker: Nida Dar
+        bowler: ML Schutt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sidra Nawaz
+    - 37.1:
+        non_striker: Sidra Nawaz
+        bowler: A King
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nida Dar
+    - 37.2:
+        non_striker: Nida Dar
+        bowler: A King
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sidra Nawaz
+    - 37.3:
+        non_striker: Nida Dar
+        bowler: A King
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sidra Nawaz
+    - 37.4:
+        non_striker: Sidra Nawaz
+        bowler: A King
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Nida Dar
+    - 37.5:
+        non_striker: Sidra Nawaz
+        bowler: A King
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nida Dar
+    - 37.6:
+        non_striker: Sidra Nawaz
+        bowler: A King
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nida Dar
+    - 38.1:
+        non_striker: Sidra Nawaz
+        bowler: ML Schutt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nida Dar
+    - 38.2:
+        non_striker: Sidra Nawaz
+        bowler: ML Schutt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nida Dar
+    - 38.3:
+        non_striker: Nida Dar
+        bowler: ML Schutt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sidra Nawaz
+    - 38.4:
+        non_striker: Sidra Nawaz
+        bowler: ML Schutt
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Nida Dar
+    - 38.5:
+        non_striker: Sidra Nawaz
+        bowler: ML Schutt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nida Dar
+    - 38.6:
+        non_striker: Nida Dar
+        bowler: ML Schutt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sidra Nawaz
+    - 39.1:
+        non_striker: Nida Dar
+        bowler: JL Jonassen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sidra Nawaz
+    - 39.2:
+        non_striker: Nida Dar
+        bowler: JL Jonassen
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Sidra Nawaz
+    - 39.3:
+        non_striker: Nida Dar
+        bowler: JL Jonassen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sidra Nawaz
+    - 39.4:
+        non_striker: Sidra Nawaz
+        bowler: JL Jonassen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nida Dar
+        wicket:
+          player_out: Nida Dar
+          fielders:
+          - TM McGrath
+          kind: caught
+    - 39.5:
+        non_striker: Sidra Nawaz
+        bowler: JL Jonassen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Diana Baig
+    - 39.6:
+        non_striker: Diana Baig
+        bowler: JL Jonassen
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Sidra Nawaz
+- 2nd innings:
+    team: Australia
+    deliveries:
+    - 0.1:
+        bowler: Diana Baig
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: P Litchfield
+        batsman: BL Mooney
+    - 0.2:
+        non_striker: BL Mooney
+        bowler: Diana Baig
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Litchfield
+    - 0.3:
+        non_striker: P Litchfield
+        bowler: Diana Baig
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BL Mooney
+    - 0.4:
+        non_striker: P Litchfield
+        bowler: Diana Baig
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BL Mooney
+    - 0.5:
+        non_striker: P Litchfield
+        bowler: Diana Baig
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BL Mooney
+        wicket:
+          player_out: BL Mooney
+          kind: bowled
+    - 0.6:
+        non_striker: P Litchfield
+        bowler: Diana Baig
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MM Lanning
+    - 1.1:
+        non_striker: MM Lanning
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Litchfield
+    - 1.2:
+        non_striker: MM Lanning
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Litchfield
+    - 1.3:
+        non_striker: MM Lanning
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Litchfield
+    - 1.4:
+        non_striker: MM Lanning
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Litchfield
+    - 1.5:
+        non_striker: MM Lanning
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Litchfield
+    - 1.6:
+        non_striker: MM Lanning
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Litchfield
+    - 2.1:
+        non_striker: P Litchfield
+        bowler: Diana Baig
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: MM Lanning
+    - 2.2:
+        non_striker: MM Lanning
+        bowler: Diana Baig
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Litchfield
+    - 2.3:
+        non_striker: MM Lanning
+        bowler: Diana Baig
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Litchfield
+    - 2.4:
+        non_striker: P Litchfield
+        bowler: Diana Baig
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MM Lanning
+    - 2.5:
+        non_striker: P Litchfield
+        bowler: Diana Baig
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MM Lanning
+    - 2.6:
+        non_striker: P Litchfield
+        bowler: Diana Baig
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MM Lanning
+    - 3.1:
+        non_striker: MM Lanning
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: P Litchfield
+    - 3.2:
+        non_striker: MM Lanning
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Litchfield
+    - 3.3:
+        non_striker: MM Lanning
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Litchfield
+    - 3.4:
+        non_striker: MM Lanning
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: P Litchfield
+    - 3.5:
+        non_striker: MM Lanning
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Litchfield
+    - 3.6:
+        non_striker: MM Lanning
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Litchfield
+    - 4.1:
+        non_striker: P Litchfield
+        bowler: Diana Baig
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MM Lanning
+    - 4.2:
+        non_striker: MM Lanning
+        bowler: Diana Baig
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Litchfield
+    - 4.3:
+        non_striker: P Litchfield
+        bowler: Diana Baig
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MM Lanning
+    - 4.4:
+        non_striker: P Litchfield
+        bowler: Diana Baig
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MM Lanning
+    - 4.5:
+        non_striker: P Litchfield
+        bowler: Diana Baig
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MM Lanning
+    - 4.6:
+        non_striker: P Litchfield
+        bowler: Diana Baig
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MM Lanning
+    - 5.1:
+        non_striker: MM Lanning
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Litchfield
+    - 5.2:
+        non_striker: MM Lanning
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: P Litchfield
+    - 5.3:
+        non_striker: MM Lanning
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Litchfield
+    - 5.4:
+        non_striker: MM Lanning
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Litchfield
+    - 5.5:
+        non_striker: MM Lanning
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Litchfield
+    - 5.6:
+        non_striker: MM Lanning
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Litchfield
+    - 6.1:
+        non_striker: P Litchfield
+        bowler: Diana Baig
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MM Lanning
+    - 6.2:
+        non_striker: P Litchfield
+        bowler: Diana Baig
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MM Lanning
+    - 6.3:
+        non_striker: P Litchfield
+        bowler: Diana Baig
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MM Lanning
+    - 6.4:
+        non_striker: P Litchfield
+        bowler: Diana Baig
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MM Lanning
+    - 6.5:
+        non_striker: P Litchfield
+        bowler: Diana Baig
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MM Lanning
+    - 6.6:
+        non_striker: P Litchfield
+        bowler: Diana Baig
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MM Lanning
+    - 7.1:
+        non_striker: MM Lanning
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Litchfield
+    - 7.2:
+        non_striker: MM Lanning
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Litchfield
+    - 7.3:
+        non_striker: MM Lanning
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: P Litchfield
+    - 7.4:
+        non_striker: P Litchfield
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MM Lanning
+    - 7.5:
+        non_striker: MM Lanning
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Litchfield
+    - 7.6:
+        non_striker: MM Lanning
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Litchfield
+    - 8.1:
+        non_striker: MM Lanning
+        bowler: Diana Baig
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Litchfield
+    - 8.2:
+        non_striker: MM Lanning
+        bowler: Diana Baig
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Litchfield
+    - 8.3:
+        non_striker: MM Lanning
+        bowler: Diana Baig
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: P Litchfield
+    - 8.4:
+        non_striker: MM Lanning
+        bowler: Diana Baig
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Litchfield
+    - 8.5:
+        non_striker: P Litchfield
+        bowler: Diana Baig
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MM Lanning
+    - 8.6:
+        non_striker: P Litchfield
+        bowler: Diana Baig
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MM Lanning
+    - 9.1:
+        non_striker: MM Lanning
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Litchfield
+    - 9.2:
+        non_striker: MM Lanning
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Litchfield
+    - 9.3:
+        non_striker: MM Lanning
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Litchfield
+    - 9.4:
+        non_striker: P Litchfield
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MM Lanning
+    - 9.5:
+        non_striker: P Litchfield
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MM Lanning
+    - 9.6:
+        non_striker: P Litchfield
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MM Lanning
+    - 10.1:
+        non_striker: MM Lanning
+        bowler: Kainat Imtiaz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Litchfield
+    - 10.2:
+        non_striker: P Litchfield
+        bowler: Kainat Imtiaz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MM Lanning
+    - 10.3:
+        non_striker: MM Lanning
+        bowler: Kainat Imtiaz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Litchfield
+    - 10.4:
+        non_striker: MM Lanning
+        bowler: Kainat Imtiaz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Litchfield
+    - 10.5:
+        non_striker: P Litchfield
+        bowler: Kainat Imtiaz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MM Lanning
+    - 10.6:
+        non_striker: P Litchfield
+        bowler: Kainat Imtiaz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MM Lanning
+    - 11.1:
+        non_striker: P Litchfield
+        bowler: Sadia Iqbal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MM Lanning
+    - 11.2:
+        non_striker: P Litchfield
+        bowler: Sadia Iqbal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MM Lanning
+    - 11.3:
+        non_striker: P Litchfield
+        bowler: Sadia Iqbal
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: MM Lanning
+    - 11.4:
+        non_striker: P Litchfield
+        bowler: Sadia Iqbal
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MM Lanning
+    - 11.5:
+        non_striker: P Litchfield
+        bowler: Sadia Iqbal
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MM Lanning
+    - 11.6:
+        non_striker: P Litchfield
+        bowler: Sadia Iqbal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MM Lanning
+    - 11.7:
+        non_striker: MM Lanning
+        bowler: Sadia Iqbal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Litchfield
+    - 12.1:
+        non_striker: P Litchfield
+        bowler: Kainat Imtiaz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MM Lanning
+    - 12.2:
+        non_striker: P Litchfield
+        bowler: Kainat Imtiaz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MM Lanning
+    - 12.3:
+        non_striker: MM Lanning
+        bowler: Kainat Imtiaz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Litchfield
+    - 12.4:
+        non_striker: MM Lanning
+        bowler: Kainat Imtiaz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Litchfield
+    - 12.5:
+        non_striker: MM Lanning
+        bowler: Kainat Imtiaz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Litchfield
+    - 12.6:
+        non_striker: MM Lanning
+        bowler: Kainat Imtiaz
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: P Litchfield
+    - 13.1:
+        non_striker: P Litchfield
+        bowler: Sadia Iqbal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MM Lanning
+    - 13.2:
+        non_striker: P Litchfield
+        bowler: Sadia Iqbal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MM Lanning
+    - 13.3:
+        non_striker: P Litchfield
+        bowler: Sadia Iqbal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MM Lanning
+    - 13.4:
+        non_striker: MM Lanning
+        bowler: Sadia Iqbal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Litchfield
+    - 13.5:
+        non_striker: MM Lanning
+        bowler: Sadia Iqbal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Litchfield
+    - 13.6:
+        non_striker: P Litchfield
+        bowler: Sadia Iqbal
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MM Lanning
+    - 14.1:
+        non_striker: MM Lanning
+        bowler: Kainat Imtiaz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Litchfield
+    - 14.2:
+        non_striker: MM Lanning
+        bowler: Kainat Imtiaz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Litchfield
+    - 14.3:
+        non_striker: MM Lanning
+        bowler: Kainat Imtiaz
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: P Litchfield
+    - 14.4:
+        non_striker: MM Lanning
+        bowler: Kainat Imtiaz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Litchfield
+    - 14.5:
+        non_striker: MM Lanning
+        bowler: Kainat Imtiaz
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: P Litchfield
+    - 14.6:
+        non_striker: MM Lanning
+        bowler: Kainat Imtiaz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Litchfield
+    - 15.1:
+        non_striker: MM Lanning
+        bowler: Sadia Iqbal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Litchfield
+    - 15.2:
+        non_striker: P Litchfield
+        bowler: Sadia Iqbal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MM Lanning
+    - 15.3:
+        non_striker: MM Lanning
+        bowler: Sadia Iqbal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Litchfield
+    - 15.4:
+        non_striker: P Litchfield
+        bowler: Sadia Iqbal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MM Lanning
+    - 15.5:
+        non_striker: MM Lanning
+        bowler: Sadia Iqbal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Litchfield
+    - 15.6:
+        non_striker: MM Lanning
+        bowler: Sadia Iqbal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Litchfield
+    - 16.1:
+        non_striker: P Litchfield
+        bowler: Kainat Imtiaz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MM Lanning
+    - 16.2:
+        non_striker: MM Lanning
+        bowler: Kainat Imtiaz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Litchfield
+    - 16.3:
+        non_striker: P Litchfield
+        bowler: Kainat Imtiaz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MM Lanning
+    - 16.4:
+        non_striker: P Litchfield
+        bowler: Kainat Imtiaz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MM Lanning
+    - 16.5:
+        non_striker: MM Lanning
+        bowler: Kainat Imtiaz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Litchfield
+    - 16.6:
+        non_striker: MM Lanning
+        bowler: Kainat Imtiaz
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: P Litchfield
+    - 17.1:
+        non_striker: P Litchfield
+        bowler: Sadia Iqbal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MM Lanning
+    - 17.2:
+        non_striker: P Litchfield
+        bowler: Sadia Iqbal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MM Lanning
+    - 17.3:
+        non_striker: P Litchfield
+        bowler: Sadia Iqbal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MM Lanning
+    - 17.4:
+        non_striker: MM Lanning
+        bowler: Sadia Iqbal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Litchfield
+    - 17.5:
+        non_striker: MM Lanning
+        bowler: Sadia Iqbal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Litchfield
+    - 17.6:
+        non_striker: MM Lanning
+        bowler: Sadia Iqbal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Litchfield
+    - 18.1:
+        non_striker: MM Lanning
+        bowler: Nida Dar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Litchfield
+    - 18.2:
+        non_striker: P Litchfield
+        bowler: Nida Dar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MM Lanning
+    - 18.3:
+        non_striker: P Litchfield
+        bowler: Nida Dar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MM Lanning
+    - 18.4:
+        non_striker: P Litchfield
+        bowler: Nida Dar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MM Lanning
+    - 18.5:
+        non_striker: P Litchfield
+        bowler: Nida Dar
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: MM Lanning
+    - 18.6:
+        non_striker: P Litchfield
+        bowler: Nida Dar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MM Lanning
+    - 18.7:
+        non_striker: P Litchfield
+        bowler: Nida Dar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MM Lanning
+    - 19.1:
+        non_striker: MM Lanning
+        bowler: Sadia Iqbal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Litchfield
+    - 19.2:
+        non_striker: MM Lanning
+        bowler: Sadia Iqbal
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: P Litchfield
+    - 19.3:
+        non_striker: MM Lanning
+        bowler: Sadia Iqbal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Litchfield
+    - 19.4:
+        non_striker: MM Lanning
+        bowler: Sadia Iqbal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Litchfield
+    - 19.5:
+        non_striker: MM Lanning
+        bowler: Sadia Iqbal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Litchfield
+    - 19.6:
+        non_striker: MM Lanning
+        bowler: Sadia Iqbal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Litchfield
+    - 20.1:
+        non_striker: P Litchfield
+        bowler: Nida Dar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MM Lanning
+    - 20.2:
+        non_striker: P Litchfield
+        bowler: Nida Dar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MM Lanning
+    - 20.3:
+        non_striker: P Litchfield
+        bowler: Nida Dar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MM Lanning
+    - 20.4:
+        non_striker: MM Lanning
+        bowler: Nida Dar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Litchfield
+    - 20.5:
+        non_striker: MM Lanning
+        bowler: Nida Dar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: P Litchfield
+    - 20.6:
+        non_striker: MM Lanning
+        bowler: Nida Dar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Litchfield
+    - 21.1:
+        non_striker: P Litchfield
+        bowler: Sadia Iqbal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MM Lanning
+    - 21.2:
+        non_striker: MM Lanning
+        bowler: Sadia Iqbal
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: P Litchfield
+    - 21.3:
+        non_striker: MM Lanning
+        bowler: Sadia Iqbal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Litchfield
+    - 21.4:
+        non_striker: P Litchfield
+        bowler: Sadia Iqbal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MM Lanning
+    - 21.5:
+        non_striker: MM Lanning
+        bowler: Sadia Iqbal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Litchfield
+    - 21.6:
+        non_striker: P Litchfield
+        bowler: Sadia Iqbal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MM Lanning
+    - 22.1:
+        non_striker: P Litchfield
+        bowler: Diana Baig
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MM Lanning
+    - 22.2:
+        non_striker: P Litchfield
+        bowler: Diana Baig
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MM Lanning
+    - 22.3:
+        non_striker: P Litchfield
+        bowler: Diana Baig
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MM Lanning
+    - 22.4:
+        non_striker: P Litchfield
+        bowler: Diana Baig
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MM Lanning
+    - 22.5:
+        non_striker: MM Lanning
+        bowler: Diana Baig
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Litchfield
+    - 22.6:
+        non_striker: P Litchfield
+        bowler: Diana Baig
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MM Lanning
+    - 23.1:
+        non_striker: P Litchfield
+        bowler: Nida Dar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MM Lanning
+    - 23.2:
+        non_striker: P Litchfield
+        bowler: Nida Dar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MM Lanning
+    - 23.3:
+        non_striker: P Litchfield
+        bowler: Nida Dar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MM Lanning
+    - 23.4:
+        non_striker: MM Lanning
+        bowler: Nida Dar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Litchfield
+    - 23.5:
+        non_striker: MM Lanning
+        bowler: Nida Dar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: P Litchfield
+    - 23.6:
+        non_striker: MM Lanning
+        bowler: Nida Dar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Litchfield
+    - 24.1:
+        non_striker: P Litchfield
+        bowler: Aliya Riaz
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MM Lanning
+    - 24.2:
+        non_striker: P Litchfield
+        bowler: Aliya Riaz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MM Lanning
+    - 24.3:
+        non_striker: MM Lanning
+        bowler: Aliya Riaz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Litchfield
+    - 24.4:
+        non_striker: P Litchfield
+        bowler: Aliya Riaz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MM Lanning
+    - 24.5:
+        non_striker: P Litchfield
+        bowler: Aliya Riaz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MM Lanning
+    - 24.6:
+        non_striker: P Litchfield
+        bowler: Aliya Riaz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MM Lanning
+    - 25.1:
+        non_striker: P Litchfield
+        bowler: Umaima Sohail
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MM Lanning
+    - 25.2:
+        non_striker: P Litchfield
+        bowler: Umaima Sohail
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MM Lanning
+    - 25.3:
+        non_striker: MM Lanning
+        bowler: Umaima Sohail
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Litchfield
+    - 25.4:
+        non_striker: P Litchfield
+        bowler: Umaima Sohail
+        runs:
+          extras: 3
+          total: 3
+          batsman: 0
+        extras:
+          wides: 3
+        batsman: MM Lanning
+    - 25.5:
+        non_striker: P Litchfield
+        bowler: Umaima Sohail
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MM Lanning
+    - 25.6:
+        non_striker: MM Lanning
+        bowler: Umaima Sohail
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Litchfield
+    - 25.7:
+        non_striker: MM Lanning
+        bowler: Umaima Sohail
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Litchfield
+    - 26.1:
+        non_striker: MM Lanning
+        bowler: Aliya Riaz
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: P Litchfield
+    - 26.2:
+        non_striker: P Litchfield
+        bowler: Aliya Riaz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MM Lanning
+    - 26.3:
+        non_striker: MM Lanning
+        bowler: Aliya Riaz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Litchfield
+    - 26.4:
+        non_striker: P Litchfield
+        bowler: Aliya Riaz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MM Lanning
+    - 26.5:
+        non_striker: MM Lanning
+        bowler: Aliya Riaz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Litchfield
+    - 26.6:
+        non_striker: MM Lanning
+        bowler: Aliya Riaz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Litchfield
+    - 27.1:
+        non_striker: P Litchfield
+        bowler: Umaima Sohail
+        runs:
+          extras: 1
+          total: 5
+          batsman: 4
+        extras:
+          noballs: 1
+        batsman: MM Lanning
+    - 27.2:
+        non_striker: P Litchfield
+        bowler: Umaima Sohail
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MM Lanning
+    - 27.3:
+        non_striker: P Litchfield
+        bowler: Umaima Sohail
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MM Lanning
+        wicket:
+          player_out: MM Lanning
+          fielders:
+          - Sidra Nawaz
+          kind: caught
+    - 27.4:
+        non_striker: P Litchfield
+        bowler: Umaima Sohail
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EA Perry
+    - 27.5:
+        non_striker: EA Perry
+        bowler: Umaima Sohail
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: P Litchfield
+    - 27.6:
+        non_striker: EA Perry
+        bowler: Umaima Sohail
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: P Litchfield
+    - 27.7:
+        non_striker: EA Perry
+        bowler: Umaima Sohail
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: P Litchfield
+    - 28.1:
+        non_striker: P Litchfield
+        bowler: Aliya Riaz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EA Perry
+    - 28.2:
+        non_striker: EA Perry
+        bowler: Aliya Riaz
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          legbyes: 2
+        batsman: P Litchfield
+    - 28.3:
+        non_striker: EA Perry
+        bowler: Aliya Riaz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Litchfield
+    - 28.4:
+        non_striker: EA Perry
+        bowler: Aliya Riaz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Litchfield
+    - 28.5:
+        non_striker: EA Perry
+        bowler: Aliya Riaz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Litchfield

@@ -1,0 +1,4733 @@
+---
+meta:
+  data_version: 0.92
+  created: '2023-06-06'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Hambantota
+  dates:
+  - '2023-06-04'
+  gender: male
+  match_type: ODI
+  match_type_number: 4580
+  outcome:
+    winner: Sri Lanka
+    by:
+      runs: 132
+  overs: 50
+  player_of_match:
+  - DM de Silva
+  players:
+    Sri Lanka:
+    - P Nissanka
+    - FDM Karunaratne
+    - BKG Mendis
+    - S Samarawickrama
+    - KIC Asalanka
+    - DM de Silva
+    - MD Shanaka
+    - PWH de Silva
+    - M Theekshana
+    - PVD Chameera
+    - CAK Rajitha
+    Afghanistan:
+    - Rahmanullah Gurbaz
+    - Ibrahim Zadran
+    - Rahmat Shah
+    - Hashmatullah Shahidi
+    - Najibullah Zadran
+    - Mohammad Nabi
+    - Azmatullah Omarzai
+    - Noor Ahmad
+    - Mujeeb Ur Rahman
+    - Fareed Ahmad
+    - Fazalhaq Farooqi
+  registry:
+    people:
+      Azmatullah Omarzai: 8f6dd463
+      BKG Mendis: 5d1e7582
+      CAK Rajitha: 8012d0b8
+      DM de Silva: 7d608e12
+      FDM Karunaratne: 400e2d4d
+      Fareed Ahmad: 67b7bad4
+      Fazalhaq Farooqi: e9c7f0d0
+      Hashmatullah Shahidi: c2a46cb4
+      Ibrahim Zadran: d4550956
+      KIC Asalanka: 732c038e
+      LE Hannibal: 3c04e91a
+      M Theekshana: f24c6701
+      MA Gough: 76752ac8
+      MD Shanaka: 3ff033bb
+      Mohammad Nabi: 62af8546
+      Mujeeb Ur Rahman: 7d92277a
+      Najibullah Zadran: 1212cbec
+      Nitin Menon: e1d41d9e
+      Noor Ahmad: efc04be7
+      P Nissanka: 8ee36b18
+      PVD Chameera: 327b58d3
+      PWH de Silva: a97c8ec2
+      RS Madugalle: 766b5798
+      RSA Palliyaguruge: 4339c19d
+      Rahmanullah Gurbaz: 0bacade8
+      Rahmat Shah: f9c29fcd
+      S Samarawickrama: 9ab2914d
+  teams:
+  - Sri Lanka
+  - Afghanistan
+  toss:
+    winner: Sri Lanka
+    decision: bat
+  umpires:
+  - LE Hannibal
+  - MA Gough
+  venue: Mahinda Rajapaksa International Cricket Stadium, Sooriyawewa, Hambantota
+innings:
+- 1st innings:
+    team: Sri Lanka
+    deliveries:
+    - 0.1:
+        non_striker: FDM Karunaratne
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Nissanka
+    - 0.2:
+        non_striker: FDM Karunaratne
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Nissanka
+    - 0.3:
+        non_striker: FDM Karunaratne
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Nissanka
+    - 0.4:
+        non_striker: FDM Karunaratne
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Nissanka
+    - 0.5:
+        non_striker: FDM Karunaratne
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Nissanka
+    - 0.6:
+        non_striker: FDM Karunaratne
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Nissanka
+    - 1.1:
+        non_striker: FDM Karunaratne
+        bowler: Azmatullah Omarzai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Nissanka
+    - 1.2:
+        non_striker: FDM Karunaratne
+        bowler: Azmatullah Omarzai
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: P Nissanka
+    - 1.3:
+        non_striker: FDM Karunaratne
+        bowler: Azmatullah Omarzai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Nissanka
+    - 1.4:
+        non_striker: P Nissanka
+        bowler: Azmatullah Omarzai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FDM Karunaratne
+    - 1.5:
+        non_striker: P Nissanka
+        bowler: Azmatullah Omarzai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FDM Karunaratne
+    - 1.6:
+        non_striker: P Nissanka
+        bowler: Azmatullah Omarzai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FDM Karunaratne
+    - 2.1:
+        non_striker: FDM Karunaratne
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Nissanka
+    - 2.2:
+        non_striker: FDM Karunaratne
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Nissanka
+    - 2.3:
+        non_striker: FDM Karunaratne
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: P Nissanka
+    - 2.4:
+        non_striker: P Nissanka
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: FDM Karunaratne
+    - 2.5:
+        non_striker: P Nissanka
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FDM Karunaratne
+    - 2.6:
+        non_striker: P Nissanka
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: FDM Karunaratne
+    - 3.1:
+        non_striker: FDM Karunaratne
+        bowler: Azmatullah Omarzai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Nissanka
+    - 3.2:
+        non_striker: FDM Karunaratne
+        bowler: Azmatullah Omarzai
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: P Nissanka
+    - 3.3:
+        non_striker: FDM Karunaratne
+        bowler: Azmatullah Omarzai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Nissanka
+    - 3.4:
+        non_striker: FDM Karunaratne
+        bowler: Azmatullah Omarzai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Nissanka
+    - 3.5:
+        non_striker: FDM Karunaratne
+        bowler: Azmatullah Omarzai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Nissanka
+    - 3.6:
+        non_striker: FDM Karunaratne
+        bowler: Azmatullah Omarzai
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: P Nissanka
+    - 3.7:
+        non_striker: FDM Karunaratne
+        bowler: Azmatullah Omarzai
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: P Nissanka
+    - 4.1:
+        non_striker: P Nissanka
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FDM Karunaratne
+    - 4.2:
+        non_striker: P Nissanka
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FDM Karunaratne
+    - 4.3:
+        non_striker: P Nissanka
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FDM Karunaratne
+    - 4.4:
+        non_striker: P Nissanka
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: FDM Karunaratne
+    - 4.5:
+        non_striker: FDM Karunaratne
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Nissanka
+    - 4.6:
+        non_striker: FDM Karunaratne
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Nissanka
+    - 5.1:
+        non_striker: P Nissanka
+        bowler: Mujeeb Ur Rahman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FDM Karunaratne
+    - 5.2:
+        non_striker: P Nissanka
+        bowler: Mujeeb Ur Rahman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: FDM Karunaratne
+    - 5.3:
+        non_striker: FDM Karunaratne
+        bowler: Mujeeb Ur Rahman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Nissanka
+    - 5.4:
+        non_striker: FDM Karunaratne
+        bowler: Mujeeb Ur Rahman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Nissanka
+    - 5.5:
+        non_striker: FDM Karunaratne
+        bowler: Mujeeb Ur Rahman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Nissanka
+    - 5.6:
+        non_striker: FDM Karunaratne
+        bowler: Mujeeb Ur Rahman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Nissanka
+    - 6.1:
+        non_striker: FDM Karunaratne
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: P Nissanka
+    - 6.2:
+        non_striker: FDM Karunaratne
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Nissanka
+    - 6.3:
+        non_striker: FDM Karunaratne
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Nissanka
+    - 6.4:
+        non_striker: P Nissanka
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FDM Karunaratne
+    - 6.5:
+        non_striker: P Nissanka
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: FDM Karunaratne
+    - 6.6:
+        non_striker: P Nissanka
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FDM Karunaratne
+    - 7.1:
+        non_striker: FDM Karunaratne
+        bowler: Mujeeb Ur Rahman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Nissanka
+    - 7.2:
+        non_striker: FDM Karunaratne
+        bowler: Mujeeb Ur Rahman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Nissanka
+    - 7.3:
+        non_striker: FDM Karunaratne
+        bowler: Mujeeb Ur Rahman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Nissanka
+    - 7.4:
+        non_striker: FDM Karunaratne
+        bowler: Mujeeb Ur Rahman
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: P Nissanka
+    - 7.5:
+        non_striker: FDM Karunaratne
+        bowler: Mujeeb Ur Rahman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Nissanka
+    - 7.6:
+        non_striker: P Nissanka
+        bowler: Mujeeb Ur Rahman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FDM Karunaratne
+    - 7.7:
+        non_striker: P Nissanka
+        bowler: Mujeeb Ur Rahman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FDM Karunaratne
+    - 8.1:
+        non_striker: FDM Karunaratne
+        bowler: Fareed Ahmad
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: P Nissanka
+    - 8.2:
+        non_striker: FDM Karunaratne
+        bowler: Fareed Ahmad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Nissanka
+    - 8.3:
+        non_striker: FDM Karunaratne
+        bowler: Fareed Ahmad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Nissanka
+    - 8.4:
+        non_striker: FDM Karunaratne
+        bowler: Fareed Ahmad
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: P Nissanka
+    - 8.5:
+        non_striker: P Nissanka
+        bowler: Fareed Ahmad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FDM Karunaratne
+    - 8.6:
+        non_striker: P Nissanka
+        bowler: Fareed Ahmad
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: FDM Karunaratne
+    - 8.7:
+        non_striker: P Nissanka
+        bowler: Fareed Ahmad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FDM Karunaratne
+    - 8.8:
+        non_striker: P Nissanka
+        bowler: Fareed Ahmad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: FDM Karunaratne
+    - 9.1:
+        non_striker: P Nissanka
+        bowler: Mujeeb Ur Rahman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FDM Karunaratne
+    - 9.2:
+        non_striker: P Nissanka
+        bowler: Mujeeb Ur Rahman
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: FDM Karunaratne
+    - 9.3:
+        non_striker: P Nissanka
+        bowler: Mujeeb Ur Rahman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FDM Karunaratne
+    - 9.4:
+        non_striker: P Nissanka
+        bowler: Mujeeb Ur Rahman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: FDM Karunaratne
+    - 9.5:
+        non_striker: FDM Karunaratne
+        bowler: Mujeeb Ur Rahman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Nissanka
+    - 9.6:
+        non_striker: P Nissanka
+        bowler: Mujeeb Ur Rahman
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: FDM Karunaratne
+    - 10.1:
+        non_striker: FDM Karunaratne
+        bowler: Fareed Ahmad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Nissanka
+    - 10.2:
+        non_striker: FDM Karunaratne
+        bowler: Fareed Ahmad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Nissanka
+    - 10.3:
+        non_striker: P Nissanka
+        bowler: Fareed Ahmad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: FDM Karunaratne
+    - 10.4:
+        non_striker: FDM Karunaratne
+        bowler: Fareed Ahmad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Nissanka
+    - 10.5:
+        non_striker: P Nissanka
+        bowler: Fareed Ahmad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FDM Karunaratne
+    - 10.6:
+        non_striker: P Nissanka
+        bowler: Fareed Ahmad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FDM Karunaratne
+    - 11.1:
+        non_striker: FDM Karunaratne
+        bowler: Mujeeb Ur Rahman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Nissanka
+    - 11.2:
+        non_striker: FDM Karunaratne
+        bowler: Mujeeb Ur Rahman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Nissanka
+    - 11.3:
+        non_striker: FDM Karunaratne
+        bowler: Mujeeb Ur Rahman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Nissanka
+    - 11.4:
+        non_striker: P Nissanka
+        bowler: Mujeeb Ur Rahman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FDM Karunaratne
+    - 11.5:
+        non_striker: P Nissanka
+        bowler: Mujeeb Ur Rahman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: FDM Karunaratne
+    - 11.6:
+        non_striker: FDM Karunaratne
+        bowler: Mujeeb Ur Rahman
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: P Nissanka
+    - 12.1:
+        non_striker: P Nissanka
+        bowler: Fareed Ahmad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: FDM Karunaratne
+    - 12.2:
+        non_striker: FDM Karunaratne
+        bowler: Fareed Ahmad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Nissanka
+    - 12.3:
+        non_striker: FDM Karunaratne
+        bowler: Fareed Ahmad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Nissanka
+    - 12.4:
+        non_striker: FDM Karunaratne
+        bowler: Fareed Ahmad
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: P Nissanka
+    - 12.5:
+        non_striker: FDM Karunaratne
+        bowler: Fareed Ahmad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Nissanka
+    - 12.6:
+        non_striker: FDM Karunaratne
+        bowler: Fareed Ahmad
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: P Nissanka
+    - 12.7:
+        non_striker: FDM Karunaratne
+        bowler: Fareed Ahmad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Nissanka
+    - 13.1:
+        non_striker: P Nissanka
+        bowler: Mujeeb Ur Rahman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FDM Karunaratne
+    - 13.2:
+        non_striker: P Nissanka
+        bowler: Mujeeb Ur Rahman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: FDM Karunaratne
+    - 13.3:
+        non_striker: FDM Karunaratne
+        bowler: Mujeeb Ur Rahman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Nissanka
+    - 13.4:
+        non_striker: P Nissanka
+        bowler: Mujeeb Ur Rahman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: FDM Karunaratne
+    - 13.5:
+        non_striker: FDM Karunaratne
+        bowler: Mujeeb Ur Rahman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Nissanka
+    - 13.6:
+        non_striker: FDM Karunaratne
+        bowler: Mujeeb Ur Rahman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Nissanka
+    - 14.1:
+        non_striker: FDM Karunaratne
+        bowler: Fareed Ahmad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Nissanka
+    - 14.2:
+        non_striker: FDM Karunaratne
+        bowler: Fareed Ahmad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Nissanka
+    - 14.3:
+        non_striker: P Nissanka
+        bowler: Fareed Ahmad
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: FDM Karunaratne
+    - 14.4:
+        non_striker: P Nissanka
+        bowler: Fareed Ahmad
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: FDM Karunaratne
+    - 14.5:
+        non_striker: P Nissanka
+        bowler: Fareed Ahmad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FDM Karunaratne
+    - 14.6:
+        non_striker: P Nissanka
+        bowler: Fareed Ahmad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FDM Karunaratne
+    - 15.1:
+        non_striker: FDM Karunaratne
+        bowler: Mohammad Nabi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Nissanka
+    - 15.2:
+        non_striker: FDM Karunaratne
+        bowler: Mohammad Nabi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Nissanka
+    - 15.3:
+        non_striker: P Nissanka
+        bowler: Mohammad Nabi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: FDM Karunaratne
+    - 15.4:
+        non_striker: FDM Karunaratne
+        bowler: Mohammad Nabi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Nissanka
+    - 15.5:
+        non_striker: FDM Karunaratne
+        bowler: Mohammad Nabi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Nissanka
+        wicket:
+          player_out: P Nissanka
+          kind: lbw
+    - 15.6:
+        non_striker: FDM Karunaratne
+        bowler: Mohammad Nabi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BKG Mendis
+    - 16.1:
+        non_striker: BKG Mendis
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: FDM Karunaratne
+    - 16.2:
+        non_striker: FDM Karunaratne
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BKG Mendis
+    - 16.3:
+        non_striker: BKG Mendis
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FDM Karunaratne
+    - 16.4:
+        non_striker: BKG Mendis
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FDM Karunaratne
+    - 16.5:
+        non_striker: BKG Mendis
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: FDM Karunaratne
+    - 16.6:
+        non_striker: FDM Karunaratne
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BKG Mendis
+    - 17.1:
+        non_striker: BKG Mendis
+        bowler: Mohammad Nabi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: FDM Karunaratne
+    - 17.2:
+        non_striker: FDM Karunaratne
+        bowler: Mohammad Nabi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BKG Mendis
+    - 17.3:
+        non_striker: FDM Karunaratne
+        bowler: Mohammad Nabi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BKG Mendis
+    - 17.4:
+        non_striker: FDM Karunaratne
+        bowler: Mohammad Nabi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BKG Mendis
+    - 17.5:
+        non_striker: FDM Karunaratne
+        bowler: Mohammad Nabi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BKG Mendis
+    - 17.6:
+        non_striker: BKG Mendis
+        bowler: Mohammad Nabi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FDM Karunaratne
+    - 18.1:
+        non_striker: FDM Karunaratne
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BKG Mendis
+    - 18.2:
+        non_striker: FDM Karunaratne
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BKG Mendis
+    - 18.3:
+        non_striker: BKG Mendis
+        bowler: Noor Ahmad
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: FDM Karunaratne
+    - 18.4:
+        non_striker: FDM Karunaratne
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BKG Mendis
+    - 18.5:
+        non_striker: FDM Karunaratne
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BKG Mendis
+    - 18.6:
+        non_striker: BKG Mendis
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FDM Karunaratne
+    - 19.1:
+        non_striker: FDM Karunaratne
+        bowler: Mohammad Nabi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BKG Mendis
+    - 19.2:
+        non_striker: FDM Karunaratne
+        bowler: Mohammad Nabi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BKG Mendis
+    - 19.3:
+        non_striker: BKG Mendis
+        bowler: Mohammad Nabi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: FDM Karunaratne
+    - 19.4:
+        non_striker: BKG Mendis
+        bowler: Mohammad Nabi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FDM Karunaratne
+    - 19.5:
+        non_striker: BKG Mendis
+        bowler: Mohammad Nabi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: FDM Karunaratne
+    - 19.6:
+        non_striker: FDM Karunaratne
+        bowler: Mohammad Nabi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BKG Mendis
+    - 20.1:
+        non_striker: BKG Mendis
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FDM Karunaratne
+    - 20.2:
+        non_striker: BKG Mendis
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: FDM Karunaratne
+    - 20.3:
+        non_striker: FDM Karunaratne
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BKG Mendis
+    - 20.4:
+        non_striker: BKG Mendis
+        bowler: Noor Ahmad
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: FDM Karunaratne
+    - 20.5:
+        non_striker: BKG Mendis
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FDM Karunaratne
+    - 20.6:
+        non_striker: BKG Mendis
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: FDM Karunaratne
+    - 20.7:
+        non_striker: BKG Mendis
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: FDM Karunaratne
+    - 21.1:
+        non_striker: BKG Mendis
+        bowler: Mohammad Nabi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FDM Karunaratne
+    - 21.2:
+        non_striker: BKG Mendis
+        bowler: Mohammad Nabi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FDM Karunaratne
+    - 21.3:
+        non_striker: BKG Mendis
+        bowler: Mohammad Nabi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: FDM Karunaratne
+    - 21.4:
+        non_striker: FDM Karunaratne
+        bowler: Mohammad Nabi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BKG Mendis
+    - 21.5:
+        non_striker: FDM Karunaratne
+        bowler: Mohammad Nabi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BKG Mendis
+    - 21.6:
+        non_striker: BKG Mendis
+        bowler: Mohammad Nabi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: FDM Karunaratne
+    - 22.1:
+        non_striker: BKG Mendis
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FDM Karunaratne
+    - 22.2:
+        non_striker: BKG Mendis
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: FDM Karunaratne
+    - 22.3:
+        non_striker: BKG Mendis
+        bowler: Noor Ahmad
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: FDM Karunaratne
+    - 22.4:
+        non_striker: BKG Mendis
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FDM Karunaratne
+        wicket:
+          player_out: FDM Karunaratne
+          kind: lbw
+    - 22.5:
+        non_striker: BKG Mendis
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Samarawickrama
+    - 22.6:
+        non_striker: BKG Mendis
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Samarawickrama
+    - 22.7:
+        non_striker: S Samarawickrama
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BKG Mendis
+    - 23.1:
+        non_striker: S Samarawickrama
+        bowler: Mohammad Nabi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BKG Mendis
+    - 23.2:
+        non_striker: BKG Mendis
+        bowler: Mohammad Nabi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Samarawickrama
+    - 23.3:
+        non_striker: BKG Mendis
+        bowler: Mohammad Nabi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Samarawickrama
+    - 23.4:
+        non_striker: BKG Mendis
+        bowler: Mohammad Nabi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Samarawickrama
+    - 23.5:
+        non_striker: BKG Mendis
+        bowler: Mohammad Nabi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Samarawickrama
+    - 23.6:
+        non_striker: S Samarawickrama
+        bowler: Mohammad Nabi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BKG Mendis
+    - 24.1:
+        non_striker: BKG Mendis
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Samarawickrama
+    - 24.2:
+        non_striker: S Samarawickrama
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: BKG Mendis
+    - 24.3:
+        non_striker: S Samarawickrama
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BKG Mendis
+    - 24.4:
+        non_striker: BKG Mendis
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Samarawickrama
+    - 24.5:
+        non_striker: S Samarawickrama
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BKG Mendis
+    - 24.6:
+        non_striker: S Samarawickrama
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BKG Mendis
+    - 25.1:
+        non_striker: BKG Mendis
+        bowler: Mohammad Nabi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Samarawickrama
+    - 25.2:
+        non_striker: BKG Mendis
+        bowler: Mohammad Nabi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Samarawickrama
+    - 25.3:
+        non_striker: BKG Mendis
+        bowler: Mohammad Nabi
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: S Samarawickrama
+    - 25.4:
+        non_striker: S Samarawickrama
+        bowler: Mohammad Nabi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BKG Mendis
+    - 25.5:
+        non_striker: BKG Mendis
+        bowler: Mohammad Nabi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Samarawickrama
+    - 25.6:
+        non_striker: S Samarawickrama
+        bowler: Mohammad Nabi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BKG Mendis
+    - 26.1:
+        non_striker: S Samarawickrama
+        bowler: Mujeeb Ur Rahman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BKG Mendis
+    - 26.2:
+        non_striker: S Samarawickrama
+        bowler: Mujeeb Ur Rahman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BKG Mendis
+    - 26.3:
+        non_striker: BKG Mendis
+        bowler: Mujeeb Ur Rahman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Samarawickrama
+    - 26.4:
+        non_striker: BKG Mendis
+        bowler: Mujeeb Ur Rahman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Samarawickrama
+    - 26.5:
+        non_striker: S Samarawickrama
+        bowler: Mujeeb Ur Rahman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BKG Mendis
+    - 26.6:
+        non_striker: S Samarawickrama
+        bowler: Mujeeb Ur Rahman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BKG Mendis
+    - 27.1:
+        non_striker: S Samarawickrama
+        bowler: Azmatullah Omarzai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BKG Mendis
+    - 27.2:
+        non_striker: S Samarawickrama
+        bowler: Azmatullah Omarzai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BKG Mendis
+    - 27.3:
+        non_striker: BKG Mendis
+        bowler: Azmatullah Omarzai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Samarawickrama
+    - 27.4:
+        non_striker: S Samarawickrama
+        bowler: Azmatullah Omarzai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BKG Mendis
+    - 27.5:
+        non_striker: BKG Mendis
+        bowler: Azmatullah Omarzai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Samarawickrama
+    - 27.6:
+        non_striker: BKG Mendis
+        bowler: Azmatullah Omarzai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Samarawickrama
+    - 28.1:
+        non_striker: BKG Mendis
+        bowler: Mujeeb Ur Rahman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Samarawickrama
+    - 28.2:
+        non_striker: S Samarawickrama
+        bowler: Mujeeb Ur Rahman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BKG Mendis
+    - 28.3:
+        non_striker: S Samarawickrama
+        bowler: Mujeeb Ur Rahman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BKG Mendis
+    - 28.4:
+        non_striker: BKG Mendis
+        bowler: Mujeeb Ur Rahman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Samarawickrama
+    - 28.5:
+        non_striker: BKG Mendis
+        bowler: Mujeeb Ur Rahman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Samarawickrama
+    - 28.6:
+        non_striker: S Samarawickrama
+        bowler: Mujeeb Ur Rahman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BKG Mendis
+    - 29.1:
+        non_striker: S Samarawickrama
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BKG Mendis
+    - 29.2:
+        non_striker: BKG Mendis
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Samarawickrama
+    - 29.3:
+        non_striker: BKG Mendis
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Samarawickrama
+    - 29.4:
+        non_striker: BKG Mendis
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Samarawickrama
+    - 29.5:
+        non_striker: BKG Mendis
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Samarawickrama
+    - 29.6:
+        non_striker: BKG Mendis
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Samarawickrama
+    - 30.1:
+        non_striker: S Samarawickrama
+        bowler: Azmatullah Omarzai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BKG Mendis
+    - 30.2:
+        non_striker: BKG Mendis
+        bowler: Azmatullah Omarzai
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Samarawickrama
+    - 30.3:
+        non_striker: BKG Mendis
+        bowler: Azmatullah Omarzai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Samarawickrama
+    - 30.4:
+        non_striker: BKG Mendis
+        bowler: Azmatullah Omarzai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Samarawickrama
+    - 30.5:
+        non_striker: S Samarawickrama
+        bowler: Azmatullah Omarzai
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: BKG Mendis
+    - 30.6:
+        non_striker: S Samarawickrama
+        bowler: Azmatullah Omarzai
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: BKG Mendis
+    - 31.1:
+        non_striker: BKG Mendis
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Samarawickrama
+    - 31.2:
+        non_striker: BKG Mendis
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Samarawickrama
+    - 31.3:
+        non_striker: BKG Mendis
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Samarawickrama
+    - 31.4:
+        non_striker: S Samarawickrama
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BKG Mendis
+    - 31.5:
+        non_striker: BKG Mendis
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Samarawickrama
+    - 31.6:
+        non_striker: BKG Mendis
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Samarawickrama
+    - 32.1:
+        non_striker: BKG Mendis
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Samarawickrama
+    - 32.2:
+        non_striker: BKG Mendis
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Samarawickrama
+    - 32.3:
+        non_striker: BKG Mendis
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Samarawickrama
+    - 32.4:
+        non_striker: S Samarawickrama
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: BKG Mendis
+    - 32.5:
+        non_striker: S Samarawickrama
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BKG Mendis
+    - 32.6:
+        non_striker: S Samarawickrama
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BKG Mendis
+    - 33.1:
+        non_striker: S Samarawickrama
+        bowler: Mohammad Nabi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BKG Mendis
+    - 33.2:
+        non_striker: BKG Mendis
+        bowler: Mohammad Nabi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Samarawickrama
+    - 33.3:
+        non_striker: S Samarawickrama
+        bowler: Mohammad Nabi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BKG Mendis
+    - 33.4:
+        non_striker: S Samarawickrama
+        bowler: Mohammad Nabi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BKG Mendis
+    - 33.5:
+        non_striker: S Samarawickrama
+        bowler: Mohammad Nabi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BKG Mendis
+    - 33.6:
+        non_striker: S Samarawickrama
+        bowler: Mohammad Nabi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BKG Mendis
+    - 34.1:
+        non_striker: BKG Mendis
+        bowler: Mujeeb Ur Rahman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Samarawickrama
+    - 34.2:
+        non_striker: S Samarawickrama
+        bowler: Mujeeb Ur Rahman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BKG Mendis
+    - 34.3:
+        non_striker: BKG Mendis
+        bowler: Mujeeb Ur Rahman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Samarawickrama
+    - 34.4:
+        non_striker: BKG Mendis
+        bowler: Mujeeb Ur Rahman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Samarawickrama
+    - 34.5:
+        non_striker: S Samarawickrama
+        bowler: Mujeeb Ur Rahman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BKG Mendis
+    - 34.6:
+        non_striker: S Samarawickrama
+        bowler: Mujeeb Ur Rahman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BKG Mendis
+    - 35.1:
+        non_striker: BKG Mendis
+        bowler: Mohammad Nabi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Samarawickrama
+    - 35.2:
+        non_striker: S Samarawickrama
+        bowler: Mohammad Nabi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BKG Mendis
+    - 35.3:
+        non_striker: S Samarawickrama
+        bowler: Mohammad Nabi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BKG Mendis
+    - 35.4:
+        non_striker: S Samarawickrama
+        bowler: Mohammad Nabi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BKG Mendis
+    - 35.5:
+        non_striker: S Samarawickrama
+        bowler: Mohammad Nabi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BKG Mendis
+    - 35.6:
+        non_striker: BKG Mendis
+        bowler: Mohammad Nabi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Samarawickrama
+    - 36.1:
+        non_striker: BKG Mendis
+        bowler: Mujeeb Ur Rahman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Samarawickrama
+    - 36.2:
+        non_striker: BKG Mendis
+        bowler: Mujeeb Ur Rahman
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Samarawickrama
+    - 36.3:
+        non_striker: BKG Mendis
+        bowler: Mujeeb Ur Rahman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Samarawickrama
+    - 36.4:
+        non_striker: S Samarawickrama
+        bowler: Mujeeb Ur Rahman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BKG Mendis
+    - 36.5:
+        non_striker: BKG Mendis
+        bowler: Mujeeb Ur Rahman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Samarawickrama
+        wicket:
+          player_out: S Samarawickrama
+          kind: bowled
+    - 36.6:
+        non_striker: BKG Mendis
+        bowler: Mujeeb Ur Rahman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KIC Asalanka
+    - 37.1:
+        non_striker: BKG Mendis
+        bowler: Mohammad Nabi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KIC Asalanka
+    - 37.2:
+        non_striker: BKG Mendis
+        bowler: Mohammad Nabi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KIC Asalanka
+    - 37.3:
+        non_striker: BKG Mendis
+        bowler: Mohammad Nabi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KIC Asalanka
+    - 37.4:
+        non_striker: BKG Mendis
+        bowler: Mohammad Nabi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KIC Asalanka
+    - 37.5:
+        non_striker: KIC Asalanka
+        bowler: Mohammad Nabi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BKG Mendis
+    - 37.6:
+        non_striker: BKG Mendis
+        bowler: Mohammad Nabi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KIC Asalanka
+    - 38.1:
+        non_striker: BKG Mendis
+        bowler: Mujeeb Ur Rahman
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          byes: 4
+        batsman: KIC Asalanka
+    - 38.2:
+        non_striker: BKG Mendis
+        bowler: Mujeeb Ur Rahman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KIC Asalanka
+    - 38.3:
+        non_striker: BKG Mendis
+        bowler: Mujeeb Ur Rahman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KIC Asalanka
+    - 38.4:
+        non_striker: BKG Mendis
+        bowler: Mujeeb Ur Rahman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KIC Asalanka
+    - 38.5:
+        non_striker: KIC Asalanka
+        bowler: Mujeeb Ur Rahman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BKG Mendis
+    - 38.6:
+        non_striker: KIC Asalanka
+        bowler: Mujeeb Ur Rahman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BKG Mendis
+    - 39.1:
+        non_striker: KIC Asalanka
+        bowler: Mohammad Nabi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: BKG Mendis
+    - 39.2:
+        non_striker: KIC Asalanka
+        bowler: Mohammad Nabi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BKG Mendis
+    - 39.3:
+        non_striker: KIC Asalanka
+        bowler: Mohammad Nabi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BKG Mendis
+    - 39.4:
+        non_striker: BKG Mendis
+        bowler: Mohammad Nabi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: KIC Asalanka
+    - 39.5:
+        non_striker: BKG Mendis
+        bowler: Mohammad Nabi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KIC Asalanka
+        wicket:
+          player_out: KIC Asalanka
+          kind: lbw
+    - 39.6:
+        non_striker: BKG Mendis
+        bowler: Mohammad Nabi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DM de Silva
+    - 40.1:
+        non_striker: BKG Mendis
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DM de Silva
+    - 40.2:
+        non_striker: DM de Silva
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BKG Mendis
+    - 40.3:
+        non_striker: DM de Silva
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BKG Mendis
+    - 40.4:
+        non_striker: DM de Silva
+        bowler: Noor Ahmad
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: BKG Mendis
+    - 40.5:
+        non_striker: DM de Silva
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BKG Mendis
+    - 40.6:
+        non_striker: BKG Mendis
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DM de Silva
+    - 40.7:
+        non_striker: BKG Mendis
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DM de Silva
+    - 41.1:
+        non_striker: DM de Silva
+        bowler: Fareed Ahmad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BKG Mendis
+    - 41.2:
+        non_striker: BKG Mendis
+        bowler: Fareed Ahmad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DM de Silva
+    - 41.3:
+        non_striker: BKG Mendis
+        bowler: Fareed Ahmad
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: DM de Silva
+    - 41.4:
+        non_striker: BKG Mendis
+        bowler: Fareed Ahmad
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: DM de Silva
+    - 41.5:
+        non_striker: BKG Mendis
+        bowler: Fareed Ahmad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DM de Silva
+    - 41.6:
+        non_striker: DM de Silva
+        bowler: Fareed Ahmad
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: BKG Mendis
+    - 42.1:
+        non_striker: DM de Silva
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BKG Mendis
+    - 42.2:
+        non_striker: BKG Mendis
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DM de Silva
+    - 42.3:
+        non_striker: DM de Silva
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BKG Mendis
+    - 42.4:
+        non_striker: DM de Silva
+        bowler: Noor Ahmad
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: BKG Mendis
+    - 42.5:
+        non_striker: DM de Silva
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: BKG Mendis
+    - 42.6:
+        non_striker: DM de Silva
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BKG Mendis
+    - 42.7:
+        non_striker: BKG Mendis
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: DM de Silva
+    - 43.1:
+        non_striker: DM de Silva
+        bowler: Fareed Ahmad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BKG Mendis
+    - 43.2:
+        non_striker: BKG Mendis
+        bowler: Fareed Ahmad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DM de Silva
+    - 43.3:
+        non_striker: DM de Silva
+        bowler: Fareed Ahmad
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BKG Mendis
+    - 43.4:
+        non_striker: DM de Silva
+        bowler: Fareed Ahmad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BKG Mendis
+        wicket:
+          player_out: BKG Mendis
+          fielders:
+          - Rahmanullah Gurbaz
+          kind: caught
+    - 43.5:
+        non_striker: DM de Silva
+        bowler: Fareed Ahmad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MD Shanaka
+    - 43.6:
+        non_striker: DM de Silva
+        bowler: Fareed Ahmad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MD Shanaka
+    - 44.1:
+        non_striker: DM de Silva
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MD Shanaka
+    - 44.2:
+        non_striker: MD Shanaka
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DM de Silva
+    - 44.3:
+        non_striker: DM de Silva
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MD Shanaka
+    - 44.4:
+        non_striker: MD Shanaka
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DM de Silva
+    - 44.5:
+        non_striker: MD Shanaka
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DM de Silva
+    - 44.6:
+        non_striker: DM de Silva
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: MD Shanaka
+    - 45.1:
+        non_striker: MD Shanaka
+        bowler: Fareed Ahmad
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: DM de Silva
+    - 45.2:
+        non_striker: MD Shanaka
+        bowler: Fareed Ahmad
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: DM de Silva
+    - 45.3:
+        non_striker: DM de Silva
+        bowler: Fareed Ahmad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MD Shanaka
+    - 45.4:
+        non_striker: DM de Silva
+        bowler: Fareed Ahmad
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MD Shanaka
+    - 45.5:
+        non_striker: DM de Silva
+        bowler: Fareed Ahmad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MD Shanaka
+    - 45.6:
+        non_striker: MD Shanaka
+        bowler: Fareed Ahmad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DM de Silva
+    - 46.1:
+        non_striker: MD Shanaka
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DM de Silva
+    - 46.2:
+        non_striker: MD Shanaka
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DM de Silva
+    - 46.3:
+        non_striker: DM de Silva
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MD Shanaka
+    - 46.4:
+        non_striker: DM de Silva
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MD Shanaka
+    - 46.5:
+        non_striker: DM de Silva
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MD Shanaka
+    - 46.6:
+        non_striker: DM de Silva
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MD Shanaka
+    - 47.1:
+        non_striker: DM de Silva
+        bowler: Fareed Ahmad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MD Shanaka
+        wicket:
+          player_out: MD Shanaka
+          fielders:
+          - Rahmanullah Gurbaz
+          kind: caught
+    - 47.2:
+        non_striker: DM de Silva
+        bowler: Fareed Ahmad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PWH de Silva
+    - 47.3:
+        non_striker: DM de Silva
+        bowler: Fareed Ahmad
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: PWH de Silva
+    - 47.4:
+        non_striker: DM de Silva
+        bowler: Fareed Ahmad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PWH de Silva
+    - 47.5:
+        non_striker: PWH de Silva
+        bowler: Fareed Ahmad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DM de Silva
+    - 47.6:
+        non_striker: DM de Silva
+        bowler: Fareed Ahmad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PWH de Silva
+    - 48.1:
+        non_striker: DM de Silva
+        bowler: Azmatullah Omarzai
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: PWH de Silva
+    - 48.2:
+        non_striker: DM de Silva
+        bowler: Azmatullah Omarzai
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: PWH de Silva
+    - 48.3:
+        non_striker: DM de Silva
+        bowler: Azmatullah Omarzai
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: PWH de Silva
+    - 48.4:
+        non_striker: DM de Silva
+        bowler: Azmatullah Omarzai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PWH de Silva
+    - 48.5:
+        non_striker: DM de Silva
+        bowler: Azmatullah Omarzai
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: PWH de Silva
+    - 48.6:
+        non_striker: DM de Silva
+        bowler: Azmatullah Omarzai
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: PWH de Silva
+    - 48.7:
+        non_striker: PWH de Silva
+        bowler: Azmatullah Omarzai
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: DM de Silva
+    - 49.1:
+        non_striker: DM de Silva
+        bowler: Fareed Ahmad
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: PWH de Silva
+    - 49.2:
+        non_striker: DM de Silva
+        bowler: Fareed Ahmad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PWH de Silva
+    - 49.3:
+        non_striker: PWH de Silva
+        bowler: Fareed Ahmad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DM de Silva
+    - 49.4:
+        non_striker: DM de Silva
+        bowler: Fareed Ahmad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PWH de Silva
+    - 49.5:
+        non_striker: PWH de Silva
+        bowler: Fareed Ahmad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DM de Silva
+    - 49.6:
+        non_striker: PWH de Silva
+        bowler: Fareed Ahmad
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: DM de Silva
+- 2nd innings:
+    team: Afghanistan
+    deliveries:
+    - 0.1:
+        non_striker: Ibrahim Zadran
+        bowler: CAK Rajitha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rahmanullah Gurbaz
+    - 0.2:
+        non_striker: Ibrahim Zadran
+        bowler: CAK Rajitha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rahmanullah Gurbaz
+    - 0.3:
+        non_striker: Ibrahim Zadran
+        bowler: CAK Rajitha
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rahmanullah Gurbaz
+    - 0.4:
+        non_striker: Rahmanullah Gurbaz
+        bowler: CAK Rajitha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ibrahim Zadran
+    - 0.5:
+        non_striker: Rahmanullah Gurbaz
+        bowler: CAK Rajitha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ibrahim Zadran
+    - 0.6:
+        non_striker: Rahmanullah Gurbaz
+        bowler: CAK Rajitha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ibrahim Zadran
+    - 1.1:
+        non_striker: Ibrahim Zadran
+        bowler: PVD Chameera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rahmanullah Gurbaz
+    - 1.2:
+        non_striker: Ibrahim Zadran
+        bowler: PVD Chameera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rahmanullah Gurbaz
+    - 1.3:
+        non_striker: Ibrahim Zadran
+        bowler: PVD Chameera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rahmanullah Gurbaz
+    - 1.4:
+        non_striker: Ibrahim Zadran
+        bowler: PVD Chameera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rahmanullah Gurbaz
+    - 1.5:
+        non_striker: Ibrahim Zadran
+        bowler: PVD Chameera
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rahmanullah Gurbaz
+    - 1.6:
+        non_striker: Rahmanullah Gurbaz
+        bowler: PVD Chameera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ibrahim Zadran
+    - 2.1:
+        non_striker: Ibrahim Zadran
+        bowler: CAK Rajitha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rahmanullah Gurbaz
+    - 2.2:
+        non_striker: Ibrahim Zadran
+        bowler: CAK Rajitha
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: Rahmanullah Gurbaz
+    - 2.3:
+        non_striker: Rahmanullah Gurbaz
+        bowler: CAK Rajitha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ibrahim Zadran
+    - 2.4:
+        non_striker: Rahmanullah Gurbaz
+        bowler: CAK Rajitha
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Ibrahim Zadran
+    - 2.5:
+        non_striker: Rahmanullah Gurbaz
+        bowler: CAK Rajitha
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Ibrahim Zadran
+    - 2.6:
+        non_striker: Rahmanullah Gurbaz
+        bowler: CAK Rajitha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ibrahim Zadran
+    - 3.1:
+        non_striker: Ibrahim Zadran
+        bowler: PVD Chameera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rahmanullah Gurbaz
+    - 3.2:
+        non_striker: Ibrahim Zadran
+        bowler: PVD Chameera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rahmanullah Gurbaz
+        wicket:
+          player_out: Rahmanullah Gurbaz
+          fielders:
+          - BKG Mendis
+          kind: caught
+    - 3.3:
+        non_striker: Ibrahim Zadran
+        bowler: PVD Chameera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rahmat Shah
+    - 3.4:
+        non_striker: Ibrahim Zadran
+        bowler: PVD Chameera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rahmat Shah
+    - 3.5:
+        non_striker: Ibrahim Zadran
+        bowler: PVD Chameera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rahmat Shah
+    - 3.6:
+        non_striker: Ibrahim Zadran
+        bowler: PVD Chameera
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rahmat Shah
+    - 4.1:
+        non_striker: Ibrahim Zadran
+        bowler: CAK Rajitha
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Rahmat Shah
+    - 4.2:
+        non_striker: Ibrahim Zadran
+        bowler: CAK Rajitha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rahmat Shah
+    - 4.3:
+        non_striker: Ibrahim Zadran
+        bowler: CAK Rajitha
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: Rahmat Shah
+    - 4.4:
+        non_striker: Rahmat Shah
+        bowler: CAK Rajitha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ibrahim Zadran
+    - 4.5:
+        non_striker: Rahmat Shah
+        bowler: CAK Rajitha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ibrahim Zadran
+    - 4.6:
+        non_striker: Rahmat Shah
+        bowler: CAK Rajitha
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ibrahim Zadran
+    - 4.7:
+        non_striker: Ibrahim Zadran
+        bowler: CAK Rajitha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rahmat Shah
+    - 5.1:
+        non_striker: Rahmat Shah
+        bowler: PVD Chameera
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Ibrahim Zadran
+    - 5.2:
+        non_striker: Rahmat Shah
+        bowler: PVD Chameera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ibrahim Zadran
+    - 5.3:
+        non_striker: Rahmat Shah
+        bowler: PVD Chameera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ibrahim Zadran
+    - 5.4:
+        non_striker: Rahmat Shah
+        bowler: PVD Chameera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ibrahim Zadran
+    - 5.5:
+        non_striker: Rahmat Shah
+        bowler: PVD Chameera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ibrahim Zadran
+    - 5.6:
+        non_striker: Rahmat Shah
+        bowler: PVD Chameera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ibrahim Zadran
+    - 6.1:
+        non_striker: Ibrahim Zadran
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rahmat Shah
+    - 6.2:
+        non_striker: Ibrahim Zadran
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rahmat Shah
+    - 6.3:
+        non_striker: Rahmat Shah
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ibrahim Zadran
+    - 6.4:
+        non_striker: Rahmat Shah
+        bowler: M Theekshana
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: Ibrahim Zadran
+    - 6.5:
+        non_striker: Ibrahim Zadran
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rahmat Shah
+    - 6.6:
+        non_striker: Rahmat Shah
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ibrahim Zadran
+    - 7.1:
+        non_striker: Rahmat Shah
+        bowler: PVD Chameera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ibrahim Zadran
+    - 7.2:
+        non_striker: Rahmat Shah
+        bowler: PVD Chameera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ibrahim Zadran
+    - 7.3:
+        non_striker: Rahmat Shah
+        bowler: PVD Chameera
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ibrahim Zadran
+    - 7.4:
+        non_striker: Ibrahim Zadran
+        bowler: PVD Chameera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rahmat Shah
+    - 7.5:
+        non_striker: Ibrahim Zadran
+        bowler: PVD Chameera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rahmat Shah
+    - 7.6:
+        non_striker: Ibrahim Zadran
+        bowler: PVD Chameera
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rahmat Shah
+    - 8.1:
+        non_striker: Ibrahim Zadran
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rahmat Shah
+    - 8.2:
+        non_striker: Rahmat Shah
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ibrahim Zadran
+    - 8.3:
+        non_striker: Rahmat Shah
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ibrahim Zadran
+    - 8.4:
+        non_striker: Ibrahim Zadran
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rahmat Shah
+    - 8.5:
+        non_striker: Ibrahim Zadran
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rahmat Shah
+    - 8.6:
+        non_striker: Ibrahim Zadran
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rahmat Shah
+    - 9.1:
+        non_striker: Ibrahim Zadran
+        bowler: CAK Rajitha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rahmat Shah
+    - 9.2:
+        non_striker: Ibrahim Zadran
+        bowler: CAK Rajitha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rahmat Shah
+    - 9.3:
+        non_striker: Ibrahim Zadran
+        bowler: CAK Rajitha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rahmat Shah
+    - 9.4:
+        non_striker: Ibrahim Zadran
+        bowler: CAK Rajitha
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Rahmat Shah
+    - 9.5:
+        non_striker: Ibrahim Zadran
+        bowler: CAK Rajitha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rahmat Shah
+    - 9.6:
+        non_striker: Ibrahim Zadran
+        bowler: CAK Rajitha
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rahmat Shah
+    - 10.1:
+        non_striker: Ibrahim Zadran
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rahmat Shah
+    - 10.2:
+        non_striker: Rahmat Shah
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ibrahim Zadran
+    - 10.3:
+        non_striker: Ibrahim Zadran
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rahmat Shah
+    - 10.4:
+        non_striker: Rahmat Shah
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ibrahim Zadran
+    - 10.5:
+        non_striker: Ibrahim Zadran
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rahmat Shah
+    - 10.6:
+        non_striker: Rahmat Shah
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ibrahim Zadran
+    - 11.1:
+        non_striker: Ibrahim Zadran
+        bowler: CAK Rajitha
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rahmat Shah
+    - 11.2:
+        non_striker: Rahmat Shah
+        bowler: CAK Rajitha
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ibrahim Zadran
+    - 11.3:
+        non_striker: Ibrahim Zadran
+        bowler: CAK Rajitha
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Rahmat Shah
+    - 11.4:
+        non_striker: Ibrahim Zadran
+        bowler: CAK Rajitha
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Rahmat Shah
+    - 11.5:
+        non_striker: Ibrahim Zadran
+        bowler: CAK Rajitha
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rahmat Shah
+    - 11.6:
+        non_striker: Rahmat Shah
+        bowler: CAK Rajitha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ibrahim Zadran
+    - 12.1:
+        non_striker: Ibrahim Zadran
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rahmat Shah
+    - 12.2:
+        non_striker: Ibrahim Zadran
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rahmat Shah
+    - 12.3:
+        non_striker: Rahmat Shah
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ibrahim Zadran
+    - 12.4:
+        non_striker: Ibrahim Zadran
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Rahmat Shah
+    - 12.5:
+        non_striker: Ibrahim Zadran
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rahmat Shah
+    - 12.6:
+        non_striker: Rahmat Shah
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ibrahim Zadran
+    - 13.1:
+        non_striker: Ibrahim Zadran
+        bowler: MD Shanaka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rahmat Shah
+    - 13.2:
+        non_striker: Rahmat Shah
+        bowler: MD Shanaka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ibrahim Zadran
+    - 13.3:
+        non_striker: Rahmat Shah
+        bowler: MD Shanaka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ibrahim Zadran
+    - 13.4:
+        non_striker: Rahmat Shah
+        bowler: MD Shanaka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ibrahim Zadran
+    - 13.5:
+        non_striker: Rahmat Shah
+        bowler: MD Shanaka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ibrahim Zadran
+    - 13.6:
+        non_striker: Rahmat Shah
+        bowler: MD Shanaka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ibrahim Zadran
+    - 14.1:
+        non_striker: Rahmat Shah
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ibrahim Zadran
+    - 14.2:
+        non_striker: Ibrahim Zadran
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rahmat Shah
+    - 14.3:
+        non_striker: Ibrahim Zadran
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rahmat Shah
+    - 14.4:
+        non_striker: Ibrahim Zadran
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rahmat Shah
+    - 14.5:
+        non_striker: Ibrahim Zadran
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rahmat Shah
+    - 14.6:
+        non_striker: Rahmat Shah
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ibrahim Zadran
+    - 15.1:
+        non_striker: Ibrahim Zadran
+        bowler: MD Shanaka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rahmat Shah
+    - 15.2:
+        non_striker: Rahmat Shah
+        bowler: MD Shanaka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ibrahim Zadran
+    - 15.3:
+        non_striker: Ibrahim Zadran
+        bowler: MD Shanaka
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Rahmat Shah
+    - 15.4:
+        non_striker: Ibrahim Zadran
+        bowler: MD Shanaka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rahmat Shah
+        wicket:
+          player_out: Rahmat Shah
+          kind: lbw
+    - 15.5:
+        non_striker: Ibrahim Zadran
+        bowler: MD Shanaka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Hashmatullah Shahidi
+    - 15.6:
+        non_striker: Ibrahim Zadran
+        bowler: MD Shanaka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Hashmatullah Shahidi
+    - 16.1:
+        non_striker: Ibrahim Zadran
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Hashmatullah Shahidi
+    - 16.2:
+        non_striker: Ibrahim Zadran
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Hashmatullah Shahidi
+    - 16.3:
+        non_striker: Ibrahim Zadran
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Hashmatullah Shahidi
+    - 16.4:
+        non_striker: Ibrahim Zadran
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Hashmatullah Shahidi
+    - 16.5:
+        non_striker: Ibrahim Zadran
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Hashmatullah Shahidi
+    - 16.6:
+        non_striker: Ibrahim Zadran
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Hashmatullah Shahidi
+    - 17.1:
+        non_striker: Ibrahim Zadran
+        bowler: MD Shanaka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Hashmatullah Shahidi
+    - 17.2:
+        non_striker: Ibrahim Zadran
+        bowler: MD Shanaka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Hashmatullah Shahidi
+    - 17.3:
+        non_striker: Hashmatullah Shahidi
+        bowler: MD Shanaka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ibrahim Zadran
+    - 17.4:
+        non_striker: Ibrahim Zadran
+        bowler: MD Shanaka
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Hashmatullah Shahidi
+    - 17.5:
+        non_striker: Ibrahim Zadran
+        bowler: MD Shanaka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Hashmatullah Shahidi
+    - 17.6:
+        non_striker: Hashmatullah Shahidi
+        bowler: MD Shanaka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ibrahim Zadran
+    - 17.7:
+        non_striker: Ibrahim Zadran
+        bowler: MD Shanaka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Hashmatullah Shahidi
+    - 18.1:
+        non_striker: Ibrahim Zadran
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Hashmatullah Shahidi
+    - 18.2:
+        non_striker: Hashmatullah Shahidi
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ibrahim Zadran
+    - 18.3:
+        non_striker: Ibrahim Zadran
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Hashmatullah Shahidi
+    - 18.4:
+        non_striker: Hashmatullah Shahidi
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ibrahim Zadran
+    - 18.5:
+        non_striker: Ibrahim Zadran
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Hashmatullah Shahidi
+    - 18.6:
+        non_striker: Hashmatullah Shahidi
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ibrahim Zadran
+    - 19.1:
+        non_striker: Hashmatullah Shahidi
+        bowler: MD Shanaka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ibrahim Zadran
+    - 19.2:
+        non_striker: Ibrahim Zadran
+        bowler: MD Shanaka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Hashmatullah Shahidi
+    - 19.3:
+        non_striker: Hashmatullah Shahidi
+        bowler: MD Shanaka
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: Ibrahim Zadran
+    - 19.4:
+        non_striker: Ibrahim Zadran
+        bowler: MD Shanaka
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Hashmatullah Shahidi
+    - 19.5:
+        non_striker: Ibrahim Zadran
+        bowler: MD Shanaka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Hashmatullah Shahidi
+    - 19.6:
+        non_striker: Hashmatullah Shahidi
+        bowler: MD Shanaka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ibrahim Zadran
+    - 19.7:
+        non_striker: Ibrahim Zadran
+        bowler: MD Shanaka
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Hashmatullah Shahidi
+    - 20.1:
+        non_striker: Hashmatullah Shahidi
+        bowler: DM de Silva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ibrahim Zadran
+    - 20.2:
+        non_striker: Hashmatullah Shahidi
+        bowler: DM de Silva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ibrahim Zadran
+    - 20.3:
+        non_striker: Hashmatullah Shahidi
+        bowler: DM de Silva
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ibrahim Zadran
+    - 20.4:
+        non_striker: Ibrahim Zadran
+        bowler: DM de Silva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Hashmatullah Shahidi
+    - 20.5:
+        non_striker: Ibrahim Zadran
+        bowler: DM de Silva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Hashmatullah Shahidi
+    - 20.6:
+        non_striker: Ibrahim Zadran
+        bowler: DM de Silva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Hashmatullah Shahidi
+    - 21.1:
+        non_striker: Hashmatullah Shahidi
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ibrahim Zadran
+    - 21.2:
+        non_striker: Hashmatullah Shahidi
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ibrahim Zadran
+    - 21.3:
+        non_striker: Ibrahim Zadran
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Hashmatullah Shahidi
+    - 21.4:
+        non_striker: Ibrahim Zadran
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Hashmatullah Shahidi
+    - 21.5:
+        non_striker: Ibrahim Zadran
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Hashmatullah Shahidi
+    - 21.6:
+        non_striker: Ibrahim Zadran
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Hashmatullah Shahidi
+    - 22.1:
+        non_striker: Hashmatullah Shahidi
+        bowler: DM de Silva
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ibrahim Zadran
+    - 22.2:
+        non_striker: Ibrahim Zadran
+        bowler: DM de Silva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Hashmatullah Shahidi
+    - 22.3:
+        non_striker: Ibrahim Zadran
+        bowler: DM de Silva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Hashmatullah Shahidi
+    - 22.4:
+        non_striker: Ibrahim Zadran
+        bowler: DM de Silva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Hashmatullah Shahidi
+    - 22.5:
+        non_striker: Ibrahim Zadran
+        bowler: DM de Silva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Hashmatullah Shahidi
+    - 22.6:
+        non_striker: Ibrahim Zadran
+        bowler: DM de Silva
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Hashmatullah Shahidi
+    - 23.1:
+        non_striker: Ibrahim Zadran
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Hashmatullah Shahidi
+    - 23.2:
+        non_striker: Hashmatullah Shahidi
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Ibrahim Zadran
+    - 23.3:
+        non_striker: Hashmatullah Shahidi
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ibrahim Zadran
+    - 23.4:
+        non_striker: Ibrahim Zadran
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Hashmatullah Shahidi
+    - 23.5:
+        non_striker: Hashmatullah Shahidi
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ibrahim Zadran
+    - 23.6:
+        non_striker: Hashmatullah Shahidi
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ibrahim Zadran
+    - 24.1:
+        non_striker: Hashmatullah Shahidi
+        bowler: DM de Silva
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ibrahim Zadran
+    - 24.2:
+        non_striker: Ibrahim Zadran
+        bowler: DM de Silva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Hashmatullah Shahidi
+    - 24.3:
+        non_striker: Ibrahim Zadran
+        bowler: DM de Silva
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Hashmatullah Shahidi
+    - 24.4:
+        non_striker: Hashmatullah Shahidi
+        bowler: DM de Silva
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ibrahim Zadran
+    - 24.5:
+        non_striker: Ibrahim Zadran
+        bowler: DM de Silva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Hashmatullah Shahidi
+    - 24.6:
+        non_striker: Ibrahim Zadran
+        bowler: DM de Silva
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Hashmatullah Shahidi
+    - 25.1:
+        non_striker: Ibrahim Zadran
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Hashmatullah Shahidi
+    - 25.2:
+        non_striker: Ibrahim Zadran
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Hashmatullah Shahidi
+    - 25.3:
+        non_striker: Ibrahim Zadran
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Hashmatullah Shahidi
+    - 25.4:
+        non_striker: Hashmatullah Shahidi
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ibrahim Zadran
+    - 25.5:
+        non_striker: Hashmatullah Shahidi
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Ibrahim Zadran
+    - 25.6:
+        non_striker: Hashmatullah Shahidi
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ibrahim Zadran
+    - 26.1:
+        non_striker: Ibrahim Zadran
+        bowler: DM de Silva
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Hashmatullah Shahidi
+    - 26.2:
+        non_striker: Ibrahim Zadran
+        bowler: DM de Silva
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Hashmatullah Shahidi
+    - 26.3:
+        non_striker: Hashmatullah Shahidi
+        bowler: DM de Silva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ibrahim Zadran
+    - 26.4:
+        non_striker: Hashmatullah Shahidi
+        bowler: DM de Silva
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ibrahim Zadran
+    - 26.5:
+        non_striker: Ibrahim Zadran
+        bowler: DM de Silva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Hashmatullah Shahidi
+    - 26.6:
+        non_striker: Ibrahim Zadran
+        bowler: DM de Silva
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Hashmatullah Shahidi
+    - 27.1:
+        non_striker: Ibrahim Zadran
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: Hashmatullah Shahidi
+    - 27.2:
+        non_striker: Hashmatullah Shahidi
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ibrahim Zadran
+    - 27.3:
+        non_striker: Hashmatullah Shahidi
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ibrahim Zadran
+    - 27.4:
+        non_striker: Hashmatullah Shahidi
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ibrahim Zadran
+    - 27.5:
+        non_striker: Ibrahim Zadran
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Hashmatullah Shahidi
+    - 27.6:
+        non_striker: Ibrahim Zadran
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Hashmatullah Shahidi
+    - 28.1:
+        non_striker: Hashmatullah Shahidi
+        bowler: DM de Silva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ibrahim Zadran
+    - 28.2:
+        non_striker: Hashmatullah Shahidi
+        bowler: DM de Silva
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ibrahim Zadran
+    - 28.3:
+        non_striker: Ibrahim Zadran
+        bowler: DM de Silva
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Hashmatullah Shahidi
+    - 28.4:
+        non_striker: Hashmatullah Shahidi
+        bowler: DM de Silva
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ibrahim Zadran
+    - 28.5:
+        non_striker: Ibrahim Zadran
+        bowler: DM de Silva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Hashmatullah Shahidi
+    - 28.6:
+        non_striker: Ibrahim Zadran
+        bowler: DM de Silva
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Hashmatullah Shahidi
+    - 29.1:
+        non_striker: Hashmatullah Shahidi
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ibrahim Zadran
+    - 29.2:
+        non_striker: Hashmatullah Shahidi
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ibrahim Zadran
+    - 29.3:
+        non_striker: Ibrahim Zadran
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Hashmatullah Shahidi
+    - 29.4:
+        non_striker: Ibrahim Zadran
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Hashmatullah Shahidi
+    - 29.5:
+        non_striker: Ibrahim Zadran
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Hashmatullah Shahidi
+    - 29.6:
+        non_striker: Hashmatullah Shahidi
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ibrahim Zadran
+    - 30.1:
+        non_striker: Hashmatullah Shahidi
+        bowler: DM de Silva
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ibrahim Zadran
+    - 30.2:
+        non_striker: Ibrahim Zadran
+        bowler: DM de Silva
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Hashmatullah Shahidi
+    - 30.3:
+        non_striker: Hashmatullah Shahidi
+        bowler: DM de Silva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ibrahim Zadran
+        wicket:
+          player_out: Ibrahim Zadran
+          fielders:
+          - BKG Mendis
+          kind: caught
+    - 30.4:
+        non_striker: Hashmatullah Shahidi
+        bowler: DM de Silva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Najibullah Zadran
+    - 30.5:
+        non_striker: Hashmatullah Shahidi
+        bowler: DM de Silva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Najibullah Zadran
+    - 30.6:
+        non_striker: Hashmatullah Shahidi
+        bowler: DM de Silva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Najibullah Zadran
+    - 31.1:
+        non_striker: Najibullah Zadran
+        bowler: PVD Chameera
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Hashmatullah Shahidi
+    - 31.2:
+        non_striker: Hashmatullah Shahidi
+        bowler: PVD Chameera
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Najibullah Zadran
+    - 31.3:
+        non_striker: Najibullah Zadran
+        bowler: PVD Chameera
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Hashmatullah Shahidi
+    - 31.4:
+        non_striker: Hashmatullah Shahidi
+        bowler: PVD Chameera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Najibullah Zadran
+    - 31.5:
+        non_striker: Hashmatullah Shahidi
+        bowler: PVD Chameera
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Najibullah Zadran
+    - 31.6:
+        non_striker: Hashmatullah Shahidi
+        bowler: PVD Chameera
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Najibullah Zadran
+    - 31.7:
+        non_striker: Najibullah Zadran
+        bowler: PVD Chameera
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Hashmatullah Shahidi
+    - 32.1:
+        non_striker: Najibullah Zadran
+        bowler: DM de Silva
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Hashmatullah Shahidi
+    - 32.2:
+        non_striker: Najibullah Zadran
+        bowler: DM de Silva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Hashmatullah Shahidi
+    - 32.3:
+        non_striker: Najibullah Zadran
+        bowler: DM de Silva
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Hashmatullah Shahidi
+    - 32.4:
+        non_striker: Hashmatullah Shahidi
+        bowler: DM de Silva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Najibullah Zadran
+    - 32.5:
+        non_striker: Hashmatullah Shahidi
+        bowler: DM de Silva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Najibullah Zadran
+        wicket:
+          player_out: Najibullah Zadran
+          fielders:
+          - P Nissanka
+          kind: caught
+    - 32.6:
+        non_striker: Hashmatullah Shahidi
+        bowler: DM de Silva
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Nabi
+    - 33.1:
+        non_striker: Hashmatullah Shahidi
+        bowler: PVD Chameera
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Nabi
+    - 33.2:
+        non_striker: Mohammad Nabi
+        bowler: PVD Chameera
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Hashmatullah Shahidi
+    - 33.3:
+        non_striker: Hashmatullah Shahidi
+        bowler: PVD Chameera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Nabi
+    - 33.4:
+        non_striker: Hashmatullah Shahidi
+        bowler: PVD Chameera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Nabi
+    - 33.5:
+        non_striker: Hashmatullah Shahidi
+        bowler: PVD Chameera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Nabi
+        wicket:
+          player_out: Mohammad Nabi
+          fielders:
+          - BKG Mendis
+          kind: caught
+    - 33.6:
+        non_striker: Hashmatullah Shahidi
+        bowler: PVD Chameera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Azmatullah Omarzai
+    - 34.1:
+        non_striker: Azmatullah Omarzai
+        bowler: DM de Silva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Hashmatullah Shahidi
+        wicket:
+          player_out: Hashmatullah Shahidi
+          kind: lbw
+    - 34.2:
+        non_striker: Azmatullah Omarzai
+        bowler: DM de Silva
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Noor Ahmad
+    - 34.3:
+        non_striker: Noor Ahmad
+        bowler: DM de Silva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Azmatullah Omarzai
+    - 34.4:
+        non_striker: Noor Ahmad
+        bowler: DM de Silva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Azmatullah Omarzai
+    - 34.5:
+        non_striker: Noor Ahmad
+        bowler: DM de Silva
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Azmatullah Omarzai
+    - 34.6:
+        non_striker: Azmatullah Omarzai
+        bowler: DM de Silva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Noor Ahmad
+    - 35.1:
+        non_striker: Noor Ahmad
+        bowler: PVD Chameera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Azmatullah Omarzai
+    - 35.2:
+        non_striker: Noor Ahmad
+        bowler: PVD Chameera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Azmatullah Omarzai
+    - 35.3:
+        non_striker: Noor Ahmad
+        bowler: PVD Chameera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Azmatullah Omarzai
+    - 35.4:
+        non_striker: Noor Ahmad
+        bowler: PVD Chameera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Azmatullah Omarzai
+    - 35.5:
+        non_striker: Noor Ahmad
+        bowler: PVD Chameera
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Azmatullah Omarzai
+    - 35.6:
+        non_striker: Noor Ahmad
+        bowler: PVD Chameera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Azmatullah Omarzai
+    - 36.1:
+        non_striker: Azmatullah Omarzai
+        bowler: DM de Silva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Noor Ahmad
+    - 36.2:
+        non_striker: Azmatullah Omarzai
+        bowler: DM de Silva
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Noor Ahmad
+    - 36.3:
+        non_striker: Noor Ahmad
+        bowler: DM de Silva
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Azmatullah Omarzai
+    - 36.4:
+        non_striker: Azmatullah Omarzai
+        bowler: DM de Silva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Noor Ahmad
+    - 36.5:
+        non_striker: Azmatullah Omarzai
+        bowler: DM de Silva
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Noor Ahmad
+    - 36.6:
+        non_striker: Noor Ahmad
+        bowler: DM de Silva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Azmatullah Omarzai
+    - 37.1:
+        non_striker: Azmatullah Omarzai
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Noor Ahmad
+        wicket:
+          player_out: Noor Ahmad
+          kind: bowled
+    - 37.2:
+        non_striker: Azmatullah Omarzai
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mujeeb Ur Rahman
+    - 37.3:
+        non_striker: Azmatullah Omarzai
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mujeeb Ur Rahman
+        wicket:
+          player_out: Mujeeb Ur Rahman
+          kind: lbw
+    - 37.4:
+        non_striker: Azmatullah Omarzai
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fareed Ahmad
+    - 37.5:
+        non_striker: Azmatullah Omarzai
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fareed Ahmad
+    - 37.6:
+        non_striker: Azmatullah Omarzai
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fareed Ahmad
+    - 38.1:
+        non_striker: Fareed Ahmad
+        bowler: DM de Silva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Azmatullah Omarzai
+    - 38.2:
+        non_striker: Fareed Ahmad
+        bowler: DM de Silva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Azmatullah Omarzai
+    - 38.3:
+        non_striker: Fareed Ahmad
+        bowler: DM de Silva
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Azmatullah Omarzai
+    - 38.4:
+        non_striker: Fareed Ahmad
+        bowler: DM de Silva
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Azmatullah Omarzai
+    - 38.5:
+        non_striker: Fareed Ahmad
+        bowler: DM de Silva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Azmatullah Omarzai
+    - 38.6:
+        non_striker: Fareed Ahmad
+        bowler: DM de Silva
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Azmatullah Omarzai
+    - 39.1:
+        non_striker: Fareed Ahmad
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Azmatullah Omarzai
+    - 39.2:
+        non_striker: Fareed Ahmad
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Azmatullah Omarzai
+    - 39.3:
+        non_striker: Fareed Ahmad
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Azmatullah Omarzai
+    - 39.4:
+        non_striker: Fareed Ahmad
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Azmatullah Omarzai
+    - 39.5:
+        non_striker: Fareed Ahmad
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Azmatullah Omarzai
+    - 39.6:
+        non_striker: Fareed Ahmad
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Azmatullah Omarzai
+    - 40.1:
+        non_striker: Fareed Ahmad
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Azmatullah Omarzai
+    - 40.2:
+        non_striker: Fareed Ahmad
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Azmatullah Omarzai
+    - 40.3:
+        non_striker: Fareed Ahmad
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Azmatullah Omarzai
+    - 40.4:
+        non_striker: Fareed Ahmad
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Azmatullah Omarzai
+    - 40.5:
+        non_striker: Fareed Ahmad
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Azmatullah Omarzai
+    - 40.6:
+        non_striker: Fareed Ahmad
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Azmatullah Omarzai
+    - 41.1:
+        non_striker: Azmatullah Omarzai
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fareed Ahmad
+    - 41.2:
+        non_striker: Azmatullah Omarzai
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fareed Ahmad
+        wicket:
+          player_out: Fareed Ahmad
+          kind: bowled
+    - 41.3:
+        non_striker: Azmatullah Omarzai
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fazalhaq Farooqi
+    - 41.4:
+        non_striker: Azmatullah Omarzai
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fazalhaq Farooqi
+    - 41.5:
+        non_striker: Azmatullah Omarzai
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fazalhaq Farooqi
+    - 41.6:
+        non_striker: Azmatullah Omarzai
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fazalhaq Farooqi
+    - 42.1:
+        non_striker: Fazalhaq Farooqi
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Azmatullah Omarzai
+        wicket:
+          player_out: Azmatullah Omarzai
+          fielders:
+          - MD Shanaka
+          kind: caught

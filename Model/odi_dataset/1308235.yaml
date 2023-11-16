@@ -1,0 +1,4942 @@
+---
+meta:
+  data_version: 0.92
+  created: '2022-11-09'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Lahore
+  dates:
+  - '2022-11-09'
+  gender: female
+  match_type: ODI
+  match_type_number: 1298
+  outcome:
+    winner: Pakistan
+    by:
+      wickets: 5
+  overs: 50
+  player_of_match:
+  - Ghulam Fatima
+  players:
+    Ireland:
+    - L Paul
+    - GH Lewis
+    - A Hunter
+    - O Prendergast
+    - L Delany
+    - EAJ Richardson
+    - MV Waldron
+    - Rachel Delaney
+    - AN Kelly
+    - C Murray
+    - J Maguire
+    Pakistan:
+    - Muneeba Ali
+    - Sidra Ameen
+    - Sadaf Shamas
+    - Bismah Maroof
+    - Aliya Riaz
+    - Umaima Sohail
+    - Sidra Nawaz
+    - Umm-e-Hani
+    - Fatima Sana
+    - Nashra Sandhu
+    - Ghulam Fatima
+  registry:
+    people:
+      A Hunter: e8fa03ed
+      AN Kelly: 397369e0
+      Ali Naqvi: 3c89fc88
+      Aliya Riaz: 2904b4b6
+      Asif Yaqoob: 6b35790c
+      Bismah Maroof: 3b770527
+      C Murray: 5a50471c
+      EAJ Richardson: 50ee0500
+      Faisal Afridi: ed0bc503
+      Fatima Sana: ea9c54de
+      GH Lewis: 1b9d1579
+      Ghulam Fatima: 3d689960
+      Imran Javed: 9a1405c8
+      J Maguire: 1b1c23bb
+      L Delany: b4f73b44
+      L Paul: '07248d8e'
+      MV Waldron: 2e4f11e9
+      Muneeba Ali: 86fdf668
+      Nashra Sandhu: c981d3c2
+      O Prendergast: d8f20ba5
+      Rachel Delaney: d284ef29
+      Sadaf Shamas: f19c8dc0
+      Sidra Ameen: 72c9ad99
+      Sidra Nawaz: ca3ded6f
+      Umaima Sohail: 821d7d46
+      Umm-e-Hani: 6ee11109
+  teams:
+  - Ireland
+  - Pakistan
+  toss:
+    winner: Ireland
+    decision: bat
+  umpires:
+  - Asif Yaqoob
+  - Faisal Afridi
+  venue: Gaddafi Stadium, Lahore
+innings:
+- 1st innings:
+    team: Ireland
+    deliveries:
+    - 0.1:
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: GH Lewis
+        batsman: L Paul
+    - 0.2:
+        non_striker: L Paul
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GH Lewis
+    - 0.3:
+        non_striker: L Paul
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GH Lewis
+    - 0.4:
+        non_striker: L Paul
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GH Lewis
+    - 0.5:
+        non_striker: L Paul
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GH Lewis
+    - 0.6:
+        non_striker: L Paul
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GH Lewis
+    - 1.1:
+        non_striker: GH Lewis
+        bowler: Umm-e-Hani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Paul
+    - 1.2:
+        non_striker: GH Lewis
+        bowler: Umm-e-Hani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Paul
+    - 1.3:
+        non_striker: GH Lewis
+        bowler: Umm-e-Hani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Paul
+    - 1.4:
+        non_striker: GH Lewis
+        bowler: Umm-e-Hani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Paul
+    - 1.5:
+        non_striker: GH Lewis
+        bowler: Umm-e-Hani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Paul
+    - 1.6:
+        non_striker: GH Lewis
+        bowler: Umm-e-Hani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Paul
+    - 2.1:
+        non_striker: L Paul
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GH Lewis
+    - 2.2:
+        non_striker: L Paul
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GH Lewis
+    - 2.3:
+        non_striker: L Paul
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GH Lewis
+    - 2.4:
+        non_striker: L Paul
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GH Lewis
+    - 2.5:
+        non_striker: L Paul
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GH Lewis
+    - 2.6:
+        non_striker: L Paul
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GH Lewis
+    - 3.1:
+        non_striker: GH Lewis
+        bowler: Umm-e-Hani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Paul
+    - 3.2:
+        non_striker: GH Lewis
+        bowler: Umm-e-Hani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Paul
+    - 3.3:
+        non_striker: GH Lewis
+        bowler: Umm-e-Hani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Paul
+    - 3.4:
+        non_striker: GH Lewis
+        bowler: Umm-e-Hani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Paul
+    - 3.5:
+        non_striker: GH Lewis
+        bowler: Umm-e-Hani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Paul
+    - 3.6:
+        non_striker: GH Lewis
+        bowler: Umm-e-Hani
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: L Paul
+    - 4.1:
+        non_striker: GH Lewis
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Paul
+    - 4.2:
+        non_striker: L Paul
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GH Lewis
+    - 4.3:
+        non_striker: GH Lewis
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Paul
+    - 4.4:
+        non_striker: GH Lewis
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Paul
+    - 4.5:
+        non_striker: GH Lewis
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Paul
+    - 4.6:
+        non_striker: GH Lewis
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Paul
+    - 5.1:
+        non_striker: GH Lewis
+        bowler: Umm-e-Hani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Paul
+    - 5.2:
+        non_striker: GH Lewis
+        bowler: Umm-e-Hani
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: L Paul
+    - 5.3:
+        non_striker: GH Lewis
+        bowler: Umm-e-Hani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Paul
+    - 5.4:
+        non_striker: GH Lewis
+        bowler: Umm-e-Hani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Paul
+    - 5.5:
+        non_striker: L Paul
+        bowler: Umm-e-Hani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GH Lewis
+    - 5.6:
+        non_striker: GH Lewis
+        bowler: Umm-e-Hani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Paul
+    - 6.1:
+        non_striker: L Paul
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GH Lewis
+    - 6.2:
+        non_striker: L Paul
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GH Lewis
+    - 6.3:
+        non_striker: L Paul
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GH Lewis
+    - 6.4:
+        non_striker: L Paul
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GH Lewis
+    - 6.5:
+        non_striker: L Paul
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GH Lewis
+    - 6.6:
+        non_striker: L Paul
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GH Lewis
+    - 7.1:
+        non_striker: GH Lewis
+        bowler: Umm-e-Hani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Paul
+    - 7.2:
+        non_striker: GH Lewis
+        bowler: Umm-e-Hani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Paul
+    - 7.3:
+        non_striker: GH Lewis
+        bowler: Umm-e-Hani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Paul
+    - 7.4:
+        non_striker: L Paul
+        bowler: Umm-e-Hani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GH Lewis
+    - 7.5:
+        non_striker: GH Lewis
+        bowler: Umm-e-Hani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Paul
+    - 7.6:
+        non_striker: L Paul
+        bowler: Umm-e-Hani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GH Lewis
+    - 8.1:
+        non_striker: GH Lewis
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: L Paul
+    - 8.2:
+        non_striker: GH Lewis
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: L Paul
+    - 8.3:
+        non_striker: GH Lewis
+        bowler: Fatima Sana
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: L Paul
+    - 8.4:
+        non_striker: L Paul
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GH Lewis
+    - 8.5:
+        non_striker: GH Lewis
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Paul
+    - 8.6:
+        non_striker: GH Lewis
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Paul
+    - 8.7:
+        non_striker: GH Lewis
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: L Paul
+    - 9.1:
+        non_striker: L Paul
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GH Lewis
+    - 9.2:
+        non_striker: L Paul
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GH Lewis
+    - 9.3:
+        non_striker: L Paul
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GH Lewis
+    - 9.4:
+        non_striker: L Paul
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: GH Lewis
+    - 9.5:
+        non_striker: L Paul
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GH Lewis
+    - 9.6:
+        non_striker: L Paul
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GH Lewis
+    - 10.1:
+        non_striker: GH Lewis
+        bowler: Aliya Riaz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Paul
+    - 10.2:
+        non_striker: GH Lewis
+        bowler: Aliya Riaz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Paul
+    - 10.3:
+        non_striker: L Paul
+        bowler: Aliya Riaz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GH Lewis
+    - 10.4:
+        non_striker: L Paul
+        bowler: Aliya Riaz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GH Lewis
+    - 10.5:
+        non_striker: GH Lewis
+        bowler: Aliya Riaz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Paul
+    - 10.6:
+        non_striker: GH Lewis
+        bowler: Aliya Riaz
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: L Paul
+    - 11.1:
+        non_striker: L Paul
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GH Lewis
+    - 11.2:
+        non_striker: GH Lewis
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: L Paul
+    - 11.3:
+        non_striker: GH Lewis
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Paul
+    - 11.4:
+        non_striker: L Paul
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GH Lewis
+    - 11.5:
+        non_striker: L Paul
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GH Lewis
+    - 11.6:
+        non_striker: L Paul
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GH Lewis
+    - 12.1:
+        non_striker: GH Lewis
+        bowler: Aliya Riaz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Paul
+    - 12.2:
+        non_striker: L Paul
+        bowler: Aliya Riaz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GH Lewis
+    - 12.3:
+        non_striker: L Paul
+        bowler: Aliya Riaz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GH Lewis
+    - 12.4:
+        non_striker: GH Lewis
+        bowler: Aliya Riaz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Paul
+    - 12.5:
+        non_striker: L Paul
+        bowler: Aliya Riaz
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GH Lewis
+    - 12.6:
+        non_striker: L Paul
+        bowler: Aliya Riaz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GH Lewis
+    - 13.1:
+        non_striker: GH Lewis
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Paul
+    - 13.2:
+        non_striker: GH Lewis
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Paul
+    - 13.3:
+        non_striker: L Paul
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GH Lewis
+    - 13.4:
+        non_striker: GH Lewis
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Paul
+    - 13.5:
+        non_striker: GH Lewis
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Paul
+    - 13.6:
+        non_striker: GH Lewis
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Paul
+    - 14.1:
+        non_striker: GH Lewis
+        bowler: Aliya Riaz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Paul
+    - 14.2:
+        non_striker: L Paul
+        bowler: Aliya Riaz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GH Lewis
+    - 14.3:
+        non_striker: GH Lewis
+        bowler: Aliya Riaz
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: L Paul
+    - 14.4:
+        non_striker: GH Lewis
+        bowler: Aliya Riaz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Paul
+    - 14.5:
+        non_striker: L Paul
+        bowler: Aliya Riaz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GH Lewis
+    - 14.6:
+        non_striker: L Paul
+        bowler: Aliya Riaz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GH Lewis
+    - 14.7:
+        non_striker: GH Lewis
+        bowler: Aliya Riaz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Paul
+    - 15.1:
+        non_striker: GH Lewis
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Paul
+    - 15.2:
+        non_striker: L Paul
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GH Lewis
+    - 15.3:
+        non_striker: L Paul
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GH Lewis
+    - 15.4:
+        non_striker: L Paul
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: GH Lewis
+    - 15.5:
+        non_striker: L Paul
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GH Lewis
+    - 15.6:
+        non_striker: L Paul
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GH Lewis
+    - 16.1:
+        non_striker: L Paul
+        bowler: Aliya Riaz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GH Lewis
+    - 16.2:
+        non_striker: L Paul
+        bowler: Aliya Riaz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GH Lewis
+    - 16.3:
+        non_striker: L Paul
+        bowler: Aliya Riaz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GH Lewis
+    - 16.4:
+        non_striker: L Paul
+        bowler: Aliya Riaz
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: GH Lewis
+    - 16.5:
+        non_striker: L Paul
+        bowler: Aliya Riaz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GH Lewis
+    - 16.6:
+        non_striker: L Paul
+        bowler: Aliya Riaz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GH Lewis
+    - 17.1:
+        non_striker: L Paul
+        bowler: Ghulam Fatima
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: GH Lewis
+    - 17.2:
+        non_striker: L Paul
+        bowler: Ghulam Fatima
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GH Lewis
+    - 17.3:
+        non_striker: L Paul
+        bowler: Ghulam Fatima
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GH Lewis
+    - 17.4:
+        non_striker: L Paul
+        bowler: Ghulam Fatima
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GH Lewis
+    - 17.5:
+        non_striker: L Paul
+        bowler: Ghulam Fatima
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GH Lewis
+    - 17.6:
+        non_striker: L Paul
+        bowler: Ghulam Fatima
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GH Lewis
+    - 18.1:
+        non_striker: GH Lewis
+        bowler: Umaima Sohail
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Paul
+    - 18.2:
+        non_striker: GH Lewis
+        bowler: Umaima Sohail
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Paul
+    - 18.3:
+        non_striker: GH Lewis
+        bowler: Umaima Sohail
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Paul
+    - 18.4:
+        non_striker: L Paul
+        bowler: Umaima Sohail
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GH Lewis
+    - 18.5:
+        non_striker: L Paul
+        bowler: Umaima Sohail
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GH Lewis
+    - 18.6:
+        non_striker: GH Lewis
+        bowler: Umaima Sohail
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Paul
+    - 19.1:
+        non_striker: GH Lewis
+        bowler: Ghulam Fatima
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Paul
+    - 19.2:
+        non_striker: GH Lewis
+        bowler: Ghulam Fatima
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Paul
+    - 19.3:
+        non_striker: L Paul
+        bowler: Ghulam Fatima
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: GH Lewis
+    - 19.4:
+        non_striker: L Paul
+        bowler: Ghulam Fatima
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GH Lewis
+    - 19.5:
+        non_striker: GH Lewis
+        bowler: Ghulam Fatima
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Paul
+    - 19.6:
+        non_striker: GH Lewis
+        bowler: Ghulam Fatima
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Paul
+    - 20.1:
+        non_striker: L Paul
+        bowler: Umaima Sohail
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: GH Lewis
+    - 20.2:
+        non_striker: L Paul
+        bowler: Umaima Sohail
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GH Lewis
+    - 20.3:
+        non_striker: L Paul
+        bowler: Umaima Sohail
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GH Lewis
+    - 20.4:
+        non_striker: GH Lewis
+        bowler: Umaima Sohail
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Paul
+    - 20.5:
+        non_striker: GH Lewis
+        bowler: Umaima Sohail
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Paul
+    - 20.6:
+        non_striker: GH Lewis
+        bowler: Umaima Sohail
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Paul
+    - 21.1:
+        non_striker: L Paul
+        bowler: Ghulam Fatima
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GH Lewis
+        wicket:
+          player_out: GH Lewis
+          fielders:
+          - Sidra Nawaz
+          kind: caught
+    - 21.2:
+        non_striker: L Paul
+        bowler: Ghulam Fatima
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Hunter
+    - 21.3:
+        non_striker: L Paul
+        bowler: Ghulam Fatima
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Hunter
+    - 21.4:
+        non_striker: L Paul
+        bowler: Ghulam Fatima
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Hunter
+    - 21.5:
+        non_striker: L Paul
+        bowler: Ghulam Fatima
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Hunter
+    - 21.6:
+        non_striker: L Paul
+        bowler: Ghulam Fatima
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Hunter
+    - 22.1:
+        non_striker: A Hunter
+        bowler: Umaima Sohail
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Paul
+    - 22.2:
+        non_striker: A Hunter
+        bowler: Umaima Sohail
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Paul
+    - 22.3:
+        non_striker: L Paul
+        bowler: Umaima Sohail
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Hunter
+    - 22.4:
+        non_striker: L Paul
+        bowler: Umaima Sohail
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Hunter
+    - 22.5:
+        non_striker: L Paul
+        bowler: Umaima Sohail
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Hunter
+    - 22.6:
+        non_striker: L Paul
+        bowler: Umaima Sohail
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Hunter
+    - 23.1:
+        non_striker: L Paul
+        bowler: Ghulam Fatima
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Hunter
+    - 23.2:
+        non_striker: L Paul
+        bowler: Ghulam Fatima
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Hunter
+    - 23.3:
+        non_striker: L Paul
+        bowler: Ghulam Fatima
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Hunter
+    - 23.4:
+        non_striker: L Paul
+        bowler: Ghulam Fatima
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Hunter
+    - 23.5:
+        non_striker: A Hunter
+        bowler: Ghulam Fatima
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Paul
+    - 23.6:
+        non_striker: A Hunter
+        bowler: Ghulam Fatima
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Paul
+    - 24.1:
+        non_striker: L Paul
+        bowler: Umaima Sohail
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Hunter
+    - 24.2:
+        non_striker: L Paul
+        bowler: Umaima Sohail
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Hunter
+    - 24.3:
+        non_striker: A Hunter
+        bowler: Umaima Sohail
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Paul
+    - 24.4:
+        non_striker: A Hunter
+        bowler: Umaima Sohail
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Paul
+    - 24.5:
+        non_striker: L Paul
+        bowler: Umaima Sohail
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Hunter
+    - 24.6:
+        non_striker: L Paul
+        bowler: Umaima Sohail
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Hunter
+    - 25.1:
+        non_striker: L Paul
+        bowler: Ghulam Fatima
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Hunter
+    - 25.2:
+        non_striker: L Paul
+        bowler: Ghulam Fatima
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Hunter
+    - 25.3:
+        non_striker: L Paul
+        bowler: Ghulam Fatima
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Hunter
+    - 25.4:
+        non_striker: L Paul
+        bowler: Ghulam Fatima
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Hunter
+    - 25.5:
+        non_striker: L Paul
+        bowler: Ghulam Fatima
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Hunter
+    - 25.6:
+        non_striker: L Paul
+        bowler: Ghulam Fatima
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Hunter
+    - 26.1:
+        non_striker: A Hunter
+        bowler: Umaima Sohail
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Paul
+    - 26.2:
+        non_striker: A Hunter
+        bowler: Umaima Sohail
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Paul
+    - 26.3:
+        non_striker: A Hunter
+        bowler: Umaima Sohail
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Paul
+    - 26.4:
+        non_striker: A Hunter
+        bowler: Umaima Sohail
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Paul
+    - 26.5:
+        non_striker: A Hunter
+        bowler: Umaima Sohail
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Paul
+    - 26.6:
+        non_striker: A Hunter
+        bowler: Umaima Sohail
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Paul
+    - 27.1:
+        non_striker: A Hunter
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Paul
+    - 27.2:
+        non_striker: A Hunter
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: L Paul
+    - 27.3:
+        non_striker: A Hunter
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Paul
+    - 27.4:
+        non_striker: A Hunter
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Paul
+    - 27.5:
+        non_striker: L Paul
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Hunter
+    - 27.6:
+        non_striker: A Hunter
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Paul
+    - 28.1:
+        non_striker: A Hunter
+        bowler: Umm-e-Hani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Paul
+    - 28.2:
+        non_striker: A Hunter
+        bowler: Umm-e-Hani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Paul
+    - 28.3:
+        non_striker: L Paul
+        bowler: Umm-e-Hani
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Hunter
+    - 28.4:
+        non_striker: L Paul
+        bowler: Umm-e-Hani
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Hunter
+    - 28.5:
+        non_striker: L Paul
+        bowler: Umm-e-Hani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Hunter
+    - 28.6:
+        non_striker: A Hunter
+        bowler: Umm-e-Hani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Paul
+    - 29.1:
+        non_striker: A Hunter
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Paul
+    - 29.2:
+        non_striker: L Paul
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Hunter
+    - 29.3:
+        non_striker: L Paul
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Hunter
+    - 29.4:
+        non_striker: L Paul
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Hunter
+    - 29.5:
+        non_striker: L Paul
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Hunter
+    - 29.6:
+        non_striker: L Paul
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Hunter
+    - 30.1:
+        non_striker: A Hunter
+        bowler: Umm-e-Hani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Paul
+    - 30.2:
+        non_striker: A Hunter
+        bowler: Umm-e-Hani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Paul
+    - 30.3:
+        non_striker: L Paul
+        bowler: Umm-e-Hani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Hunter
+    - 30.4:
+        non_striker: L Paul
+        bowler: Umm-e-Hani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Hunter
+    - 30.5:
+        non_striker: L Paul
+        bowler: Umm-e-Hani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Hunter
+    - 30.6:
+        non_striker: A Hunter
+        bowler: Umm-e-Hani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Paul
+    - 31.1:
+        non_striker: A Hunter
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Paul
+    - 31.2:
+        non_striker: L Paul
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Hunter
+    - 31.3:
+        non_striker: A Hunter
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Paul
+    - 31.4:
+        non_striker: A Hunter
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Paul
+    - 31.5:
+        non_striker: L Paul
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Hunter
+    - 31.6:
+        non_striker: A Hunter
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Paul
+    - 32.1:
+        non_striker: A Hunter
+        bowler: Umm-e-Hani
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: L Paul
+    - 32.2:
+        non_striker: A Hunter
+        bowler: Umm-e-Hani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Paul
+    - 32.3:
+        non_striker: L Paul
+        bowler: Umm-e-Hani
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: A Hunter
+    - 32.4:
+        non_striker: L Paul
+        bowler: Umm-e-Hani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Hunter
+    - 32.5:
+        non_striker: L Paul
+        bowler: Umm-e-Hani
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Hunter
+    - 32.6:
+        non_striker: L Paul
+        bowler: Umm-e-Hani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Hunter
+    - 32.7:
+        non_striker: L Paul
+        bowler: Umm-e-Hani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Hunter
+    - 33.1:
+        non_striker: A Hunter
+        bowler: Ghulam Fatima
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Paul
+    - 33.2:
+        non_striker: L Paul
+        bowler: Ghulam Fatima
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Hunter
+    - 33.3:
+        non_striker: L Paul
+        bowler: Ghulam Fatima
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Hunter
+        wicket:
+          player_out: A Hunter
+          fielders:
+          - Sidra Nawaz
+          kind: stumped
+    - 33.4:
+        non_striker: L Paul
+        bowler: Ghulam Fatima
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Prendergast
+    - 33.5:
+        non_striker: L Paul
+        bowler: Ghulam Fatima
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Prendergast
+    - 33.6:
+        non_striker: L Paul
+        bowler: Ghulam Fatima
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: O Prendergast
+    - 34.1:
+        non_striker: L Paul
+        bowler: Umm-e-Hani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: O Prendergast
+    - 34.2:
+        non_striker: O Prendergast
+        bowler: Umm-e-Hani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Paul
+    - 34.3:
+        non_striker: O Prendergast
+        bowler: Umm-e-Hani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Paul
+    - 34.4:
+        non_striker: O Prendergast
+        bowler: Umm-e-Hani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Paul
+        wicket:
+          player_out: L Paul
+          fielders:
+          - Sidra Nawaz
+          kind: stumped
+    - 34.5:
+        non_striker: O Prendergast
+        bowler: Umm-e-Hani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Delany
+    - 34.6:
+        non_striker: L Delany
+        bowler: Umm-e-Hani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: O Prendergast
+    - 35.1:
+        non_striker: L Delany
+        bowler: Ghulam Fatima
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Prendergast
+    - 35.2:
+        non_striker: L Delany
+        bowler: Ghulam Fatima
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: O Prendergast
+    - 35.3:
+        non_striker: L Delany
+        bowler: Ghulam Fatima
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Prendergast
+    - 35.4:
+        non_striker: L Delany
+        bowler: Ghulam Fatima
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Prendergast
+    - 35.5:
+        non_striker: L Delany
+        bowler: Ghulam Fatima
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: O Prendergast
+    - 35.6:
+        non_striker: O Prendergast
+        bowler: Ghulam Fatima
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Delany
+    - 36.1:
+        non_striker: O Prendergast
+        bowler: Umm-e-Hani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Delany
+    - 36.2:
+        non_striker: O Prendergast
+        bowler: Umm-e-Hani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Delany
+    - 36.3:
+        non_striker: L Delany
+        bowler: Umm-e-Hani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: O Prendergast
+    - 36.4:
+        non_striker: O Prendergast
+        bowler: Umm-e-Hani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Delany
+    - 36.5:
+        non_striker: L Delany
+        bowler: Umm-e-Hani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Prendergast
+    - 36.6:
+        non_striker: L Delany
+        bowler: Umm-e-Hani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: O Prendergast
+    - 37.1:
+        non_striker: L Delany
+        bowler: Ghulam Fatima
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Prendergast
+        wicket:
+          player_out: O Prendergast
+          kind: bowled
+    - 37.2:
+        non_striker: L Delany
+        bowler: Ghulam Fatima
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EAJ Richardson
+    - 37.3:
+        non_striker: L Delany
+        bowler: Ghulam Fatima
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EAJ Richardson
+    - 37.4:
+        non_striker: L Delany
+        bowler: Ghulam Fatima
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EAJ Richardson
+    - 37.5:
+        non_striker: L Delany
+        bowler: Ghulam Fatima
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: EAJ Richardson
+    - 37.6:
+        non_striker: L Delany
+        bowler: Ghulam Fatima
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EAJ Richardson
+    - 38.1:
+        non_striker: L Delany
+        bowler: Umm-e-Hani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EAJ Richardson
+    - 38.2:
+        non_striker: EAJ Richardson
+        bowler: Umm-e-Hani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Delany
+    - 38.3:
+        non_striker: EAJ Richardson
+        bowler: Umm-e-Hani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Delany
+    - 38.4:
+        non_striker: EAJ Richardson
+        bowler: Umm-e-Hani
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: L Delany
+    - 38.5:
+        non_striker: EAJ Richardson
+        bowler: Umm-e-Hani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Delany
+    - 38.6:
+        non_striker: L Delany
+        bowler: Umm-e-Hani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EAJ Richardson
+    - 39.1:
+        non_striker: L Delany
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: EAJ Richardson
+    - 39.2:
+        non_striker: L Delany
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EAJ Richardson
+    - 39.3:
+        non_striker: L Delany
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EAJ Richardson
+    - 39.4:
+        non_striker: L Delany
+        bowler: Fatima Sana
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: EAJ Richardson
+    - 39.5:
+        non_striker: L Delany
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: EAJ Richardson
+    - 39.6:
+        non_striker: L Delany
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EAJ Richardson
+    - 39.7:
+        non_striker: EAJ Richardson
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: L Delany
+    - 40.1:
+        non_striker: L Delany
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EAJ Richardson
+    - 40.2:
+        non_striker: EAJ Richardson
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Delany
+    - 40.3:
+        non_striker: EAJ Richardson
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Delany
+    - 40.4:
+        non_striker: L Delany
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: EAJ Richardson
+    - 40.5:
+        non_striker: L Delany
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EAJ Richardson
+    - 40.6:
+        non_striker: L Delany
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EAJ Richardson
+    - 41.1:
+        non_striker: L Delany
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EAJ Richardson
+    - 41.2:
+        non_striker: L Delany
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EAJ Richardson
+    - 41.3:
+        non_striker: L Delany
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EAJ Richardson
+    - 41.4:
+        non_striker: L Delany
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EAJ Richardson
+    - 41.5:
+        non_striker: EAJ Richardson
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Delany
+    - 41.6:
+        non_striker: L Delany
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: EAJ Richardson
+    - 42.1:
+        non_striker: EAJ Richardson
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Delany
+    - 42.2:
+        non_striker: L Delany
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EAJ Richardson
+    - 42.3:
+        non_striker: L Delany
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EAJ Richardson
+    - 42.4:
+        non_striker: EAJ Richardson
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: L Delany
+    - 42.5:
+        non_striker: L Delany
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EAJ Richardson
+    - 42.6:
+        non_striker: EAJ Richardson
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Delany
+    - 43.1:
+        non_striker: L Delany
+        bowler: Ghulam Fatima
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EAJ Richardson
+    - 43.2:
+        non_striker: L Delany
+        bowler: Ghulam Fatima
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EAJ Richardson
+    - 43.3:
+        non_striker: L Delany
+        bowler: Ghulam Fatima
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EAJ Richardson
+    - 43.4:
+        non_striker: EAJ Richardson
+        bowler: Ghulam Fatima
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Delany
+    - 43.5:
+        non_striker: L Delany
+        bowler: Ghulam Fatima
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EAJ Richardson
+        wicket:
+          player_out: EAJ Richardson
+          fielders:
+          - Aliya Riaz
+          kind: caught
+    - 43.6:
+        non_striker: L Delany
+        bowler: Ghulam Fatima
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MV Waldron
+    - 44.1:
+        non_striker: MV Waldron
+        bowler: Aliya Riaz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Delany
+    - 44.2:
+        non_striker: MV Waldron
+        bowler: Aliya Riaz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Delany
+    - 44.3:
+        non_striker: L Delany
+        bowler: Aliya Riaz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MV Waldron
+    - 44.4:
+        non_striker: MV Waldron
+        bowler: Aliya Riaz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Delany
+    - 44.5:
+        non_striker: L Delany
+        bowler: Aliya Riaz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MV Waldron
+    - 44.6:
+        non_striker: L Delany
+        bowler: Aliya Riaz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MV Waldron
+    - 45.1:
+        non_striker: L Delany
+        bowler: Ghulam Fatima
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MV Waldron
+    - 45.2:
+        non_striker: L Delany
+        bowler: Ghulam Fatima
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MV Waldron
+    - 45.3:
+        non_striker: MV Waldron
+        bowler: Ghulam Fatima
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Delany
+    - 45.4:
+        non_striker: MV Waldron
+        bowler: Ghulam Fatima
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Delany
+        wicket:
+          player_out: L Delany
+          fielders:
+          - Sidra Nawaz
+          kind: stumped
+    - 45.5:
+        non_striker: MV Waldron
+        bowler: Ghulam Fatima
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rachel Delaney
+    - 45.6:
+        non_striker: MV Waldron
+        bowler: Ghulam Fatima
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rachel Delaney
+    - 46.1:
+        non_striker: MV Waldron
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rachel Delaney
+    - 46.2:
+        non_striker: MV Waldron
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rachel Delaney
+    - 46.3:
+        non_striker: Rachel Delaney
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MV Waldron
+    - 46.4:
+        non_striker: MV Waldron
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rachel Delaney
+    - 46.5:
+        non_striker: MV Waldron
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rachel Delaney
+    - 46.6:
+        non_striker: Rachel Delaney
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MV Waldron
+        wicket:
+          player_out: MV Waldron
+          kind: bowled
+    - 47.1:
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: AN Kelly
+        batsman: Rachel Delaney
+    - 47.2:
+        non_striker: Rachel Delaney
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AN Kelly
+    - 47.3:
+        non_striker: AN Kelly
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rachel Delaney
+    - 47.4:
+        non_striker: AN Kelly
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rachel Delaney
+    - 47.5:
+        non_striker: Rachel Delaney
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AN Kelly
+    - 47.6:
+        non_striker: AN Kelly
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rachel Delaney
+    - 48.1:
+        non_striker: AN Kelly
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rachel Delaney
+        wicket:
+          player_out: Rachel Delaney
+          fielders:
+          - Fatima Sana
+          kind: caught
+    - 48.2:
+        non_striker: AN Kelly
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Murray
+    - 48.3:
+        non_striker: AN Kelly
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Murray
+        wicket:
+          player_out: C Murray
+          fielders:
+          - Aliya Riaz
+          - Nashra Sandhu
+          kind: run out
+    - 48.4:
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: J Maguire
+        batsman: AN Kelly
+    - 48.5:
+        non_striker: AN Kelly
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Maguire
+    - 48.6:
+        non_striker: AN Kelly
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Maguire
+    - 49.1:
+        non_striker: J Maguire
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AN Kelly
+    - 49.2:
+        non_striker: J Maguire
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AN Kelly
+    - 49.3:
+        non_striker: AN Kelly
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Maguire
+    - 49.4:
+        non_striker: J Maguire
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AN Kelly
+    - 49.5:
+        non_striker: J Maguire
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AN Kelly
+        wicket:
+          player_out: AN Kelly
+          kind: bowled
+- 2nd innings:
+    team: Pakistan
+    deliveries:
+    - 0.1:
+        bowler: O Prendergast
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: Sidra Ameen
+        batsman: Muneeba Ali
+    - 0.2:
+        bowler: O Prendergast
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Sidra Ameen
+        batsman: Muneeba Ali
+    - 0.3:
+        non_striker: Muneeba Ali
+        bowler: O Prendergast
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sidra Ameen
+    - 0.4:
+        non_striker: Muneeba Ali
+        bowler: O Prendergast
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sidra Ameen
+    - 0.5:
+        non_striker: Muneeba Ali
+        bowler: O Prendergast
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sidra Ameen
+    - 0.6:
+        non_striker: Muneeba Ali
+        bowler: O Prendergast
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sidra Ameen
+    - 1.1:
+        non_striker: Sidra Ameen
+        bowler: J Maguire
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muneeba Ali
+    - 1.2:
+        non_striker: Sidra Ameen
+        bowler: J Maguire
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muneeba Ali
+    - 1.3:
+        non_striker: Sidra Ameen
+        bowler: J Maguire
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muneeba Ali
+    - 1.4:
+        non_striker: Sidra Ameen
+        bowler: J Maguire
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muneeba Ali
+    - 1.5:
+        non_striker: Sidra Ameen
+        bowler: J Maguire
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muneeba Ali
+    - 1.6:
+        non_striker: Sidra Ameen
+        bowler: J Maguire
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muneeba Ali
+    - 2.1:
+        non_striker: Muneeba Ali
+        bowler: O Prendergast
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sidra Ameen
+    - 2.2:
+        non_striker: Muneeba Ali
+        bowler: O Prendergast
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sidra Ameen
+    - 2.3:
+        non_striker: Muneeba Ali
+        bowler: O Prendergast
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sidra Ameen
+    - 2.4:
+        non_striker: Muneeba Ali
+        bowler: O Prendergast
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sidra Ameen
+    - 2.5:
+        non_striker: Muneeba Ali
+        bowler: O Prendergast
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sidra Ameen
+    - 2.6:
+        non_striker: Muneeba Ali
+        bowler: O Prendergast
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sidra Ameen
+    - 3.1:
+        non_striker: Muneeba Ali
+        bowler: J Maguire
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Sidra Ameen
+    - 3.2:
+        non_striker: Muneeba Ali
+        bowler: J Maguire
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sidra Ameen
+    - 3.3:
+        non_striker: Muneeba Ali
+        bowler: J Maguire
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sidra Ameen
+    - 3.4:
+        non_striker: Sidra Ameen
+        bowler: J Maguire
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muneeba Ali
+    - 3.5:
+        non_striker: Sidra Ameen
+        bowler: J Maguire
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muneeba Ali
+    - 3.6:
+        non_striker: Sidra Ameen
+        bowler: J Maguire
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Muneeba Ali
+    - 4.1:
+        non_striker: Sidra Ameen
+        bowler: O Prendergast
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muneeba Ali
+    - 4.2:
+        non_striker: Sidra Ameen
+        bowler: O Prendergast
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muneeba Ali
+    - 4.3:
+        non_striker: Sidra Ameen
+        bowler: O Prendergast
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Muneeba Ali
+    - 4.4:
+        non_striker: Muneeba Ali
+        bowler: O Prendergast
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sidra Ameen
+    - 4.5:
+        non_striker: Muneeba Ali
+        bowler: O Prendergast
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Sidra Ameen
+    - 4.6:
+        non_striker: Muneeba Ali
+        bowler: O Prendergast
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sidra Ameen
+    - 5.1:
+        non_striker: Sidra Ameen
+        bowler: J Maguire
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muneeba Ali
+    - 5.2:
+        non_striker: Sidra Ameen
+        bowler: J Maguire
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Muneeba Ali
+    - 5.3:
+        non_striker: Sidra Ameen
+        bowler: J Maguire
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Muneeba Ali
+    - 5.4:
+        non_striker: Sidra Ameen
+        bowler: J Maguire
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muneeba Ali
+    - 5.5:
+        non_striker: Sidra Ameen
+        bowler: J Maguire
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Muneeba Ali
+    - 5.6:
+        non_striker: Sidra Ameen
+        bowler: J Maguire
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Muneeba Ali
+    - 5.7:
+        non_striker: Sidra Ameen
+        bowler: J Maguire
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muneeba Ali
+    - 5.8:
+        non_striker: Sidra Ameen
+        bowler: J Maguire
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muneeba Ali
+    - 5.9:
+        non_striker: Sidra Ameen
+        bowler: J Maguire
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Muneeba Ali
+    - 6.1:
+        non_striker: Sidra Ameen
+        bowler: O Prendergast
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muneeba Ali
+    - 6.2:
+        non_striker: Sidra Ameen
+        bowler: O Prendergast
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muneeba Ali
+        wicket:
+          player_out: Muneeba Ali
+          kind: bowled
+    - 6.3:
+        non_striker: Sidra Ameen
+        bowler: O Prendergast
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sadaf Shamas
+    - 6.4:
+        non_striker: Sidra Ameen
+        bowler: O Prendergast
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sadaf Shamas
+    - 6.5:
+        non_striker: Sadaf Shamas
+        bowler: O Prendergast
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sidra Ameen
+    - 6.6:
+        non_striker: Sidra Ameen
+        bowler: O Prendergast
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sadaf Shamas
+    - 7.1:
+        non_striker: Sadaf Shamas
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sidra Ameen
+    - 7.2:
+        non_striker: Sadaf Shamas
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sidra Ameen
+    - 7.3:
+        non_striker: Sidra Ameen
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sadaf Shamas
+    - 7.4:
+        non_striker: Sidra Ameen
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sadaf Shamas
+    - 7.5:
+        non_striker: Sadaf Shamas
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sidra Ameen
+    - 7.6:
+        non_striker: Sadaf Shamas
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sidra Ameen
+    - 8.1:
+        non_striker: Sidra Ameen
+        bowler: J Maguire
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sadaf Shamas
+    - 8.2:
+        non_striker: Sidra Ameen
+        bowler: J Maguire
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sadaf Shamas
+    - 8.3:
+        non_striker: Sadaf Shamas
+        bowler: J Maguire
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sidra Ameen
+        wicket:
+          player_out: Sidra Ameen
+          kind: bowled
+    - 8.4:
+        non_striker: Sadaf Shamas
+        bowler: J Maguire
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Bismah Maroof
+    - 8.5:
+        non_striker: Bismah Maroof
+        bowler: J Maguire
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sadaf Shamas
+    - 8.6:
+        non_striker: Sadaf Shamas
+        bowler: J Maguire
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Bismah Maroof
+    - 9.1:
+        non_striker: Bismah Maroof
+        bowler: AN Kelly
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Sadaf Shamas
+    - 9.2:
+        non_striker: Bismah Maroof
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sadaf Shamas
+    - 9.3:
+        non_striker: Bismah Maroof
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sadaf Shamas
+    - 9.4:
+        non_striker: Bismah Maroof
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sadaf Shamas
+    - 9.5:
+        non_striker: Bismah Maroof
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Sadaf Shamas
+    - 9.6:
+        non_striker: Bismah Maroof
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sadaf Shamas
+    - 9.7:
+        non_striker: Bismah Maroof
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sadaf Shamas
+    - 10.1:
+        non_striker: Bismah Maroof
+        bowler: C Murray
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sadaf Shamas
+    - 10.2:
+        non_striker: Bismah Maroof
+        bowler: C Murray
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sadaf Shamas
+    - 10.3:
+        non_striker: Sadaf Shamas
+        bowler: C Murray
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Bismah Maroof
+    - 10.4:
+        non_striker: Sadaf Shamas
+        bowler: C Murray
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Bismah Maroof
+    - 10.5:
+        non_striker: Sadaf Shamas
+        bowler: C Murray
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Bismah Maroof
+    - 10.6:
+        non_striker: Bismah Maroof
+        bowler: C Murray
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sadaf Shamas
+    - 11.1:
+        non_striker: Sadaf Shamas
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Bismah Maroof
+    - 11.2:
+        non_striker: Sadaf Shamas
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Bismah Maroof
+    - 11.3:
+        non_striker: Sadaf Shamas
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Bismah Maroof
+    - 11.4:
+        non_striker: Sadaf Shamas
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Bismah Maroof
+    - 11.5:
+        non_striker: Bismah Maroof
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Sadaf Shamas
+    - 11.6:
+        non_striker: Bismah Maroof
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sadaf Shamas
+    - 12.1:
+        non_striker: Bismah Maroof
+        bowler: C Murray
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sadaf Shamas
+    - 12.2:
+        non_striker: Sadaf Shamas
+        bowler: C Murray
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Bismah Maroof
+    - 12.3:
+        non_striker: Sadaf Shamas
+        bowler: C Murray
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Bismah Maroof
+    - 12.4:
+        non_striker: Sadaf Shamas
+        bowler: C Murray
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Bismah Maroof
+    - 12.5:
+        non_striker: Sadaf Shamas
+        bowler: C Murray
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Bismah Maroof
+    - 12.6:
+        non_striker: Sadaf Shamas
+        bowler: C Murray
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Bismah Maroof
+    - 13.1:
+        non_striker: Bismah Maroof
+        bowler: L Delany
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sadaf Shamas
+    - 13.2:
+        non_striker: Bismah Maroof
+        bowler: L Delany
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sadaf Shamas
+    - 13.3:
+        non_striker: Bismah Maroof
+        bowler: L Delany
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sadaf Shamas
+    - 13.4:
+        non_striker: Bismah Maroof
+        bowler: L Delany
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sadaf Shamas
+    - 13.5:
+        non_striker: Bismah Maroof
+        bowler: L Delany
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sadaf Shamas
+    - 13.6:
+        non_striker: Sadaf Shamas
+        bowler: L Delany
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Bismah Maroof
+    - 14.1:
+        non_striker: Bismah Maroof
+        bowler: C Murray
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sadaf Shamas
+    - 14.2:
+        non_striker: Bismah Maroof
+        bowler: C Murray
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Sadaf Shamas
+    - 14.3:
+        non_striker: Bismah Maroof
+        bowler: C Murray
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sadaf Shamas
+    - 14.4:
+        non_striker: Bismah Maroof
+        bowler: C Murray
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sadaf Shamas
+    - 14.5:
+        non_striker: Bismah Maroof
+        bowler: C Murray
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sadaf Shamas
+    - 14.6:
+        non_striker: Bismah Maroof
+        bowler: C Murray
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sadaf Shamas
+    - 15.1:
+        non_striker: Sadaf Shamas
+        bowler: L Delany
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Bismah Maroof
+    - 15.2:
+        non_striker: Sadaf Shamas
+        bowler: L Delany
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Bismah Maroof
+    - 15.3:
+        non_striker: Bismah Maroof
+        bowler: L Delany
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sadaf Shamas
+    - 15.4:
+        non_striker: Sadaf Shamas
+        bowler: L Delany
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Bismah Maroof
+    - 15.5:
+        non_striker: Sadaf Shamas
+        bowler: L Delany
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Bismah Maroof
+    - 15.6:
+        non_striker: Sadaf Shamas
+        bowler: L Delany
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Bismah Maroof
+    - 16.1:
+        non_striker: Bismah Maroof
+        bowler: C Murray
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Sadaf Shamas
+    - 16.2:
+        non_striker: Bismah Maroof
+        bowler: C Murray
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sadaf Shamas
+    - 16.3:
+        non_striker: Bismah Maroof
+        bowler: C Murray
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sadaf Shamas
+    - 16.4:
+        non_striker: Sadaf Shamas
+        bowler: C Murray
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Bismah Maroof
+    - 16.5:
+        non_striker: Sadaf Shamas
+        bowler: C Murray
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Bismah Maroof
+    - 16.6:
+        non_striker: Sadaf Shamas
+        bowler: C Murray
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Bismah Maroof
+    - 17.1:
+        non_striker: Sadaf Shamas
+        bowler: L Delany
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Bismah Maroof
+    - 17.2:
+        non_striker: Sadaf Shamas
+        bowler: L Delany
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Bismah Maroof
+    - 17.3:
+        non_striker: Sadaf Shamas
+        bowler: L Delany
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Bismah Maroof
+    - 17.4:
+        non_striker: Sadaf Shamas
+        bowler: L Delany
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Bismah Maroof
+    - 17.5:
+        non_striker: Sadaf Shamas
+        bowler: L Delany
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Bismah Maroof
+    - 17.6:
+        non_striker: Sadaf Shamas
+        bowler: L Delany
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Bismah Maroof
+    - 18.1:
+        non_striker: Sadaf Shamas
+        bowler: EAJ Richardson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Bismah Maroof
+    - 18.2:
+        non_striker: Sadaf Shamas
+        bowler: EAJ Richardson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Bismah Maroof
+    - 18.3:
+        non_striker: Bismah Maroof
+        bowler: EAJ Richardson
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Sadaf Shamas
+    - 18.4:
+        non_striker: Bismah Maroof
+        bowler: EAJ Richardson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Sadaf Shamas
+    - 18.5:
+        non_striker: Bismah Maroof
+        bowler: EAJ Richardson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sadaf Shamas
+    - 18.6:
+        non_striker: Bismah Maroof
+        bowler: EAJ Richardson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sadaf Shamas
+    - 19.1:
+        non_striker: Sadaf Shamas
+        bowler: L Delany
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Bismah Maroof
+    - 19.2:
+        non_striker: Bismah Maroof
+        bowler: L Delany
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sadaf Shamas
+    - 19.3:
+        non_striker: Sadaf Shamas
+        bowler: L Delany
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Bismah Maroof
+    - 19.4:
+        non_striker: Bismah Maroof
+        bowler: L Delany
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sadaf Shamas
+    - 19.5:
+        non_striker: Bismah Maroof
+        bowler: L Delany
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sadaf Shamas
+    - 19.6:
+        non_striker: Sadaf Shamas
+        bowler: L Delany
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Bismah Maroof
+    - 20.1:
+        non_striker: Bismah Maroof
+        bowler: EAJ Richardson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sadaf Shamas
+    - 20.2:
+        non_striker: Sadaf Shamas
+        bowler: EAJ Richardson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Bismah Maroof
+    - 20.3:
+        non_striker: Bismah Maroof
+        bowler: EAJ Richardson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sadaf Shamas
+    - 20.4:
+        non_striker: Sadaf Shamas
+        bowler: EAJ Richardson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Bismah Maroof
+    - 20.5:
+        non_striker: Sadaf Shamas
+        bowler: EAJ Richardson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Bismah Maroof
+    - 20.6:
+        non_striker: Sadaf Shamas
+        bowler: EAJ Richardson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Bismah Maroof
+    - 21.1:
+        non_striker: Bismah Maroof
+        bowler: L Delany
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sadaf Shamas
+    - 21.2:
+        non_striker: Bismah Maroof
+        bowler: L Delany
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sadaf Shamas
+    - 21.3:
+        non_striker: Sadaf Shamas
+        bowler: L Delany
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Bismah Maroof
+    - 21.4:
+        non_striker: Bismah Maroof
+        bowler: L Delany
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sadaf Shamas
+    - 21.5:
+        non_striker: Sadaf Shamas
+        bowler: L Delany
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Bismah Maroof
+    - 21.6:
+        non_striker: Sadaf Shamas
+        bowler: L Delany
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Bismah Maroof
+    - 22.1:
+        non_striker: Bismah Maroof
+        bowler: EAJ Richardson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sadaf Shamas
+    - 22.2:
+        non_striker: Sadaf Shamas
+        bowler: EAJ Richardson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Bismah Maroof
+    - 22.3:
+        non_striker: Bismah Maroof
+        bowler: EAJ Richardson
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Sadaf Shamas
+    - 22.4:
+        non_striker: Bismah Maroof
+        bowler: EAJ Richardson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sadaf Shamas
+    - 22.5:
+        non_striker: Sadaf Shamas
+        bowler: EAJ Richardson
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Bismah Maroof
+    - 22.6:
+        non_striker: Sadaf Shamas
+        bowler: EAJ Richardson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Bismah Maroof
+    - 23.1:
+        non_striker: Sadaf Shamas
+        bowler: L Delany
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Bismah Maroof
+    - 23.2:
+        non_striker: Sadaf Shamas
+        bowler: L Delany
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Bismah Maroof
+    - 23.3:
+        non_striker: Sadaf Shamas
+        bowler: L Delany
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Bismah Maroof
+    - 23.4:
+        non_striker: Bismah Maroof
+        bowler: L Delany
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sadaf Shamas
+    - 23.5:
+        non_striker: Bismah Maroof
+        bowler: L Delany
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sadaf Shamas
+    - 23.6:
+        non_striker: Bismah Maroof
+        bowler: L Delany
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sadaf Shamas
+    - 24.1:
+        non_striker: Sadaf Shamas
+        bowler: EAJ Richardson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Bismah Maroof
+    - 24.2:
+        non_striker: Sadaf Shamas
+        bowler: EAJ Richardson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Bismah Maroof
+    - 24.3:
+        non_striker: Sadaf Shamas
+        bowler: EAJ Richardson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Bismah Maroof
+    - 24.4:
+        non_striker: Sadaf Shamas
+        bowler: EAJ Richardson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Bismah Maroof
+    - 24.5:
+        non_striker: Bismah Maroof
+        bowler: EAJ Richardson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Sadaf Shamas
+    - 24.6:
+        non_striker: Bismah Maroof
+        bowler: EAJ Richardson
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Sadaf Shamas
+    - 24.7:
+        non_striker: Bismah Maroof
+        bowler: EAJ Richardson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sadaf Shamas
+    - 25.1:
+        non_striker: Bismah Maroof
+        bowler: L Delany
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sadaf Shamas
+    - 25.2:
+        non_striker: Sadaf Shamas
+        bowler: L Delany
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Bismah Maroof
+    - 25.3:
+        non_striker: Sadaf Shamas
+        bowler: L Delany
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Bismah Maroof
+    - 25.4:
+        non_striker: Sadaf Shamas
+        bowler: L Delany
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Bismah Maroof
+    - 25.5:
+        non_striker: Sadaf Shamas
+        bowler: L Delany
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Bismah Maroof
+    - 25.6:
+        non_striker: Sadaf Shamas
+        bowler: L Delany
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Bismah Maroof
+    - 26.1:
+        non_striker: Sadaf Shamas
+        bowler: C Murray
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Bismah Maroof
+    - 26.2:
+        non_striker: Bismah Maroof
+        bowler: C Murray
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Sadaf Shamas
+    - 26.3:
+        non_striker: Bismah Maroof
+        bowler: C Murray
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sadaf Shamas
+    - 26.4:
+        non_striker: Bismah Maroof
+        bowler: C Murray
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sadaf Shamas
+    - 26.5:
+        non_striker: Bismah Maroof
+        bowler: C Murray
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Sadaf Shamas
+    - 26.6:
+        non_striker: Bismah Maroof
+        bowler: C Murray
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sadaf Shamas
+    - 27.1:
+        non_striker: Sadaf Shamas
+        bowler: L Delany
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Bismah Maroof
+    - 27.2:
+        non_striker: Bismah Maroof
+        bowler: L Delany
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sadaf Shamas
+    - 27.3:
+        non_striker: Bismah Maroof
+        bowler: L Delany
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Sadaf Shamas
+    - 27.4:
+        non_striker: Bismah Maroof
+        bowler: L Delany
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sadaf Shamas
+    - 27.5:
+        non_striker: Sadaf Shamas
+        bowler: L Delany
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Bismah Maroof
+    - 27.6:
+        non_striker: Sadaf Shamas
+        bowler: L Delany
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Bismah Maroof
+    - 28.1:
+        non_striker: Bismah Maroof
+        bowler: C Murray
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sadaf Shamas
+    - 28.2:
+        non_striker: Bismah Maroof
+        bowler: C Murray
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sadaf Shamas
+    - 28.3:
+        non_striker: Sadaf Shamas
+        bowler: C Murray
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Bismah Maroof
+    - 28.4:
+        non_striker: Sadaf Shamas
+        bowler: C Murray
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Bismah Maroof
+    - 28.5:
+        non_striker: Sadaf Shamas
+        bowler: C Murray
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Bismah Maroof
+    - 28.6:
+        non_striker: Bismah Maroof
+        bowler: C Murray
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sadaf Shamas
+    - 29.1:
+        non_striker: Bismah Maroof
+        bowler: J Maguire
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sadaf Shamas
+    - 29.2:
+        non_striker: Sadaf Shamas
+        bowler: J Maguire
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Bismah Maroof
+    - 29.3:
+        non_striker: Bismah Maroof
+        bowler: J Maguire
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sadaf Shamas
+    - 29.4:
+        non_striker: Sadaf Shamas
+        bowler: J Maguire
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Bismah Maroof
+    - 29.5:
+        non_striker: Bismah Maroof
+        bowler: J Maguire
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Sadaf Shamas
+    - 29.6:
+        non_striker: Bismah Maroof
+        bowler: J Maguire
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sadaf Shamas
+    - 29.7:
+        non_striker: Sadaf Shamas
+        bowler: J Maguire
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Bismah Maroof
+    - 30.1:
+        non_striker: Bismah Maroof
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sadaf Shamas
+    - 30.2:
+        non_striker: Sadaf Shamas
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Bismah Maroof
+    - 30.3:
+        non_striker: Bismah Maroof
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sadaf Shamas
+    - 30.4:
+        non_striker: Bismah Maroof
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Sadaf Shamas
+    - 30.5:
+        non_striker: Bismah Maroof
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sadaf Shamas
+    - 30.6:
+        non_striker: Sadaf Shamas
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Bismah Maroof
+    - 31.1:
+        non_striker: Sadaf Shamas
+        bowler: Rachel Delaney
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Bismah Maroof
+    - 31.2:
+        non_striker: Sadaf Shamas
+        bowler: Rachel Delaney
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Bismah Maroof
+        wicket:
+          player_out: Bismah Maroof
+          fielders:
+          - O Prendergast
+          kind: caught
+    - 31.3:
+        non_striker: Sadaf Shamas
+        bowler: Rachel Delaney
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aliya Riaz
+    - 31.4:
+        non_striker: Sadaf Shamas
+        bowler: Rachel Delaney
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Aliya Riaz
+    - 31.5:
+        non_striker: Sadaf Shamas
+        bowler: Rachel Delaney
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aliya Riaz
+    - 31.6:
+        non_striker: Sadaf Shamas
+        bowler: Rachel Delaney
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aliya Riaz
+    - 31.7:
+        non_striker: Sadaf Shamas
+        bowler: Rachel Delaney
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aliya Riaz
+    - 32.1:
+        non_striker: Aliya Riaz
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sadaf Shamas
+    - 32.2:
+        non_striker: Sadaf Shamas
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aliya Riaz
+    - 32.3:
+        non_striker: Sadaf Shamas
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aliya Riaz
+    - 32.4:
+        non_striker: Sadaf Shamas
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aliya Riaz
+    - 32.5:
+        non_striker: Aliya Riaz
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Sadaf Shamas
+    - 32.6:
+        non_striker: Aliya Riaz
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sadaf Shamas
+    - 33.1:
+        non_striker: Sadaf Shamas
+        bowler: Rachel Delaney
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aliya Riaz
+    - 33.2:
+        non_striker: Aliya Riaz
+        bowler: Rachel Delaney
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sadaf Shamas
+    - 33.3:
+        non_striker: Sadaf Shamas
+        bowler: Rachel Delaney
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Aliya Riaz
+    - 33.4:
+        non_striker: Sadaf Shamas
+        bowler: Rachel Delaney
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aliya Riaz
+    - 33.5:
+        non_striker: Aliya Riaz
+        bowler: Rachel Delaney
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sadaf Shamas
+    - 33.6:
+        non_striker: Sadaf Shamas
+        bowler: Rachel Delaney
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aliya Riaz
+    - 34.1:
+        non_striker: Aliya Riaz
+        bowler: EAJ Richardson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sadaf Shamas
+        wicket:
+          player_out: Sadaf Shamas
+          fielders:
+          - MV Waldron
+          kind: stumped
+    - 34.2:
+        non_striker: Aliya Riaz
+        bowler: EAJ Richardson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Umaima Sohail
+    - 34.3:
+        non_striker: Aliya Riaz
+        bowler: EAJ Richardson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Umaima Sohail
+    - 34.4:
+        non_striker: Aliya Riaz
+        bowler: EAJ Richardson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Umaima Sohail
+    - 34.5:
+        non_striker: Aliya Riaz
+        bowler: EAJ Richardson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Umaima Sohail
+    - 34.6:
+        non_striker: Aliya Riaz
+        bowler: EAJ Richardson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Umaima Sohail
+    - 35.1:
+        non_striker: Umaima Sohail
+        bowler: L Delany
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aliya Riaz
+    - 35.2:
+        non_striker: Aliya Riaz
+        bowler: L Delany
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Umaima Sohail
+    - 35.3:
+        non_striker: Aliya Riaz
+        bowler: L Delany
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Umaima Sohail
+    - 35.4:
+        non_striker: Aliya Riaz
+        bowler: L Delany
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Umaima Sohail
+    - 35.5:
+        non_striker: Umaima Sohail
+        bowler: L Delany
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Aliya Riaz
+    - 35.6:
+        non_striker: Umaima Sohail
+        bowler: L Delany
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aliya Riaz
+    - 36.1:
+        non_striker: Umaima Sohail
+        bowler: EAJ Richardson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aliya Riaz
+    - 36.2:
+        non_striker: Aliya Riaz
+        bowler: EAJ Richardson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Umaima Sohail
+    - 36.3:
+        non_striker: Umaima Sohail
+        bowler: EAJ Richardson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aliya Riaz
+    - 36.4:
+        non_striker: Umaima Sohail
+        bowler: EAJ Richardson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aliya Riaz
+    - 36.5:
+        non_striker: Umaima Sohail
+        bowler: EAJ Richardson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aliya Riaz
+    - 36.6:
+        non_striker: Umaima Sohail
+        bowler: EAJ Richardson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aliya Riaz
+    - 37.1:
+        non_striker: Umaima Sohail
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aliya Riaz
+    - 37.2:
+        non_striker: Umaima Sohail
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aliya Riaz
+    - 37.3:
+        non_striker: Aliya Riaz
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Umaima Sohail
+    - 37.4:
+        non_striker: Aliya Riaz
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Umaima Sohail
+    - 37.5:
+        non_striker: Umaima Sohail
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aliya Riaz
+    - 37.6:
+        non_striker: Aliya Riaz
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Umaima Sohail
+    - 38.1:
+        non_striker: Aliya Riaz
+        bowler: EAJ Richardson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Umaima Sohail
+    - 38.2:
+        non_striker: Aliya Riaz
+        bowler: EAJ Richardson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Umaima Sohail
+    - 38.3:
+        non_striker: Umaima Sohail
+        bowler: EAJ Richardson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aliya Riaz
+    - 38.4:
+        non_striker: Umaima Sohail
+        bowler: EAJ Richardson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aliya Riaz
+    - 38.5:
+        non_striker: Umaima Sohail
+        bowler: EAJ Richardson
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Aliya Riaz
+    - 38.6:
+        non_striker: Umaima Sohail
+        bowler: EAJ Richardson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aliya Riaz
+    - 38.7:
+        non_striker: Umaima Sohail
+        bowler: EAJ Richardson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aliya Riaz
+    - 39.1:
+        non_striker: Aliya Riaz
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Umaima Sohail
+    - 39.2:
+        non_striker: Aliya Riaz
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Umaima Sohail
+    - 39.3:
+        non_striker: Umaima Sohail
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Aliya Riaz
+    - 39.4:
+        non_striker: Umaima Sohail
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aliya Riaz
+    - 39.5:
+        non_striker: Umaima Sohail
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aliya Riaz
+    - 39.6:
+        non_striker: Aliya Riaz
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Umaima Sohail
+    - 40.1:
+        non_striker: Umaima Sohail
+        bowler: EAJ Richardson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aliya Riaz
+    - 40.2:
+        non_striker: Umaima Sohail
+        bowler: EAJ Richardson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aliya Riaz
+    - 40.3:
+        non_striker: Aliya Riaz
+        bowler: EAJ Richardson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Umaima Sohail
+    - 40.4:
+        non_striker: Aliya Riaz
+        bowler: EAJ Richardson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Umaima Sohail
+    - 40.5:
+        non_striker: Aliya Riaz
+        bowler: EAJ Richardson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Umaima Sohail
+    - 40.6:
+        non_striker: Umaima Sohail
+        bowler: EAJ Richardson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aliya Riaz
+    - 41.1:
+        non_striker: Umaima Sohail
+        bowler: L Delany
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aliya Riaz
+    - 41.2:
+        non_striker: Umaima Sohail
+        bowler: L Delany
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aliya Riaz
+    - 41.3:
+        non_striker: Umaima Sohail
+        bowler: L Delany
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aliya Riaz
+    - 41.4:
+        non_striker: Umaima Sohail
+        bowler: L Delany
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aliya Riaz
+    - 41.5:
+        non_striker: Umaima Sohail
+        bowler: L Delany
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aliya Riaz
+    - 41.6:
+        non_striker: Umaima Sohail
+        bowler: L Delany
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aliya Riaz
+    - 42.1:
+        non_striker: Umaima Sohail
+        bowler: EAJ Richardson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aliya Riaz
+        wicket:
+          player_out: Aliya Riaz
+          fielders:
+          - C Murray
+          kind: caught
+    - 42.2:
+        non_striker: Umaima Sohail
+        bowler: EAJ Richardson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sidra Nawaz
+    - 42.3:
+        non_striker: Sidra Nawaz
+        bowler: EAJ Richardson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Umaima Sohail
+    - 42.4:
+        non_striker: Sidra Nawaz
+        bowler: EAJ Richardson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Umaima Sohail
+    - 42.5:
+        non_striker: Sidra Nawaz
+        bowler: EAJ Richardson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Umaima Sohail
+    - 42.6:
+        non_striker: Umaima Sohail
+        bowler: EAJ Richardson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sidra Nawaz
+    - 43.1:
+        non_striker: Umaima Sohail
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sidra Nawaz
+    - 43.2:
+        non_striker: Umaima Sohail
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sidra Nawaz
+    - 43.3:
+        non_striker: Sidra Nawaz
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Umaima Sohail
+    - 43.4:
+        non_striker: Umaima Sohail
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sidra Nawaz
+    - 43.5:
+        non_striker: Umaima Sohail
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sidra Nawaz
+    - 43.6:
+        non_striker: Sidra Nawaz
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Umaima Sohail
+    - 44.1:
+        non_striker: Sidra Nawaz
+        bowler: EAJ Richardson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Umaima Sohail
+    - 44.2:
+        non_striker: Sidra Nawaz
+        bowler: EAJ Richardson
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Umaima Sohail
+    - 44.3:
+        non_striker: Sidra Nawaz
+        bowler: EAJ Richardson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Umaima Sohail
+    - 44.4:
+        non_striker: Umaima Sohail
+        bowler: EAJ Richardson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sidra Nawaz
+    - 44.5:
+        non_striker: Sidra Nawaz
+        bowler: EAJ Richardson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Umaima Sohail
+    - 44.6:
+        non_striker: Umaima Sohail
+        bowler: EAJ Richardson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sidra Nawaz
+    - 45.1:
+        non_striker: Sidra Nawaz
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Umaima Sohail
+    - 45.2:
+        non_striker: Sidra Nawaz
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Umaima Sohail
+    - 45.3:
+        non_striker: Umaima Sohail
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sidra Nawaz
+    - 45.4:
+        non_striker: Umaima Sohail
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sidra Nawaz
+    - 45.5:
+        non_striker: Sidra Nawaz
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Umaima Sohail
+    - 45.6:
+        non_striker: Umaima Sohail
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Sidra Nawaz
+    - 46.1:
+        non_striker: Sidra Nawaz
+        bowler: C Murray
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Umaima Sohail
+    - 46.2:
+        non_striker: Sidra Nawaz
+        bowler: C Murray
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Umaima Sohail
+    - 46.3:
+        non_striker: Umaima Sohail
+        bowler: C Murray
+        runs:
+          extras: 1
+          total: 5
+          batsman: 4
+        extras:
+          noballs: 1
+        batsman: Sidra Nawaz
+    - 46.4:
+        non_striker: Umaima Sohail
+        bowler: C Murray
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Sidra Nawaz
+    - 46.5:
+        non_striker: Umaima Sohail
+        bowler: C Murray
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sidra Nawaz
+    - 46.6:
+        non_striker: Sidra Nawaz
+        bowler: C Murray
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Umaima Sohail
+    - 46.7:
+        non_striker: Sidra Nawaz
+        bowler: C Murray
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Umaima Sohail
+    - 47.1:
+        non_striker: Umaima Sohail
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sidra Nawaz

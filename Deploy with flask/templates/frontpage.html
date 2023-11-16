@@ -1,0 +1,136 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <!-- Title of the Page -->
+    <title>Cricket Score Predictor</title>
+    <!-- Internal CSS Styles -->
+    <style>
+      /* Global Styling for the Body */
+      body {
+        background-image: url("/static/cricket5.jpg");
+        background-size: cover;
+        background-position: center;
+        background-color: #34495e;
+        font-family: "Poppins", sans-serif;
+        color: #ffffff;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        height: 100vh;
+        margin: 0;
+      }
+
+      /* Header Styling */
+      #header {
+        text-align: center;
+        margin-bottom: 40px;
+      }
+
+      /* Main Container Styling */
+      .main-container {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: space-between;
+        height: 100%;
+      }
+
+      /* Predict Button Styling */
+      a {
+        font-size: 2em; /* Optimal font size for readability and aesthetics */
+        font-weight: bold;
+        text-shadow: 2px 2px 4px #333; /* Subtle text shadow for added depth */
+        padding: 15px 30px;
+        background-color: rgba(
+          52,
+          73,
+          94,
+          0.8
+        ); /* Semi-transparent background for elegance */
+        color: #ffffff;
+        border: 2px solid #34495e;
+        border-radius: 40px;
+        margin-top: 20px;
+        margin-bottom: 250px;
+        text-decoration: none;
+        transition: background-color 0.3s ease; /* Smooth transition for an interactive feel */
+      }
+
+      /* Hover Effect for Predict Button */
+      a:hover {
+        background-color: #2c3e50; /* Darkened background on hover for visual feedback */
+      }
+
+      /* Content Container Styling */
+      .content-container {
+        text-align: center;
+        margin-top: 20px;
+      }
+
+      /* Welcome Text Styling */
+      #welcome-text {
+        font-size: 16px;
+        color: #ecf0f1;
+        font-weight: bold;
+        background-color: rgba(52, 73, 94, 0.8);
+        padding: 20px;
+        border-radius: 15px;
+        width: 70%;
+        margin: 0 auto;
+        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Subtle shadow for depth and focus */
+        line-height: 1.6;
+      }
+
+      /* Heading Styling */
+      h1 {
+        font-size: 3.5em;
+        text-shadow: 3px 3px 6px #2c3e50; /* Refined shadow */
+        margin-bottom: 20px;
+        color: #ecf0f1;
+      }
+
+      /* Paragraph Styling */
+      p {
+        text-align: center;
+        font-size: 16px;
+        color: white;
+        font-weight: bold;
+        background-color: lightgreen;
+        padding: 20px;
+        border-radius: 15px;
+        margin-bottom: 20px;
+        width: 70%;
+        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Subtle shadow for separation */
+        line-height: 1.6;
+      }
+    </style>
+  </head>
+  <body>
+    <!-- Header Section -->
+    <div id="header">
+      <h1>ODI CRICKET MATCH SCORE PREDICTOR</h1>
+    </div>
+
+    <!-- Main Content Container -->
+    <div class="main-container">
+      <!-- Content Section -->
+      <div class="content-container">
+        <!-- Welcome Text -->
+        <p id="welcome-text">
+          Welcome, cricket enthusiasts! Explore the anticipation as our machine
+          learning predictor unravels the mystery of a team's ODI score. While
+          cricket's charm lies in its unpredictability, our tool offers a close
+          glimpse into the potential main score, making score prediction a
+          delightful and insightful experience. Join us in the excitement, and
+          thank you for being part of the enchantment! Enjoy!
+        </p>
+      </div>
+
+      <!-- Predict Button -->
+      <a href="/index">PREDICT SCORE NOW</a>
+    </div>
+  </body>
+</html>

@@ -1,0 +1,172 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <!-- Document metadata -->
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>ODI Cricket Score Predictor</title>
+
+    <!-- Styles for the document -->
+    <style>
+      /* Styling for the body */
+      body {
+        background-image: url("/static/cricket.png");
+        background-size: cover;
+        background-position: center;
+        font-family: Arial, sans-serif;
+        color: #ffffff; /* Set text color to white */
+        margin: 0;
+      }
+
+      /* Styling for the main heading */
+      h1 {
+        text-align: center;
+      }
+
+      /* Styling for the form */
+      form {
+        max-width: 1000px;
+        margin: 0 auto;
+        background-color: rgba(
+          255,
+          255,
+          255,
+          0.6
+        ); /* Semi-transparent background for readability */
+        padding: 20px;
+        border-radius: 10px;
+        box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+      }
+
+      /* Styling for labels and select elements */
+      label,
+      select {
+        display: block;
+        margin-bottom: 10px;
+      }
+
+      /* Styling for labels */
+      label {
+        color: #000000; /* Set text color to black */
+      }
+
+      /* Styling for input and select elements */
+      input,
+      select {
+        width: 100%;
+        padding: 10px;
+        margin-bottom: 10px;
+        box-sizing: border-box;
+      }
+
+      /* Styling for the submit button */
+      input[type="submit"] {
+        background-color: #4caf50; /* Set background color to green */
+        color: black;
+        padding: 10px;
+        border: none;
+        border-radius: 5px;
+        cursor: pointer;
+      }
+
+      /* Additional styling for the button */
+      #connect-front-page {
+        position: fixed;
+        top: 10px;
+        left: 10px;
+        background-color: #3498db;
+        color: white;
+        padding: 20px 20px;
+        border: none;
+        border-radius: 5px;
+        cursor: pointer;
+      }
+    </style>
+  </head>
+  <body>
+    <!-- Main heading of the page -->
+    <h1>ODI Cricket Score Predictor</h1>
+
+    <!-- Form for user input -->
+    <form action="/predict" method="post">
+      <!-- Select batting team -->
+      <label for="batting_team">Select batting team:</label>
+      <select name="batting_team" id="batting_team">
+        {% for team in teams %}
+        <option value="{{ team }}">{{ team }}</option>
+        {% endfor %}
+      </select>
+
+      <!-- Select bowling team -->
+      <label for="bowling_team">Select bowling team:</label>
+      <select name="bowling_team" id="bowling_team">
+        {% for team in teams %}
+        <option value="{{ team }}">{{ team }}</option>
+        {% endfor %}
+      </select>
+
+      <!-- Select toss winner -->
+      <label for="toss_winner">Select toss winner:</label>
+      <select name="toss_winner" id="toss_winner">
+        {% for team in teams %}
+        <option value="{{ team }}">{{ team }}</option>
+        {% endfor %}
+      </select>
+
+      <!-- Select toss decision -->
+      <label for="toss_decision">Select toss decision:</label>
+      <select name="toss_decision" id="toss_decision">
+        {% for decision in toss_decisions %}
+        <option value="{{ decision }}">{{ decision }}</option>
+        {% endfor %}
+      </select>
+
+      <!-- Select venue -->
+      <label for="venue">Select venue:</label>
+      <select name="venue" id="venue">
+        {% for v in venues %}
+        <option value="{{ v }}">{{ v }}</option>
+        {% endfor %}
+      </select>
+
+      <!-- Select city -->
+      <label for="city">Select city:</label>
+      <select name="city" id="city">
+        {% for c in cities %}
+        <option value="{{ c }}">{{ c }}</option>
+        {% endfor %}
+      </select>
+
+      <!-- Input for current score -->
+      <label for="current_score">Current Score:</label>
+      <input type="number" name="current_score" id="current_score" required />
+
+      <!-- Input for overs -->
+      <label for="overs">Overs done (works for over > 5):</label>
+      <input type="number" name="overs" id="overs" required />
+
+      <!-- Input for wickets -->
+      <label for="wickets">Wickets Gone:</label>
+      <input type="number" name="wickets" id="wickets" required />
+
+      <!-- Input for runs scored in the last 5 overs -->
+      <label for="last_five">Runs scored in last 5 overs:</label>
+      <input type="number" name="last_five" id="last_five" required />
+
+      <!-- Submit button -->
+      <input type="submit" value="Predict Score" />
+    </form>
+
+    <!-- Connect with Front Page Button -->
+    <button id="connect-front-page" onclick="goToFrontPage()">
+      Go to Main Page
+    </button>
+
+    <!-- JavaScript function for navigation -->
+    <script>
+      function goToFrontPage() {
+        window.location.href = "/";
+      }
+    </script>
+  </body>
+</html>

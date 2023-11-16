@@ -1,0 +1,2965 @@
+---
+meta:
+  data_version: 0.92
+  created: '2023-07-03'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Galle
+  dates:
+  - '2023-07-03'
+  gender: female
+  match_type: ODI
+  match_type_number: 1322
+  outcome:
+    winner: Sri Lanka
+    by:
+      wickets: 8
+    method: D/L
+  overs: 50
+  player_of_match:
+  - AC Jayangani
+  players:
+    New Zealand:
+    - B Bezuidenhout
+    - SW Bates
+    - AC Kerr
+    - SFM Devine
+    - ML Green
+    - GE Plimmer
+    - BM Halliday
+    - LMM Tahuhu
+    - MM Penfold
+    - EJ Carson
+    - FC Jonas
+    Sri Lanka:
+    - AC Jayangani
+    - RMVD Gunaratne
+    - H Madavi
+    - NND de Silva
+    - WK Dilhari
+    - MAA Sanjeewani
+    - OU Ranasinghe
+    - I Ranaweera
+    - H Karunaratne
+    - KDU Prabodhani
+    - SIP Fernando
+  registry:
+    people:
+      AC Jayangani: ac56b5a7
+      AC Kerr: 7673c908
+      B Bezuidenhout: 564afdcf
+      BM Halliday: efb6cb2a
+      EJ Carson: 7693851c
+      FC Jonas: 6df697a9
+      GE Plimmer: 575494db
+      H Karunaratne: f8e27d4a
+      H Madavi: 85021bcd
+      I Ranaweera: a61850e6
+      KDU Prabodhani: a0fdf513
+      LDVV Silva: 6e226c31
+      LMM Tahuhu: '60471339'
+      MAA Sanjeewani: 318a4039
+      ML Green: 865eae1f
+      MM Penfold: 645b2a2f
+      N Perera: 129709f9
+      NND de Silva: f0b4294e
+      OU Ranasinghe: 52d3b7ff
+      REJ Martinesz: 140cdf29
+      RMVD Gunaratne: 9e866b59
+      SFM Devine: de69af96
+      SIP Fernando: 5838cb64
+      SW Bates: 89bbc67a
+      V Bowen: 7297ac4d
+      WK Dilhari: c34a15e6
+  teams:
+  - New Zealand
+  - Sri Lanka
+  toss:
+    winner: New Zealand
+    decision: bat
+  umpires:
+  - N Perera
+  - REJ Martinesz
+  venue: Galle International Stadium
+innings:
+- 1st innings:
+    team: New Zealand
+    deliveries:
+    - 0.1:
+        non_striker: SW Bates
+        bowler: SIP Fernando
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Bezuidenhout
+    - 0.2:
+        non_striker: SW Bates
+        bowler: SIP Fernando
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Bezuidenhout
+    - 0.3:
+        non_striker: SW Bates
+        bowler: SIP Fernando
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Bezuidenhout
+    - 0.4:
+        non_striker: SW Bates
+        bowler: SIP Fernando
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Bezuidenhout
+    - 0.5:
+        non_striker: SW Bates
+        bowler: SIP Fernando
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Bezuidenhout
+    - 0.6:
+        non_striker: SW Bates
+        bowler: SIP Fernando
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B Bezuidenhout
+    - 1.1:
+        non_striker: SW Bates
+        bowler: KDU Prabodhani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Bezuidenhout
+    - 1.2:
+        non_striker: SW Bates
+        bowler: KDU Prabodhani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Bezuidenhout
+    - 1.3:
+        non_striker: SW Bates
+        bowler: KDU Prabodhani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Bezuidenhout
+    - 1.4:
+        non_striker: SW Bates
+        bowler: KDU Prabodhani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Bezuidenhout
+    - 1.5:
+        non_striker: SW Bates
+        bowler: KDU Prabodhani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B Bezuidenhout
+    - 1.6:
+        non_striker: B Bezuidenhout
+        bowler: KDU Prabodhani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SW Bates
+    - 2.1:
+        non_striker: SW Bates
+        bowler: SIP Fernando
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B Bezuidenhout
+    - 2.2:
+        non_striker: B Bezuidenhout
+        bowler: SIP Fernando
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: SW Bates
+    - 2.3:
+        non_striker: B Bezuidenhout
+        bowler: SIP Fernando
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SW Bates
+    - 2.4:
+        non_striker: SW Bates
+        bowler: SIP Fernando
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B Bezuidenhout
+    - 2.5:
+        non_striker: B Bezuidenhout
+        bowler: SIP Fernando
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SW Bates
+    - 2.6:
+        non_striker: B Bezuidenhout
+        bowler: SIP Fernando
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SW Bates
+    - 2.7:
+        non_striker: SW Bates
+        bowler: SIP Fernando
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Bezuidenhout
+    - 3.1:
+        non_striker: B Bezuidenhout
+        bowler: KDU Prabodhani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SW Bates
+    - 3.2:
+        non_striker: B Bezuidenhout
+        bowler: KDU Prabodhani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SW Bates
+    - 3.3:
+        non_striker: B Bezuidenhout
+        bowler: KDU Prabodhani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SW Bates
+    - 3.4:
+        non_striker: B Bezuidenhout
+        bowler: KDU Prabodhani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SW Bates
+    - 3.5:
+        non_striker: B Bezuidenhout
+        bowler: KDU Prabodhani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SW Bates
+    - 3.6:
+        non_striker: B Bezuidenhout
+        bowler: KDU Prabodhani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SW Bates
+    - 4.1:
+        non_striker: SW Bates
+        bowler: SIP Fernando
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Bezuidenhout
+        wicket:
+          player_out: B Bezuidenhout
+          fielders:
+          - WK Dilhari
+          kind: run out
+    - 4.2:
+        non_striker: AC Kerr
+        bowler: SIP Fernando
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SW Bates
+    - 4.3:
+        non_striker: AC Kerr
+        bowler: SIP Fernando
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SW Bates
+    - 4.4:
+        non_striker: AC Kerr
+        bowler: SIP Fernando
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SW Bates
+    - 4.5:
+        non_striker: SW Bates
+        bowler: SIP Fernando
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AC Kerr
+    - 4.6:
+        non_striker: SW Bates
+        bowler: SIP Fernando
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Kerr
+    - 5.1:
+        non_striker: AC Kerr
+        bowler: KDU Prabodhani
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SW Bates
+    - 5.2:
+        non_striker: AC Kerr
+        bowler: KDU Prabodhani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SW Bates
+    - 5.3:
+        non_striker: AC Kerr
+        bowler: KDU Prabodhani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SW Bates
+    - 5.4:
+        non_striker: AC Kerr
+        bowler: KDU Prabodhani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SW Bates
+    - 5.5:
+        non_striker: SW Bates
+        bowler: KDU Prabodhani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Kerr
+    - 5.6:
+        non_striker: SW Bates
+        bowler: KDU Prabodhani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Kerr
+    - 6.1:
+        non_striker: AC Kerr
+        bowler: OU Ranasinghe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SW Bates
+    - 6.2:
+        non_striker: SW Bates
+        bowler: OU Ranasinghe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Kerr
+    - 6.3:
+        non_striker: SW Bates
+        bowler: OU Ranasinghe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Kerr
+    - 6.4:
+        non_striker: AC Kerr
+        bowler: OU Ranasinghe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SW Bates
+    - 6.5:
+        non_striker: SW Bates
+        bowler: OU Ranasinghe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Kerr
+    - 6.6:
+        non_striker: SW Bates
+        bowler: OU Ranasinghe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Kerr
+    - 7.1:
+        non_striker: SW Bates
+        bowler: KDU Prabodhani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Kerr
+    - 7.2:
+        non_striker: SW Bates
+        bowler: KDU Prabodhani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Kerr
+    - 7.3:
+        non_striker: SW Bates
+        bowler: KDU Prabodhani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Kerr
+    - 7.4:
+        non_striker: SW Bates
+        bowler: KDU Prabodhani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Kerr
+    - 7.5:
+        non_striker: SW Bates
+        bowler: KDU Prabodhani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Kerr
+    - 7.6:
+        non_striker: SW Bates
+        bowler: KDU Prabodhani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Kerr
+    - 8.1:
+        non_striker: AC Kerr
+        bowler: OU Ranasinghe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SW Bates
+    - 8.2:
+        non_striker: AC Kerr
+        bowler: OU Ranasinghe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SW Bates
+    - 8.3:
+        non_striker: SW Bates
+        bowler: OU Ranasinghe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Kerr
+    - 8.4:
+        non_striker: AC Kerr
+        bowler: OU Ranasinghe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SW Bates
+    - 8.5:
+        non_striker: SW Bates
+        bowler: OU Ranasinghe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Kerr
+    - 8.6:
+        non_striker: AC Kerr
+        bowler: OU Ranasinghe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SW Bates
+    - 9.1:
+        non_striker: SW Bates
+        bowler: KDU Prabodhani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Kerr
+    - 9.2:
+        non_striker: SW Bates
+        bowler: KDU Prabodhani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Kerr
+    - 9.3:
+        non_striker: SW Bates
+        bowler: KDU Prabodhani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Kerr
+    - 9.4:
+        non_striker: AC Kerr
+        bowler: KDU Prabodhani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SW Bates
+    - 9.5:
+        non_striker: AC Kerr
+        bowler: KDU Prabodhani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SW Bates
+    - 9.6:
+        non_striker: AC Kerr
+        bowler: KDU Prabodhani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SW Bates
+    - 10.1:
+        non_striker: SW Bates
+        bowler: SIP Fernando
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Kerr
+    - 10.2:
+        non_striker: SW Bates
+        bowler: SIP Fernando
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Kerr
+    - 10.3:
+        non_striker: AC Kerr
+        bowler: SIP Fernando
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SW Bates
+    - 10.4:
+        non_striker: AC Kerr
+        bowler: SIP Fernando
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SW Bates
+    - 10.5:
+        non_striker: SW Bates
+        bowler: SIP Fernando
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Kerr
+    - 10.6:
+        non_striker: SW Bates
+        bowler: SIP Fernando
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Kerr
+    - 11.1:
+        non_striker: AC Kerr
+        bowler: I Ranaweera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SW Bates
+    - 11.2:
+        non_striker: AC Kerr
+        bowler: I Ranaweera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SW Bates
+    - 11.3:
+        non_striker: AC Kerr
+        bowler: I Ranaweera
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SW Bates
+    - 11.4:
+        non_striker: SW Bates
+        bowler: I Ranaweera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Kerr
+    - 11.5:
+        non_striker: SW Bates
+        bowler: I Ranaweera
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AC Kerr
+    - 11.6:
+        non_striker: SW Bates
+        bowler: I Ranaweera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Kerr
+    - 12.1:
+        non_striker: AC Kerr
+        bowler: SIP Fernando
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SW Bates
+    - 12.2:
+        non_striker: AC Kerr
+        bowler: SIP Fernando
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SW Bates
+    - 12.3:
+        non_striker: SW Bates
+        bowler: SIP Fernando
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Kerr
+    - 12.4:
+        non_striker: SW Bates
+        bowler: SIP Fernando
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Kerr
+    - 12.5:
+        non_striker: AC Kerr
+        bowler: SIP Fernando
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: SW Bates
+    - 12.6:
+        non_striker: AC Kerr
+        bowler: SIP Fernando
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SW Bates
+    - 12.7:
+        non_striker: AC Kerr
+        bowler: SIP Fernando
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SW Bates
+    - 13.1:
+        non_striker: SW Bates
+        bowler: I Ranaweera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Kerr
+    - 13.2:
+        non_striker: SW Bates
+        bowler: I Ranaweera
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Kerr
+    - 13.3:
+        non_striker: AC Kerr
+        bowler: I Ranaweera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SW Bates
+    - 13.4:
+        non_striker: AC Kerr
+        bowler: I Ranaweera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SW Bates
+    - 13.5:
+        non_striker: AC Kerr
+        bowler: I Ranaweera
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SW Bates
+    - 13.6:
+        non_striker: AC Kerr
+        bowler: I Ranaweera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SW Bates
+    - 14.1:
+        non_striker: SW Bates
+        bowler: SIP Fernando
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Kerr
+    - 14.2:
+        non_striker: AC Kerr
+        bowler: SIP Fernando
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SW Bates
+    - 14.3:
+        non_striker: SW Bates
+        bowler: SIP Fernando
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Kerr
+    - 14.4:
+        non_striker: AC Kerr
+        bowler: SIP Fernando
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SW Bates
+    - 14.5:
+        non_striker: AC Kerr
+        bowler: SIP Fernando
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SW Bates
+    - 14.6:
+        non_striker: AC Kerr
+        bowler: SIP Fernando
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SW Bates
+    - 15.1:
+        non_striker: SW Bates
+        bowler: I Ranaweera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Kerr
+    - 15.2:
+        non_striker: SW Bates
+        bowler: I Ranaweera
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Kerr
+    - 15.3:
+        non_striker: AC Kerr
+        bowler: I Ranaweera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SW Bates
+    - 15.4:
+        non_striker: AC Kerr
+        bowler: I Ranaweera
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SW Bates
+    - 15.5:
+        non_striker: AC Kerr
+        bowler: I Ranaweera
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SW Bates
+    - 15.6:
+        non_striker: SW Bates
+        bowler: I Ranaweera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Kerr
+    - 16.1:
+        non_striker: AC Kerr
+        bowler: OU Ranasinghe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SW Bates
+    - 16.2:
+        non_striker: SW Bates
+        bowler: OU Ranasinghe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Kerr
+        wicket:
+          player_out: AC Kerr
+          kind: bowled
+    - 16.3:
+        non_striker: SW Bates
+        bowler: OU Ranasinghe
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SFM Devine
+    - 16.4:
+        non_striker: SW Bates
+        bowler: OU Ranasinghe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SFM Devine
+    - 16.5:
+        non_striker: SW Bates
+        bowler: OU Ranasinghe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SFM Devine
+    - 16.6:
+        non_striker: SW Bates
+        bowler: OU Ranasinghe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SFM Devine
+    - 17.1:
+        non_striker: SFM Devine
+        bowler: I Ranaweera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SW Bates
+    - 17.2:
+        non_striker: SFM Devine
+        bowler: I Ranaweera
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SW Bates
+    - 17.3:
+        non_striker: SW Bates
+        bowler: I Ranaweera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SFM Devine
+    - 17.4:
+        non_striker: SW Bates
+        bowler: I Ranaweera
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SFM Devine
+    - 17.5:
+        non_striker: SW Bates
+        bowler: I Ranaweera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SFM Devine
+    - 17.6:
+        non_striker: SW Bates
+        bowler: I Ranaweera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SFM Devine
+    - 18.1:
+        non_striker: SFM Devine
+        bowler: OU Ranasinghe
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SW Bates
+    - 18.2:
+        non_striker: SFM Devine
+        bowler: OU Ranasinghe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SW Bates
+    - 18.3:
+        non_striker: SW Bates
+        bowler: OU Ranasinghe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SFM Devine
+    - 18.4:
+        non_striker: SW Bates
+        bowler: OU Ranasinghe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SFM Devine
+    - 18.5:
+        non_striker: SW Bates
+        bowler: OU Ranasinghe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SFM Devine
+    - 18.6:
+        non_striker: SFM Devine
+        bowler: OU Ranasinghe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SW Bates
+    - 19.1:
+        non_striker: SFM Devine
+        bowler: WK Dilhari
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SW Bates
+    - 19.2:
+        non_striker: SW Bates
+        bowler: WK Dilhari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SFM Devine
+    - 19.3:
+        non_striker: SW Bates
+        bowler: WK Dilhari
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SFM Devine
+    - 19.4:
+        non_striker: SFM Devine
+        bowler: WK Dilhari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SW Bates
+    - 19.5:
+        non_striker: SFM Devine
+        bowler: WK Dilhari
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SW Bates
+    - 19.6:
+        non_striker: SW Bates
+        bowler: WK Dilhari
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SFM Devine
+    - 20.1:
+        non_striker: SW Bates
+        bowler: I Ranaweera
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SFM Devine
+    - 20.2:
+        non_striker: SFM Devine
+        bowler: I Ranaweera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SW Bates
+    - 20.3:
+        non_striker: SFM Devine
+        bowler: I Ranaweera
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SW Bates
+    - 20.4:
+        non_striker: SW Bates
+        bowler: I Ranaweera
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SFM Devine
+    - 20.5:
+        non_striker: SW Bates
+        bowler: I Ranaweera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SFM Devine
+    - 20.6:
+        non_striker: SW Bates
+        bowler: I Ranaweera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SFM Devine
+    - 21.1:
+        non_striker: SFM Devine
+        bowler: WK Dilhari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SW Bates
+    - 21.2:
+        non_striker: SFM Devine
+        bowler: WK Dilhari
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SW Bates
+    - 21.3:
+        non_striker: SW Bates
+        bowler: WK Dilhari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SFM Devine
+    - 21.4:
+        non_striker: SW Bates
+        bowler: WK Dilhari
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SFM Devine
+    - 21.5:
+        non_striker: SFM Devine
+        bowler: WK Dilhari
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SW Bates
+    - 21.6:
+        non_striker: SW Bates
+        bowler: WK Dilhari
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SFM Devine
+    - 22.1:
+        non_striker: SW Bates
+        bowler: OU Ranasinghe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SFM Devine
+    - 22.2:
+        non_striker: SW Bates
+        bowler: OU Ranasinghe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SFM Devine
+    - 22.3:
+        non_striker: SFM Devine
+        bowler: OU Ranasinghe
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SW Bates
+    - 22.4:
+        non_striker: SFM Devine
+        bowler: OU Ranasinghe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SW Bates
+    - 22.5:
+        non_striker: SW Bates
+        bowler: OU Ranasinghe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SFM Devine
+    - 22.6:
+        non_striker: SFM Devine
+        bowler: OU Ranasinghe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SW Bates
+    - 23.1:
+        non_striker: SFM Devine
+        bowler: I Ranaweera
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SW Bates
+    - 23.2:
+        non_striker: SW Bates
+        bowler: I Ranaweera
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SFM Devine
+    - 23.3:
+        non_striker: SFM Devine
+        bowler: I Ranaweera
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SW Bates
+    - 23.4:
+        non_striker: SW Bates
+        bowler: I Ranaweera
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SFM Devine
+    - 23.5:
+        non_striker: SFM Devine
+        bowler: I Ranaweera
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SW Bates
+    - 23.6:
+        non_striker: SW Bates
+        bowler: I Ranaweera
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SFM Devine
+    - 24.1:
+        non_striker: SW Bates
+        bowler: SIP Fernando
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SFM Devine
+    - 24.2:
+        non_striker: SFM Devine
+        bowler: SIP Fernando
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SW Bates
+    - 24.3:
+        non_striker: SW Bates
+        bowler: SIP Fernando
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SFM Devine
+    - 24.4:
+        non_striker: SFM Devine
+        bowler: SIP Fernando
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SW Bates
+    - 24.5:
+        non_striker: SFM Devine
+        bowler: SIP Fernando
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SW Bates
+    - 24.6:
+        non_striker: SW Bates
+        bowler: SIP Fernando
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SFM Devine
+    - 25.1:
+        non_striker: SW Bates
+        bowler: I Ranaweera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SFM Devine
+    - 25.2:
+        non_striker: SW Bates
+        bowler: I Ranaweera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SFM Devine
+    - 25.3:
+        non_striker: SW Bates
+        bowler: I Ranaweera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SFM Devine
+    - 25.4:
+        non_striker: SW Bates
+        bowler: I Ranaweera
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SFM Devine
+    - 25.5:
+        non_striker: SFM Devine
+        bowler: I Ranaweera
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SW Bates
+    - 25.6:
+        non_striker: SW Bates
+        bowler: I Ranaweera
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SFM Devine
+    - 26.1:
+        non_striker: SW Bates
+        bowler: WK Dilhari
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: SFM Devine
+    - 26.2:
+        non_striker: SW Bates
+        bowler: WK Dilhari
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SFM Devine
+    - 26.3:
+        non_striker: SFM Devine
+        bowler: WK Dilhari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SW Bates
+    - 26.4:
+        non_striker: SFM Devine
+        bowler: WK Dilhari
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SW Bates
+    - 26.5:
+        non_striker: SW Bates
+        bowler: WK Dilhari
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SFM Devine
+    - 26.6:
+        non_striker: SFM Devine
+        bowler: WK Dilhari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SW Bates
+    - 26.7:
+        non_striker: SFM Devine
+        bowler: WK Dilhari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SW Bates
+    - 27.1:
+        non_striker: SW Bates
+        bowler: KDU Prabodhani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SFM Devine
+    - 27.2:
+        non_striker: SFM Devine
+        bowler: KDU Prabodhani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SW Bates
+    - 27.3:
+        non_striker: SW Bates
+        bowler: KDU Prabodhani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SFM Devine
+    - 27.4:
+        non_striker: SFM Devine
+        bowler: KDU Prabodhani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SW Bates
+    - 27.5:
+        non_striker: SW Bates
+        bowler: KDU Prabodhani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SFM Devine
+    - 27.6:
+        non_striker: SFM Devine
+        bowler: KDU Prabodhani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SW Bates
+    - 28.1:
+        non_striker: SW Bates
+        bowler: WK Dilhari
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SFM Devine
+    - 28.2:
+        non_striker: SFM Devine
+        bowler: WK Dilhari
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SW Bates
+    - 28.3:
+        non_striker: SFM Devine
+        bowler: WK Dilhari
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: SW Bates
+    - 28.4:
+        non_striker: SW Bates
+        bowler: WK Dilhari
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SFM Devine
+    - 28.5:
+        non_striker: SFM Devine
+        bowler: WK Dilhari
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SW Bates
+    - 28.6:
+        non_striker: SW Bates
+        bowler: WK Dilhari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SFM Devine
+    - 29.1:
+        non_striker: SFM Devine
+        bowler: KDU Prabodhani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SW Bates
+    - 29.2:
+        non_striker: SW Bates
+        bowler: KDU Prabodhani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SFM Devine
+    - 29.3:
+        non_striker: SFM Devine
+        bowler: KDU Prabodhani
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SW Bates
+    - 29.4:
+        non_striker: SFM Devine
+        bowler: KDU Prabodhani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SW Bates
+    - 29.5:
+        non_striker: SFM Devine
+        bowler: KDU Prabodhani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SW Bates
+    - 29.6:
+        non_striker: SW Bates
+        bowler: KDU Prabodhani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SFM Devine
+    - 30.1:
+        non_striker: SW Bates
+        bowler: WK Dilhari
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SFM Devine
+    - 30.2:
+        non_striker: SFM Devine
+        bowler: WK Dilhari
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SW Bates
+    - 30.3:
+        non_striker: SW Bates
+        bowler: WK Dilhari
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SFM Devine
+    - 30.4:
+        non_striker: SFM Devine
+        bowler: WK Dilhari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SW Bates
+    - 30.5:
+        non_striker: SFM Devine
+        bowler: WK Dilhari
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SW Bates
+    - 30.6:
+        non_striker: SW Bates
+        bowler: WK Dilhari
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SFM Devine
+- 2nd innings:
+    team: Sri Lanka
+    deliveries:
+    - 0.1:
+        non_striker: RMVD Gunaratne
+        bowler: LMM Tahuhu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Jayangani
+    - 0.2:
+        non_striker: AC Jayangani
+        bowler: LMM Tahuhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RMVD Gunaratne
+    - 0.3:
+        non_striker: AC Jayangani
+        bowler: LMM Tahuhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RMVD Gunaratne
+    - 0.4:
+        non_striker: AC Jayangani
+        bowler: LMM Tahuhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RMVD Gunaratne
+        wicket:
+          player_out: RMVD Gunaratne
+          fielders:
+          - ML Green
+          kind: caught
+    - 0.5:
+        non_striker: AC Jayangani
+        bowler: LMM Tahuhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Madavi
+    - 0.6:
+        non_striker: AC Jayangani
+        bowler: LMM Tahuhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Madavi
+    - 1.1:
+        non_striker: H Madavi
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Jayangani
+    - 1.2:
+        non_striker: H Madavi
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Jayangani
+    - 1.3:
+        non_striker: H Madavi
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Jayangani
+    - 1.4:
+        non_striker: AC Jayangani
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Madavi
+    - 1.5:
+        non_striker: AC Jayangani
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Madavi
+    - 1.6:
+        non_striker: H Madavi
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Jayangani
+    - 2.1:
+        non_striker: AC Jayangani
+        bowler: LMM Tahuhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Madavi
+    - 2.2:
+        non_striker: AC Jayangani
+        bowler: LMM Tahuhu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Madavi
+    - 2.3:
+        non_striker: H Madavi
+        bowler: LMM Tahuhu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Jayangani
+    - 2.4:
+        non_striker: AC Jayangani
+        bowler: LMM Tahuhu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Madavi
+    - 2.5:
+        non_striker: H Madavi
+        bowler: LMM Tahuhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Jayangani
+    - 2.6:
+        non_striker: H Madavi
+        bowler: LMM Tahuhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Jayangani
+    - 3.1:
+        non_striker: AC Jayangani
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Madavi
+    - 3.2:
+        non_striker: AC Jayangani
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Madavi
+    - 3.3:
+        non_striker: AC Jayangani
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Madavi
+        wicket:
+          player_out: H Madavi
+          fielders:
+          - GE Plimmer
+          kind: caught
+    - 3.4:
+        non_striker: AC Jayangani
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NND de Silva
+    - 3.5:
+        non_striker: NND de Silva
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Jayangani
+    - 3.6:
+        non_striker: NND de Silva
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Jayangani
+    - 4.1:
+        non_striker: AC Jayangani
+        bowler: LMM Tahuhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NND de Silva
+    - 4.2:
+        non_striker: AC Jayangani
+        bowler: LMM Tahuhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NND de Silva
+    - 4.3:
+        non_striker: AC Jayangani
+        bowler: LMM Tahuhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NND de Silva
+    - 4.4:
+        non_striker: AC Jayangani
+        bowler: LMM Tahuhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NND de Silva
+    - 4.5:
+        non_striker: AC Jayangani
+        bowler: LMM Tahuhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NND de Silva
+    - 4.6:
+        non_striker: AC Jayangani
+        bowler: LMM Tahuhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NND de Silva
+    - 5.1:
+        non_striker: NND de Silva
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: AC Jayangani
+    - 5.2:
+        non_striker: NND de Silva
+        bowler: SFM Devine
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: AC Jayangani
+    - 5.3:
+        non_striker: NND de Silva
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AC Jayangani
+    - 5.4:
+        non_striker: NND de Silva
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Jayangani
+    - 5.5:
+        non_striker: AC Jayangani
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NND de Silva
+    - 5.6:
+        non_striker: AC Jayangani
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NND de Silva
+    - 5.7:
+        non_striker: AC Jayangani
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: NND de Silva
+    - 6.1:
+        non_striker: NND de Silva
+        bowler: LMM Tahuhu
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: AC Jayangani
+    - 6.2:
+        non_striker: NND de Silva
+        bowler: LMM Tahuhu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Jayangani
+    - 6.3:
+        non_striker: AC Jayangani
+        bowler: LMM Tahuhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NND de Silva
+    - 6.4:
+        non_striker: AC Jayangani
+        bowler: LMM Tahuhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NND de Silva
+    - 6.5:
+        non_striker: AC Jayangani
+        bowler: LMM Tahuhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NND de Silva
+    - 6.6:
+        non_striker: AC Jayangani
+        bowler: LMM Tahuhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NND de Silva
+    - 7.1:
+        non_striker: NND de Silva
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Jayangani
+    - 7.2:
+        non_striker: NND de Silva
+        bowler: EJ Carson
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: AC Jayangani
+    - 7.3:
+        non_striker: NND de Silva
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Jayangani
+    - 7.4:
+        non_striker: NND de Silva
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Jayangani
+    - 7.5:
+        non_striker: AC Jayangani
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NND de Silva
+    - 7.6:
+        non_striker: NND de Silva
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: AC Jayangani
+    - 7.7:
+        non_striker: NND de Silva
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: AC Jayangani
+    - 8.1:
+        non_striker: AC Jayangani
+        bowler: MM Penfold
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NND de Silva
+    - 8.2:
+        non_striker: AC Jayangani
+        bowler: MM Penfold
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NND de Silva
+    - 8.3:
+        non_striker: NND de Silva
+        bowler: MM Penfold
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Jayangani
+    - 8.4:
+        non_striker: NND de Silva
+        bowler: MM Penfold
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AC Jayangani
+    - 8.5:
+        non_striker: NND de Silva
+        bowler: MM Penfold
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: AC Jayangani
+    - 8.6:
+        non_striker: NND de Silva
+        bowler: MM Penfold
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Jayangani
+    - 8.7:
+        non_striker: NND de Silva
+        bowler: MM Penfold
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: AC Jayangani
+    - 8.8:
+        non_striker: NND de Silva
+        bowler: MM Penfold
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: AC Jayangani
+    - 9.1:
+        non_striker: AC Jayangani
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NND de Silva
+    - 9.2:
+        non_striker: AC Jayangani
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NND de Silva
+    - 9.3:
+        non_striker: AC Jayangani
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NND de Silva
+    - 9.4:
+        non_striker: AC Jayangani
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: NND de Silva
+    - 9.5:
+        non_striker: AC Jayangani
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NND de Silva
+    - 9.6:
+        non_striker: AC Jayangani
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NND de Silva
+    - 10.1:
+        non_striker: AC Jayangani
+        bowler: MM Penfold
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NND de Silva
+    - 10.2:
+        non_striker: NND de Silva
+        bowler: MM Penfold
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Jayangani
+    - 10.3:
+        non_striker: AC Jayangani
+        bowler: MM Penfold
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NND de Silva
+    - 10.4:
+        non_striker: NND de Silva
+        bowler: MM Penfold
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Jayangani
+    - 10.5:
+        non_striker: NND de Silva
+        bowler: MM Penfold
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AC Jayangani
+    - 10.6:
+        non_striker: NND de Silva
+        bowler: MM Penfold
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Jayangani
+    - 11.1:
+        non_striker: NND de Silva
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Jayangani
+    - 11.2:
+        non_striker: AC Jayangani
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NND de Silva
+    - 11.3:
+        non_striker: AC Jayangani
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NND de Silva
+    - 11.4:
+        non_striker: AC Jayangani
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NND de Silva
+    - 11.5:
+        non_striker: NND de Silva
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AC Jayangani
+    - 11.6:
+        non_striker: NND de Silva
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Jayangani
+    - 12.1:
+        non_striker: AC Jayangani
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NND de Silva
+    - 12.2:
+        non_striker: AC Jayangani
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NND de Silva
+    - 12.3:
+        non_striker: NND de Silva
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Jayangani
+    - 12.4:
+        non_striker: AC Jayangani
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NND de Silva
+    - 12.5:
+        non_striker: NND de Silva
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AC Jayangani
+    - 12.6:
+        non_striker: NND de Silva
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Jayangani
+    - 13.1:
+        non_striker: NND de Silva
+        bowler: FC Jonas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Jayangani
+    - 13.2:
+        non_striker: NND de Silva
+        bowler: FC Jonas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Jayangani
+    - 13.3:
+        non_striker: NND de Silva
+        bowler: FC Jonas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Jayangani
+    - 13.4:
+        non_striker: AC Jayangani
+        bowler: FC Jonas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NND de Silva
+    - 13.5:
+        non_striker: NND de Silva
+        bowler: FC Jonas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Jayangani
+    - 13.6:
+        non_striker: NND de Silva
+        bowler: FC Jonas
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: AC Jayangani
+    - 14.1:
+        non_striker: AC Jayangani
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NND de Silva
+    - 14.2:
+        non_striker: AC Jayangani
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NND de Silva
+    - 14.3:
+        non_striker: AC Jayangani
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NND de Silva
+    - 14.4:
+        non_striker: NND de Silva
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Jayangani
+    - 14.5:
+        non_striker: NND de Silva
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: AC Jayangani
+    - 14.6:
+        non_striker: NND de Silva
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Jayangani
+    - 15.1:
+        non_striker: AC Jayangani
+        bowler: FC Jonas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NND de Silva
+    - 15.2:
+        non_striker: NND de Silva
+        bowler: FC Jonas
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AC Jayangani
+    - 15.3:
+        non_striker: NND de Silva
+        bowler: FC Jonas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Jayangani
+    - 15.4:
+        non_striker: NND de Silva
+        bowler: FC Jonas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Jayangani
+    - 15.5:
+        non_striker: NND de Silva
+        bowler: FC Jonas
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AC Jayangani
+    - 15.6:
+        non_striker: NND de Silva
+        bowler: FC Jonas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Jayangani
+    - 16.1:
+        non_striker: NND de Silva
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Jayangani
+    - 16.2:
+        non_striker: AC Jayangani
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NND de Silva
+    - 16.3:
+        non_striker: AC Jayangani
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NND de Silva
+    - 16.4:
+        non_striker: AC Jayangani
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NND de Silva
+    - 16.5:
+        non_striker: AC Jayangani
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NND de Silva
+    - 16.6:
+        non_striker: AC Jayangani
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NND de Silva
+    - 17.1:
+        non_striker: AC Jayangani
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NND de Silva
+    - 17.2:
+        non_striker: AC Jayangani
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NND de Silva
+    - 17.3:
+        non_striker: AC Jayangani
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NND de Silva
+    - 17.4:
+        non_striker: AC Jayangani
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NND de Silva
+    - 17.5:
+        non_striker: NND de Silva
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Jayangani
+    - 17.6:
+        non_striker: AC Jayangani
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NND de Silva
+    - 18.1:
+        non_striker: NND de Silva
+        bowler: LMM Tahuhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Jayangani
+    - 18.2:
+        non_striker: NND de Silva
+        bowler: LMM Tahuhu
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AC Jayangani
+    - 18.3:
+        non_striker: NND de Silva
+        bowler: LMM Tahuhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Jayangani
+    - 18.4:
+        non_striker: NND de Silva
+        bowler: LMM Tahuhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Jayangani
+    - 18.5:
+        non_striker: NND de Silva
+        bowler: LMM Tahuhu
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: AC Jayangani
+    - 18.6:
+        non_striker: NND de Silva
+        bowler: LMM Tahuhu
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AC Jayangani
+    - 18.7:
+        non_striker: NND de Silva
+        bowler: LMM Tahuhu
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AC Jayangani
+    - 19.1:
+        non_striker: AC Jayangani
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: NND de Silva
+    - 19.2:
+        non_striker: AC Jayangani
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NND de Silva
+    - 19.3:
+        non_striker: AC Jayangani
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NND de Silva
+    - 19.4:
+        non_striker: AC Jayangani
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NND de Silva
+    - 19.5:
+        non_striker: AC Jayangani
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NND de Silva
+    - 19.6:
+        non_striker: NND de Silva
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Jayangani
+    - 20.1:
+        non_striker: NND de Silva
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Jayangani
+    - 20.2:
+        non_striker: NND de Silva
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AC Jayangani
+    - 20.3:
+        non_striker: NND de Silva
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Jayangani
+    - 20.4:
+        non_striker: AC Jayangani
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NND de Silva
+    - 20.5:
+        non_striker: AC Jayangani
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: NND de Silva
+    - 20.6:
+        non_striker: AC Jayangani
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NND de Silva
+    - 21.1:
+        non_striker: NND de Silva
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AC Jayangani
+    - 21.2:
+        non_striker: NND de Silva
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Jayangani
+    - 21.3:
+        non_striker: NND de Silva
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: AC Jayangani
+    - 21.4:
+        non_striker: NND de Silva
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Jayangani
+    - 21.5:
+        non_striker: NND de Silva
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AC Jayangani
+    - 21.6:
+        non_striker: NND de Silva
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AC Jayangani
+    - 22.1:
+        non_striker: AC Jayangani
+        bowler: LMM Tahuhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NND de Silva
+    - 22.2:
+        non_striker: AC Jayangani
+        bowler: LMM Tahuhu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NND de Silva
+    - 22.3:
+        non_striker: NND de Silva
+        bowler: LMM Tahuhu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Jayangani
+    - 22.4:
+        non_striker: AC Jayangani
+        bowler: LMM Tahuhu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NND de Silva
+    - 22.5:
+        non_striker: NND de Silva
+        bowler: LMM Tahuhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Jayangani
+    - 22.6:
+        non_striker: NND de Silva
+        bowler: LMM Tahuhu
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AC Jayangani
+    - 23.1:
+        non_striker: AC Jayangani
+        bowler: FC Jonas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NND de Silva
+    - 23.2:
+        non_striker: AC Jayangani
+        bowler: FC Jonas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NND de Silva
+    - 23.3:
+        non_striker: NND de Silva
+        bowler: FC Jonas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Jayangani
+    - 23.4:
+        non_striker: AC Jayangani
+        bowler: FC Jonas
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: NND de Silva
+    - 23.5:
+        non_striker: AC Jayangani
+        bowler: FC Jonas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NND de Silva
+    - 23.6:
+        non_striker: NND de Silva
+        bowler: FC Jonas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Jayangani
+    - 24.1:
+        non_striker: NND de Silva
+        bowler: MM Penfold
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Jayangani
+    - 24.2:
+        non_striker: AC Jayangani
+        bowler: MM Penfold
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NND de Silva
+    - 24.3:
+        non_striker: AC Jayangani
+        bowler: MM Penfold
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: NND de Silva
+    - 24.4:
+        non_striker: AC Jayangani
+        bowler: MM Penfold
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NND de Silva
+    - 24.5:
+        non_striker: NND de Silva
+        bowler: MM Penfold
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AC Jayangani
+    - 24.6:
+        non_striker: NND de Silva
+        bowler: MM Penfold
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AC Jayangani
+    - 25.1:
+        non_striker: AC Jayangani
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NND de Silva
+    - 25.2:
+        non_striker: NND de Silva
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AC Jayangani
+    - 25.3:
+        non_striker: NND de Silva
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Jayangani
+    - 25.4:
+        non_striker: NND de Silva
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Jayangani
+    - 25.5:
+        non_striker: NND de Silva
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Jayangani
+    - 25.6:
+        non_striker: NND de Silva
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: AC Jayangani
+    - 26.1:
+        non_striker: AC Jayangani
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: NND de Silva
+    - 26.2:
+        non_striker: AC Jayangani
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NND de Silva
+    - 26.3:
+        non_striker: NND de Silva
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AC Jayangani
+    - 26.4:
+        non_striker: NND de Silva
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Jayangani
+    - 26.5:
+        non_striker: AC Jayangani
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: NND de Silva

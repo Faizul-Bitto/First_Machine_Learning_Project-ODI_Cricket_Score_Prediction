@@ -1,0 +1,567 @@
+---
+meta:
+  data_version: 0.92
+  created: '2023-06-30'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Gros Islet
+  dates:
+  - '2023-06-28'
+  gender: female
+  match_type: ODI
+  match_type_number: 1319
+  outcome:
+    result: no result
+  overs: 50
+  players:
+    Ireland:
+    - A Hunter
+    - GH Lewis
+    - O Prendergast
+    - L Delany
+    - R Stokell
+    - L Paul
+    - MV Waldron
+    - AN Kelly
+    - S MacMahon
+    - A Canning
+    - C Murray
+    West Indies:
+    - HK Matthews
+    - Z James
+    - SR Taylor
+    - RS Williams
+    - SA Campbelle
+    - AA Alleyne
+    - S Gajnabi
+    - ASS Fletcher
+    - CS Fraser
+    - SS Connell
+    - A Munisar
+  registry:
+    people:
+      A Canning: ffd5fcd8
+      A Hunter: e8fa03ed
+      A Munisar: a811cb83
+      AA Alleyne: 4b0e3049
+      AN Kelly: 397369e0
+      ASS Fletcher: 42d9dd09
+      C La Borde: 32157f67
+      C Murray: 5a50471c
+      CS Fraser: fb9a8cc3
+      DK Butler: 671398e3
+      GH Lewis: 1b9d1579
+      HK Matthews: d32cf49a
+      JM Williams: b61d9d70
+      Jonathan Blades: ef9a3298
+      L Delany: b4f73b44
+      L Paul: '07248d8e'
+      MV Waldron: 2e4f11e9
+      O Prendergast: d8f20ba5
+      R Stokell: def7b1bb
+      RS Williams: 406de451
+      Reon King: 20fbf68c
+      S Gajnabi: c35739a1
+      S MacMahon: ef2bcebf
+      SA Campbelle: a7cd72b2
+      SR Taylor: 92cf79a8
+      SS Connell: 2f9a6bd1
+      Z James: 816af623
+  teams:
+  - Ireland
+  - West Indies
+  toss:
+    winner: West Indies
+    decision: field
+  umpires:
+  - JM Williams
+  - Jonathan Blades
+  venue: Daren Sammy National Cricket Stadium, Gros Islet, St Lucia
+innings:
+- 1st innings:
+    team: Ireland
+    deliveries:
+    - 0.1:
+        non_striker: GH Lewis
+        bowler: SS Connell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Hunter
+    - 0.2:
+        non_striker: A Hunter
+        bowler: SS Connell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GH Lewis
+    - 0.3:
+        non_striker: A Hunter
+        bowler: SS Connell
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: GH Lewis
+    - 0.4:
+        non_striker: A Hunter
+        bowler: SS Connell
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GH Lewis
+    - 0.5:
+        non_striker: A Hunter
+        bowler: SS Connell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GH Lewis
+    - 0.6:
+        non_striker: A Hunter
+        bowler: SS Connell
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GH Lewis
+    - 1.1:
+        non_striker: GH Lewis
+        bowler: AA Alleyne
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Hunter
+    - 1.2:
+        non_striker: GH Lewis
+        bowler: AA Alleyne
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: A Hunter
+    - 1.3:
+        non_striker: GH Lewis
+        bowler: AA Alleyne
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Hunter
+        wicket:
+          player_out: A Hunter
+          fielders:
+          - SA Campbelle
+          kind: caught
+    - 1.4:
+        non_striker: GH Lewis
+        bowler: AA Alleyne
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Prendergast
+    - 1.5:
+        non_striker: GH Lewis
+        bowler: AA Alleyne
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Prendergast
+    - 1.6:
+        non_striker: GH Lewis
+        bowler: AA Alleyne
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Prendergast
+    - 1.7:
+        non_striker: GH Lewis
+        bowler: AA Alleyne
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Prendergast
+    - 2.1:
+        non_striker: O Prendergast
+        bowler: SS Connell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GH Lewis
+        wicket:
+          player_out: GH Lewis
+          fielders:
+          - S Gajnabi
+          kind: caught
+    - 2.2:
+        non_striker: O Prendergast
+        bowler: SS Connell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Delany
+    - 2.3:
+        non_striker: L Delany
+        bowler: SS Connell
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: O Prendergast
+    - 2.4:
+        non_striker: L Delany
+        bowler: SS Connell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: O Prendergast
+    - 2.5:
+        non_striker: O Prendergast
+        bowler: SS Connell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Delany
+        wicket:
+          player_out: L Delany
+          fielders:
+          - S Gajnabi
+          kind: caught
+    - 2.6:
+        non_striker: O Prendergast
+        bowler: SS Connell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Stokell
+    - 2.7:
+        non_striker: O Prendergast
+        bowler: SS Connell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Stokell
+    - 3.1:
+        non_striker: R Stokell
+        bowler: AA Alleyne
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: O Prendergast
+    - 3.2:
+        non_striker: O Prendergast
+        bowler: AA Alleyne
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Stokell
+    - 3.3:
+        non_striker: O Prendergast
+        bowler: AA Alleyne
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Stokell
+    - 3.4:
+        non_striker: O Prendergast
+        bowler: AA Alleyne
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Stokell
+        wicket:
+          player_out: R Stokell
+          fielders:
+          - HK Matthews
+          kind: caught
+    - 3.5:
+        non_striker: O Prendergast
+        bowler: AA Alleyne
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Paul
+    - 3.6:
+        non_striker: O Prendergast
+        bowler: AA Alleyne
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: L Paul
+    - 3.7:
+        non_striker: O Prendergast
+        bowler: AA Alleyne
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: L Paul
+    - 3.8:
+        non_striker: O Prendergast
+        bowler: AA Alleyne
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Paul
+    - 4.1:
+        non_striker: L Paul
+        bowler: CS Fraser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Prendergast
+    - 4.2:
+        non_striker: L Paul
+        bowler: CS Fraser
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: O Prendergast
+    - 4.3:
+        non_striker: O Prendergast
+        bowler: CS Fraser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Paul
+    - 4.4:
+        non_striker: O Prendergast
+        bowler: CS Fraser
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Paul
+    - 4.5:
+        non_striker: L Paul
+        bowler: CS Fraser
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: O Prendergast
+    - 4.6:
+        non_striker: L Paul
+        bowler: CS Fraser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Prendergast
+    - 5.1:
+        non_striker: O Prendergast
+        bowler: HK Matthews
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          byes: 2
+        batsman: L Paul
+    - 5.2:
+        non_striker: O Prendergast
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Paul
+    - 5.3:
+        non_striker: O Prendergast
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Paul
+    - 5.4:
+        non_striker: O Prendergast
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Paul
+    - 5.5:
+        non_striker: O Prendergast
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Paul
+    - 5.6:
+        non_striker: O Prendergast
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Paul
+    - 6.1:
+        non_striker: L Paul
+        bowler: ASS Fletcher
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: O Prendergast
+    - 6.2:
+        non_striker: O Prendergast
+        bowler: ASS Fletcher
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Paul
+    - 6.3:
+        non_striker: L Paul
+        bowler: ASS Fletcher
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: O Prendergast
+    - 6.4:
+        non_striker: O Prendergast
+        bowler: ASS Fletcher
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Paul
+    - 6.5:
+        non_striker: O Prendergast
+        bowler: ASS Fletcher
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Paul
+    - 6.6:
+        non_striker: L Paul
+        bowler: ASS Fletcher
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: O Prendergast
+    - 7.1:
+        non_striker: O Prendergast
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Paul
+    - 7.2:
+        non_striker: L Paul
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: O Prendergast
+    - 7.3:
+        non_striker: O Prendergast
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Paul
+    - 7.4:
+        non_striker: L Paul
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: O Prendergast
+    - 7.5:
+        non_striker: O Prendergast
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Paul
+    - 7.6:
+        non_striker: O Prendergast
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Paul
+        wicket:
+          player_out: L Paul
+          fielders:
+          - SA Campbelle
+          kind: caught
+    - 8.1:
+        non_striker: MV Waldron
+        bowler: ASS Fletcher
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Prendergast
+    - 8.2:
+        non_striker: MV Waldron
+        bowler: ASS Fletcher
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Prendergast
+    - 8.3:
+        non_striker: MV Waldron
+        bowler: ASS Fletcher
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Prendergast
+    - 8.4:
+        non_striker: MV Waldron
+        bowler: ASS Fletcher
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Prendergast

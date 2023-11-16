@@ -1,0 +1,1412 @@
+---
+meta:
+  data_version: 0.92
+  created: '2022-12-21'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Hamilton
+  dates:
+  - '2022-12-17'
+  gender: female
+  match_type: ODI
+  match_type_number: 1308
+  outcome:
+    result: no result
+  overs: 50
+  players:
+    New Zealand:
+    - SFM Devine
+    - SW Bates
+    - AC Kerr
+    - ML Green
+    - LR Down
+    - HNK Jensen
+    - JT McFadyen
+    - JM Kerr
+    - HM Rowe
+    - MM Penfold
+    - FC Jonas
+    Bangladesh:
+    - Dilara Akter
+    - Fargana Hoque
+    - Murshida Khatun
+    - Nigar Sultana
+    - Lata Mondal
+    - Ritu Moni
+    - Salma Khatun
+    - Marufa Akter
+    - Fahima Khatun
+    - Nahida Akter
+    - Jahanara Alam
+  registry:
+    people:
+      AC Kerr: 7673c908
+      C Black: 75b42f71
+      C High: ed55e0da
+      Dilara Akter: f2670a3d
+      FC Jonas: 6df697a9
+      Fahima Khatun: 558cdd64
+      Fargana Hoque: 6e96c956
+      HM Rowe: 8ca1f93a
+      HNK Jensen: b8cce99f
+      JM Dempsey: 153c9f33
+      JM Kerr: 9af58032
+      JT McFadyen: 7072542f
+      Jahanara Alam: 752183c1
+      Kim Cotton: 67a7c2ee
+      LR Down: 19147fe0
+      Lata Mondal: 5bf87532
+      ML Green: 865eae1f
+      MM Penfold: 645b2a2f
+      Marufa Akter: a50797a4
+      Murshida Khatun: 712bbd92
+      Nahida Akter: '66078174'
+      Nigar Sultana: 3827f6a2
+      RE Hayward: 57689d0b
+      Ritu Moni: ad3940a5
+      SFM Devine: de69af96
+      SW Bates: 89bbc67a
+      Salma Khatun: 037f2b86
+  teams:
+  - New Zealand
+  - Bangladesh
+  toss:
+    winner: Bangladesh
+    decision: field
+  umpires:
+  - C Black
+  - Kim Cotton
+  venue: Seddon Park, Hamilton
+innings:
+- 1st innings:
+    team: New Zealand
+    deliveries:
+    - 0.1:
+        bowler: Jahanara Alam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: SW Bates
+        batsman: SFM Devine
+    - 0.2:
+        bowler: Jahanara Alam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: SW Bates
+        batsman: SFM Devine
+    - 0.3:
+        bowler: Jahanara Alam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: SW Bates
+        batsman: SFM Devine
+    - 0.4:
+        non_striker: SFM Devine
+        bowler: Jahanara Alam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SW Bates
+    - 0.5:
+        non_striker: SFM Devine
+        bowler: Jahanara Alam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SW Bates
+    - 0.6:
+        non_striker: SFM Devine
+        bowler: Jahanara Alam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SW Bates
+    - 1.1:
+        non_striker: SW Bates
+        bowler: Marufa Akter
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SFM Devine
+    - 1.2:
+        non_striker: SFM Devine
+        bowler: Marufa Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SW Bates
+    - 1.3:
+        non_striker: SFM Devine
+        bowler: Marufa Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SW Bates
+    - 1.4:
+        non_striker: SFM Devine
+        bowler: Marufa Akter
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SW Bates
+    - 1.5:
+        non_striker: SW Bates
+        bowler: Marufa Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SFM Devine
+    - 1.6:
+        non_striker: SW Bates
+        bowler: Marufa Akter
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SFM Devine
+    - 2.1:
+        non_striker: SFM Devine
+        bowler: Jahanara Alam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SW Bates
+    - 2.2:
+        non_striker: SFM Devine
+        bowler: Jahanara Alam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SW Bates
+    - 2.3:
+        non_striker: SW Bates
+        bowler: Jahanara Alam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SFM Devine
+    - 2.4:
+        non_striker: SW Bates
+        bowler: Jahanara Alam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SFM Devine
+    - 2.5:
+        non_striker: SFM Devine
+        bowler: Jahanara Alam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SW Bates
+    - 2.6:
+        non_striker: SW Bates
+        bowler: Jahanara Alam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SFM Devine
+    - 3.1:
+        non_striker: SFM Devine
+        bowler: Marufa Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SW Bates
+    - 3.2:
+        non_striker: SFM Devine
+        bowler: Marufa Akter
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SW Bates
+    - 3.3:
+        non_striker: SW Bates
+        bowler: Marufa Akter
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: SFM Devine
+    - 3.4:
+        non_striker: SW Bates
+        bowler: Marufa Akter
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SFM Devine
+    - 3.5:
+        non_striker: SFM Devine
+        bowler: Marufa Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SW Bates
+    - 3.6:
+        non_striker: SFM Devine
+        bowler: Marufa Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SW Bates
+    - 3.7:
+        non_striker: SFM Devine
+        bowler: Marufa Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SW Bates
+    - 4.1:
+        non_striker: SW Bates
+        bowler: Jahanara Alam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SFM Devine
+    - 4.2:
+        non_striker: SW Bates
+        bowler: Jahanara Alam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SFM Devine
+    - 4.3:
+        non_striker: SFM Devine
+        bowler: Jahanara Alam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SW Bates
+    - 4.4:
+        non_striker: SFM Devine
+        bowler: Jahanara Alam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SW Bates
+    - 4.5:
+        non_striker: SFM Devine
+        bowler: Jahanara Alam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SW Bates
+    - 4.6:
+        non_striker: SFM Devine
+        bowler: Jahanara Alam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SW Bates
+    - 5.1:
+        non_striker: SW Bates
+        bowler: Marufa Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SFM Devine
+    - 5.2:
+        non_striker: SW Bates
+        bowler: Marufa Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SFM Devine
+    - 5.3:
+        non_striker: SW Bates
+        bowler: Marufa Akter
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SFM Devine
+    - 5.4:
+        non_striker: SFM Devine
+        bowler: Marufa Akter
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SW Bates
+    - 5.5:
+        non_striker: SFM Devine
+        bowler: Marufa Akter
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SW Bates
+    - 5.6:
+        non_striker: SFM Devine
+        bowler: Marufa Akter
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SW Bates
+    - 6.1:
+        non_striker: SFM Devine
+        bowler: Jahanara Alam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SW Bates
+    - 6.2:
+        non_striker: SFM Devine
+        bowler: Jahanara Alam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SW Bates
+    - 6.3:
+        non_striker: SW Bates
+        bowler: Jahanara Alam
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SFM Devine
+    - 6.4:
+        non_striker: SW Bates
+        bowler: Jahanara Alam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SFM Devine
+    - 6.5:
+        non_striker: SFM Devine
+        bowler: Jahanara Alam
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SW Bates
+    - 6.6:
+        non_striker: SFM Devine
+        bowler: Jahanara Alam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SW Bates
+    - 7.1:
+        non_striker: SFM Devine
+        bowler: Salma Khatun
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SW Bates
+    - 7.2:
+        non_striker: SW Bates
+        bowler: Salma Khatun
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SFM Devine
+    - 7.3:
+        non_striker: SFM Devine
+        bowler: Salma Khatun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SW Bates
+    - 7.4:
+        non_striker: SFM Devine
+        bowler: Salma Khatun
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SW Bates
+    - 7.5:
+        non_striker: SFM Devine
+        bowler: Salma Khatun
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SW Bates
+    - 7.6:
+        non_striker: SFM Devine
+        bowler: Salma Khatun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SW Bates
+    - 8.1:
+        non_striker: SW Bates
+        bowler: Jahanara Alam
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SFM Devine
+    - 8.2:
+        non_striker: SW Bates
+        bowler: Jahanara Alam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SFM Devine
+    - 8.3:
+        non_striker: SW Bates
+        bowler: Jahanara Alam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SFM Devine
+    - 8.4:
+        non_striker: SFM Devine
+        bowler: Jahanara Alam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SW Bates
+    - 8.5:
+        non_striker: SFM Devine
+        bowler: Jahanara Alam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SW Bates
+    - 8.6:
+        non_striker: SFM Devine
+        bowler: Jahanara Alam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SW Bates
+    - 9.1:
+        non_striker: SFM Devine
+        bowler: Salma Khatun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SW Bates
+    - 9.2:
+        non_striker: SFM Devine
+        bowler: Salma Khatun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SW Bates
+    - 9.3:
+        non_striker: SFM Devine
+        bowler: Salma Khatun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SW Bates
+    - 9.4:
+        non_striker: SFM Devine
+        bowler: Salma Khatun
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SW Bates
+    - 9.5:
+        non_striker: SW Bates
+        bowler: Salma Khatun
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SFM Devine
+    - 9.6:
+        non_striker: SW Bates
+        bowler: Salma Khatun
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SFM Devine
+    - 10.1:
+        non_striker: SW Bates
+        bowler: Jahanara Alam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SFM Devine
+    - 10.2:
+        non_striker: SFM Devine
+        bowler: Jahanara Alam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SW Bates
+    - 10.3:
+        non_striker: SFM Devine
+        bowler: Jahanara Alam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SW Bates
+    - 10.4:
+        non_striker: SW Bates
+        bowler: Jahanara Alam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SFM Devine
+    - 10.5:
+        non_striker: SFM Devine
+        bowler: Jahanara Alam
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: SW Bates
+    - 10.6:
+        non_striker: SFM Devine
+        bowler: Jahanara Alam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SW Bates
+    - 10.7:
+        non_striker: SW Bates
+        bowler: Jahanara Alam
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SFM Devine
+    - 11.1:
+        non_striker: SFM Devine
+        bowler: Salma Khatun
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SW Bates
+    - 11.2:
+        non_striker: SW Bates
+        bowler: Salma Khatun
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SFM Devine
+    - 11.3:
+        non_striker: SFM Devine
+        bowler: Salma Khatun
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SW Bates
+    - 11.4:
+        non_striker: SW Bates
+        bowler: Salma Khatun
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SFM Devine
+    - 11.5:
+        non_striker: SFM Devine
+        bowler: Salma Khatun
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SW Bates
+    - 11.6:
+        non_striker: SW Bates
+        bowler: Salma Khatun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SFM Devine
+    - 12.1:
+        non_striker: SFM Devine
+        bowler: Marufa Akter
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SW Bates
+    - 12.2:
+        non_striker: SW Bates
+        bowler: Marufa Akter
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SFM Devine
+    - 12.3:
+        non_striker: SW Bates
+        bowler: Marufa Akter
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: SFM Devine
+    - 12.4:
+        non_striker: SW Bates
+        bowler: Marufa Akter
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SFM Devine
+    - 12.5:
+        non_striker: SFM Devine
+        bowler: Marufa Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SW Bates
+    - 12.6:
+        non_striker: SFM Devine
+        bowler: Marufa Akter
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SW Bates
+    - 12.7:
+        non_striker: SW Bates
+        bowler: Marufa Akter
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SFM Devine
+    - 13.1:
+        non_striker: SW Bates
+        bowler: Salma Khatun
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SFM Devine
+    - 13.2:
+        non_striker: SFM Devine
+        bowler: Salma Khatun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SW Bates
+    - 13.3:
+        non_striker: SFM Devine
+        bowler: Salma Khatun
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SW Bates
+    - 13.4:
+        non_striker: SW Bates
+        bowler: Salma Khatun
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SFM Devine
+    - 13.5:
+        non_striker: SFM Devine
+        bowler: Salma Khatun
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SW Bates
+    - 13.6:
+        non_striker: SW Bates
+        bowler: Salma Khatun
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SFM Devine
+    - 14.1:
+        non_striker: SW Bates
+        bowler: Nahida Akter
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SFM Devine
+    - 14.2:
+        non_striker: SFM Devine
+        bowler: Nahida Akter
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SW Bates
+    - 14.3:
+        non_striker: SW Bates
+        bowler: Nahida Akter
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SFM Devine
+    - 14.4:
+        non_striker: SFM Devine
+        bowler: Nahida Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SW Bates
+    - 14.5:
+        non_striker: SFM Devine
+        bowler: Nahida Akter
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SW Bates
+    - 14.6:
+        non_striker: SW Bates
+        bowler: Nahida Akter
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SFM Devine
+    - 15.1:
+        non_striker: SW Bates
+        bowler: Salma Khatun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SFM Devine
+        wicket:
+          player_out: SFM Devine
+          fielders:
+          - Fargana Hoque
+          kind: caught
+    - 15.2:
+        non_striker: SW Bates
+        bowler: Salma Khatun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Kerr
+    - 15.3:
+        non_striker: SW Bates
+        bowler: Salma Khatun
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Kerr
+    - 15.4:
+        non_striker: AC Kerr
+        bowler: Salma Khatun
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SW Bates
+    - 15.5:
+        non_striker: SW Bates
+        bowler: Salma Khatun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Kerr
+    - 15.6:
+        non_striker: SW Bates
+        bowler: Salma Khatun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Kerr
+    - 16.1:
+        non_striker: AC Kerr
+        bowler: Nahida Akter
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SW Bates
+    - 16.2:
+        non_striker: SW Bates
+        bowler: Nahida Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Kerr
+    - 16.3:
+        non_striker: SW Bates
+        bowler: Nahida Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Kerr
+    - 16.4:
+        non_striker: SW Bates
+        bowler: Nahida Akter
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Kerr
+    - 16.5:
+        non_striker: AC Kerr
+        bowler: Nahida Akter
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SW Bates
+    - 16.6:
+        non_striker: SW Bates
+        bowler: Nahida Akter
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Kerr
+    - 17.1:
+        non_striker: SW Bates
+        bowler: Ritu Moni
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Kerr
+    - 17.2:
+        non_striker: AC Kerr
+        bowler: Ritu Moni
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SW Bates
+    - 17.3:
+        non_striker: AC Kerr
+        bowler: Ritu Moni
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SW Bates
+    - 17.4:
+        non_striker: AC Kerr
+        bowler: Ritu Moni
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SW Bates
+    - 17.5:
+        non_striker: SW Bates
+        bowler: Ritu Moni
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Kerr
+    - 17.6:
+        non_striker: SW Bates
+        bowler: Ritu Moni
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Kerr
+    - 18.1:
+        non_striker: AC Kerr
+        bowler: Nahida Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SW Bates
+    - 18.2:
+        non_striker: AC Kerr
+        bowler: Nahida Akter
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SW Bates
+    - 18.3:
+        non_striker: AC Kerr
+        bowler: Nahida Akter
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SW Bates
+    - 18.4:
+        non_striker: SW Bates
+        bowler: Nahida Akter
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Kerr
+    - 18.5:
+        non_striker: AC Kerr
+        bowler: Nahida Akter
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SW Bates
+    - 18.6:
+        non_striker: SW Bates
+        bowler: Nahida Akter
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Kerr
+    - 19.1:
+        non_striker: SW Bates
+        bowler: Ritu Moni
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Kerr
+    - 19.2:
+        non_striker: AC Kerr
+        bowler: Ritu Moni
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SW Bates
+    - 19.3:
+        non_striker: SW Bates
+        bowler: Ritu Moni
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Kerr
+    - 19.4:
+        non_striker: SW Bates
+        bowler: Ritu Moni
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Kerr
+    - 19.5:
+        non_striker: AC Kerr
+        bowler: Ritu Moni
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SW Bates
+    - 19.6:
+        non_striker: SW Bates
+        bowler: Ritu Moni
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AC Kerr
+    - 20.1:
+        non_striker: AC Kerr
+        bowler: Nahida Akter
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SW Bates
+    - 20.2:
+        non_striker: SW Bates
+        bowler: Nahida Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Kerr
+    - 20.3:
+        non_striker: SW Bates
+        bowler: Nahida Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Kerr
+    - 20.4:
+        non_striker: SW Bates
+        bowler: Nahida Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Kerr
+    - 20.5:
+        non_striker: SW Bates
+        bowler: Nahida Akter
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Kerr
+    - 20.6:
+        non_striker: AC Kerr
+        bowler: Nahida Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SW Bates
+    - 21.1:
+        non_striker: SW Bates
+        bowler: Ritu Moni
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Kerr
+    - 21.2:
+        non_striker: AC Kerr
+        bowler: Ritu Moni
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SW Bates
+    - 21.3:
+        non_striker: SW Bates
+        bowler: Ritu Moni
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Kerr
+    - 21.4:
+        non_striker: AC Kerr
+        bowler: Ritu Moni
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SW Bates
+    - 21.5:
+        non_striker: SW Bates
+        bowler: Ritu Moni
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Kerr
+    - 21.6:
+        non_striker: AC Kerr
+        bowler: Ritu Moni
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SW Bates
+    - 22.1:
+        non_striker: AC Kerr
+        bowler: Nahida Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SW Bates
+    - 22.2:
+        non_striker: AC Kerr
+        bowler: Nahida Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SW Bates
+    - 22.3:
+        non_striker: AC Kerr
+        bowler: Nahida Akter
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SW Bates
+    - 22.4:
+        non_striker: SW Bates
+        bowler: Nahida Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Kerr
+    - 22.5:
+        non_striker: SW Bates
+        bowler: Nahida Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Kerr
+    - 22.6:
+        non_striker: SW Bates
+        bowler: Nahida Akter
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Kerr
+    - 23.1:
+        non_striker: SW Bates
+        bowler: Ritu Moni
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Kerr
+    - 23.2:
+        non_striker: SW Bates
+        bowler: Ritu Moni
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Kerr
+    - 23.3:
+        non_striker: AC Kerr
+        bowler: Ritu Moni
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SW Bates
+    - 23.4:
+        non_striker: SW Bates
+        bowler: Ritu Moni
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Kerr
+    - 23.5:
+        non_striker: AC Kerr
+        bowler: Ritu Moni
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SW Bates
+    - 23.6:
+        non_striker: SW Bates
+        bowler: Ritu Moni
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Kerr
+    - 24.1:
+        non_striker: AC Kerr
+        bowler: Nahida Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SW Bates
+    - 24.2:
+        non_striker: AC Kerr
+        bowler: Nahida Akter
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SW Bates
+    - 24.3:
+        non_striker: SW Bates
+        bowler: Nahida Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Kerr
+    - 24.4:
+        non_striker: SW Bates
+        bowler: Nahida Akter
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Kerr
+    - 24.5:
+        non_striker: AC Kerr
+        bowler: Nahida Akter
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SW Bates
+    - 24.6:
+        non_striker: SW Bates
+        bowler: Nahida Akter
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AC Kerr
+    - 25.1:
+        non_striker: AC Kerr
+        bowler: Ritu Moni
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SW Bates
+    - 25.2:
+        non_striker: AC Kerr
+        bowler: Ritu Moni
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SW Bates
+    - 25.3:
+        non_striker: SW Bates
+        bowler: Ritu Moni
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Kerr
+    - 25.4:
+        non_striker: AC Kerr
+        bowler: Ritu Moni
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SW Bates
+        wicket:
+          player_out: SW Bates
+          fielders:
+          - Lata Mondal
+          kind: caught
+    - 25.5:
+        non_striker: AC Kerr
+        bowler: Ritu Moni
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ML Green
+    - 25.6:
+        non_striker: ML Green
+        bowler: Ritu Moni
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Kerr
+    - 26.1:
+        non_striker: AC Kerr
+        bowler: Salma Khatun
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: ML Green
+    - 26.2:
+        non_striker: AC Kerr
+        bowler: Salma Khatun
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ML Green
+    - 26.3:
+        non_striker: ML Green
+        bowler: Salma Khatun
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Kerr
+    - 26.4:
+        non_striker: AC Kerr
+        bowler: Salma Khatun
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ML Green
+    - 26.5:
+        non_striker: ML Green
+        bowler: Salma Khatun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Kerr

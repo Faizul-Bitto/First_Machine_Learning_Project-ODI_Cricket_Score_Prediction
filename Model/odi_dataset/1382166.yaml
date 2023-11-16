@@ -1,0 +1,4126 @@
+---
+meta:
+  data_version: 0.92
+  created: '2023-07-18'
+  revision: 2
+info:
+  balls_per_over: 6
+  city: Dhaka
+  dates:
+  - '2023-07-16'
+  gender: female
+  match_type: ODI
+  match_type_number: 1326
+  outcome:
+    winner: Bangladesh
+    by:
+      runs: 40
+    method: D/L
+  overs: 50
+  player_of_match:
+  - Marufa Akter
+  players:
+    Bangladesh:
+    - Murshida Khatun
+    - Sharmin Akhter
+    - Fargana Hoque
+    - Nigar Sultana
+    - Ritu Moni
+    - Rabeya Khan
+    - Nahida Akter
+    - Fahima Khatun
+    - Sultana Khatun
+    - Marufa Akter
+    - Shorna Akter
+    India:
+    - PS Punia
+    - S Mandhana
+    - YH Bhatia
+    - H Kaur
+    - JI Rodrigues
+    - DB Sharma
+    - AB Kaur
+    - S Rana
+    - DP Vaidya
+    - P Vastrakar
+    - BM Anusha
+  registry:
+    people:
+      AB Kaur: 9565fda6
+      Akhtar Ahmad: 29859e71
+      Ali Arman: 1342d8d8
+      BM Anusha: e179aae0
+      DB Sharma: 201fef33
+      DP Vaidya: f9ded29b
+      Fahima Khatun: 558cdd64
+      Fargana Hoque: 6e96c956
+      H Kaur: 53cd8da6
+      JI Rodrigues: cb08b611
+      Mahfuzur Rahman: 3275b68b
+      Marufa Akter: a50797a4
+      Mohammad Kamruzzaman: 74eb8175
+      Moniruzzaman: 075e9f9c
+      Murshida Khatun: 712bbd92
+      Nahida Akter: '66078174'
+      Nigar Sultana: 3827f6a2
+      P Vastrakar: 8026ea72
+      PS Punia: 8d887a02
+      Rabeya Khan: aaf037b1
+      Ritu Moni: ad3940a5
+      S Mandhana: 5d2eda89
+      S Rana: c4c374d9
+      Sharmin Akhter: 84fdd3cf
+      Shorna Akter: 89895ae1
+      Sultana Khatun: fb0c0bcc
+      YH Bhatia: 9c3d4e8a
+  teams:
+  - Bangladesh
+  - India
+  toss:
+    winner: India
+    decision: field
+  umpires:
+  - Mahfuzur Rahman
+  - Moniruzzaman
+  venue: Shere Bangla National Stadium, Mirpur
+innings:
+- 1st innings:
+    team: Bangladesh
+    absent_hurt:
+    - Shorna Akter
+    deliveries:
+    - 0.1:
+        non_striker: Sharmin Akhter
+        bowler: P Vastrakar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Murshida Khatun
+    - 0.2:
+        non_striker: Murshida Khatun
+        bowler: P Vastrakar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sharmin Akhter
+    - 0.3:
+        non_striker: Murshida Khatun
+        bowler: P Vastrakar
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Sharmin Akhter
+    - 0.4:
+        non_striker: Murshida Khatun
+        bowler: P Vastrakar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sharmin Akhter
+    - 0.5:
+        non_striker: Murshida Khatun
+        bowler: P Vastrakar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sharmin Akhter
+    - 0.6:
+        non_striker: Murshida Khatun
+        bowler: P Vastrakar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sharmin Akhter
+    - 0.7:
+        non_striker: Murshida Khatun
+        bowler: P Vastrakar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sharmin Akhter
+    - 1.1:
+        non_striker: Sharmin Akhter
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Murshida Khatun
+    - 1.2:
+        non_striker: Sharmin Akhter
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Murshida Khatun
+    - 1.3:
+        non_striker: Sharmin Akhter
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Murshida Khatun
+    - 1.4:
+        non_striker: Sharmin Akhter
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Murshida Khatun
+    - 1.5:
+        non_striker: Sharmin Akhter
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Murshida Khatun
+    - 1.6:
+        non_striker: Murshida Khatun
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sharmin Akhter
+    - 2.1:
+        non_striker: Sharmin Akhter
+        bowler: P Vastrakar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Murshida Khatun
+    - 2.2:
+        non_striker: Sharmin Akhter
+        bowler: P Vastrakar
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Murshida Khatun
+    - 2.3:
+        non_striker: Sharmin Akhter
+        bowler: P Vastrakar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Murshida Khatun
+    - 2.4:
+        non_striker: Sharmin Akhter
+        bowler: P Vastrakar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Murshida Khatun
+    - 2.5:
+        non_striker: Sharmin Akhter
+        bowler: P Vastrakar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Murshida Khatun
+    - 2.6:
+        non_striker: Sharmin Akhter
+        bowler: P Vastrakar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Murshida Khatun
+    - 3.1:
+        non_striker: Murshida Khatun
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sharmin Akhter
+    - 3.2:
+        non_striker: Murshida Khatun
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sharmin Akhter
+    - 3.3:
+        non_striker: Murshida Khatun
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sharmin Akhter
+    - 3.4:
+        non_striker: Murshida Khatun
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sharmin Akhter
+    - 3.5:
+        non_striker: Murshida Khatun
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sharmin Akhter
+    - 3.6:
+        non_striker: Murshida Khatun
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sharmin Akhter
+    - 4.1:
+        non_striker: Sharmin Akhter
+        bowler: P Vastrakar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Murshida Khatun
+    - 4.2:
+        non_striker: Sharmin Akhter
+        bowler: P Vastrakar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Murshida Khatun
+    - 4.3:
+        non_striker: Sharmin Akhter
+        bowler: P Vastrakar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Murshida Khatun
+    - 4.4:
+        non_striker: Sharmin Akhter
+        bowler: P Vastrakar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Murshida Khatun
+    - 4.5:
+        non_striker: Sharmin Akhter
+        bowler: P Vastrakar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Murshida Khatun
+    - 4.6:
+        non_striker: Sharmin Akhter
+        bowler: P Vastrakar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Murshida Khatun
+    - 5.1:
+        non_striker: Sharmin Akhter
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Murshida Khatun
+    - 5.2:
+        non_striker: Sharmin Akhter
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Murshida Khatun
+    - 5.3:
+        non_striker: Sharmin Akhter
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Murshida Khatun
+    - 5.4:
+        non_striker: Sharmin Akhter
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Murshida Khatun
+    - 5.5:
+        non_striker: Sharmin Akhter
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Murshida Khatun
+    - 5.6:
+        non_striker: Sharmin Akhter
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Murshida Khatun
+    - 6.1:
+        non_striker: Murshida Khatun
+        bowler: AB Kaur
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sharmin Akhter
+    - 6.2:
+        non_striker: Murshida Khatun
+        bowler: AB Kaur
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sharmin Akhter
+    - 6.3:
+        non_striker: Murshida Khatun
+        bowler: AB Kaur
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sharmin Akhter
+    - 6.4:
+        non_striker: Murshida Khatun
+        bowler: AB Kaur
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sharmin Akhter
+    - 6.5:
+        non_striker: Murshida Khatun
+        bowler: AB Kaur
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sharmin Akhter
+    - 6.6:
+        non_striker: Murshida Khatun
+        bowler: AB Kaur
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sharmin Akhter
+    - 7.1:
+        non_striker: Sharmin Akhter
+        bowler: S Rana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Murshida Khatun
+    - 7.2:
+        non_striker: Sharmin Akhter
+        bowler: S Rana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Murshida Khatun
+    - 7.3:
+        non_striker: Sharmin Akhter
+        bowler: S Rana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Murshida Khatun
+        wicket:
+          player_out: Sharmin Akhter
+          fielders:
+          - YH Bhatia
+          - AB Kaur
+          kind: run out
+    - 7.4:
+        non_striker: Murshida Khatun
+        bowler: S Rana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fargana Hoque
+    - 7.5:
+        non_striker: Murshida Khatun
+        bowler: S Rana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fargana Hoque
+    - 7.6:
+        non_striker: Murshida Khatun
+        bowler: S Rana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fargana Hoque
+    - 8.1:
+        non_striker: Fargana Hoque
+        bowler: AB Kaur
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Murshida Khatun
+    - 8.2:
+        non_striker: Fargana Hoque
+        bowler: AB Kaur
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Murshida Khatun
+    - 8.3:
+        non_striker: Fargana Hoque
+        bowler: AB Kaur
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Murshida Khatun
+        wicket:
+          player_out: Murshida Khatun
+          fielders:
+          - H Kaur
+          kind: caught
+    - 8.4:
+        non_striker: Fargana Hoque
+        bowler: AB Kaur
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nigar Sultana
+    - 8.5:
+        non_striker: Fargana Hoque
+        bowler: AB Kaur
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nigar Sultana
+    - 8.6:
+        non_striker: Fargana Hoque
+        bowler: AB Kaur
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nigar Sultana
+    - 9.1:
+        non_striker: Nigar Sultana
+        bowler: S Rana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fargana Hoque
+    - 9.2:
+        non_striker: Nigar Sultana
+        bowler: S Rana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fargana Hoque
+    - 9.3:
+        non_striker: Nigar Sultana
+        bowler: S Rana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fargana Hoque
+    - 9.4:
+        non_striker: Nigar Sultana
+        bowler: S Rana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fargana Hoque
+    - 9.5:
+        non_striker: Nigar Sultana
+        bowler: S Rana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fargana Hoque
+    - 9.6:
+        non_striker: Nigar Sultana
+        bowler: S Rana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fargana Hoque
+    - 10.1:
+        non_striker: Fargana Hoque
+        bowler: AB Kaur
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nigar Sultana
+    - 10.2:
+        non_striker: Fargana Hoque
+        bowler: AB Kaur
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nigar Sultana
+    - 10.3:
+        non_striker: Fargana Hoque
+        bowler: AB Kaur
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nigar Sultana
+    - 10.4:
+        non_striker: Fargana Hoque
+        bowler: AB Kaur
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nigar Sultana
+    - 10.5:
+        non_striker: Fargana Hoque
+        bowler: AB Kaur
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Nigar Sultana
+    - 10.6:
+        non_striker: Fargana Hoque
+        bowler: AB Kaur
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Nigar Sultana
+    - 10.7:
+        non_striker: Fargana Hoque
+        bowler: AB Kaur
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nigar Sultana
+    - 11.1:
+        non_striker: Nigar Sultana
+        bowler: S Rana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fargana Hoque
+    - 11.2:
+        non_striker: Nigar Sultana
+        bowler: S Rana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fargana Hoque
+    - 11.3:
+        non_striker: Nigar Sultana
+        bowler: S Rana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fargana Hoque
+    - 11.4:
+        non_striker: Nigar Sultana
+        bowler: S Rana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fargana Hoque
+    - 11.5:
+        non_striker: Nigar Sultana
+        bowler: S Rana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Fargana Hoque
+    - 11.6:
+        non_striker: Fargana Hoque
+        bowler: S Rana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nigar Sultana
+    - 12.1:
+        non_striker: Nigar Sultana
+        bowler: P Vastrakar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fargana Hoque
+    - 12.2:
+        non_striker: Nigar Sultana
+        bowler: P Vastrakar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fargana Hoque
+    - 12.3:
+        non_striker: Nigar Sultana
+        bowler: P Vastrakar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fargana Hoque
+    - 12.4:
+        non_striker: Nigar Sultana
+        bowler: P Vastrakar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fargana Hoque
+    - 12.5:
+        non_striker: Nigar Sultana
+        bowler: P Vastrakar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fargana Hoque
+    - 12.6:
+        non_striker: Nigar Sultana
+        bowler: P Vastrakar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Fargana Hoque
+    - 13.1:
+        non_striker: Nigar Sultana
+        bowler: BM Anusha
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Fargana Hoque
+    - 13.2:
+        non_striker: Nigar Sultana
+        bowler: BM Anusha
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Fargana Hoque
+    - 13.3:
+        non_striker: Nigar Sultana
+        bowler: BM Anusha
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Fargana Hoque
+    - 13.4:
+        non_striker: Nigar Sultana
+        bowler: BM Anusha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fargana Hoque
+    - 13.5:
+        non_striker: Nigar Sultana
+        bowler: BM Anusha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fargana Hoque
+    - 13.6:
+        non_striker: Nigar Sultana
+        bowler: BM Anusha
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Fargana Hoque
+    - 13.7:
+        non_striker: Fargana Hoque
+        bowler: BM Anusha
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Nigar Sultana
+    - 13.8:
+        non_striker: Fargana Hoque
+        bowler: BM Anusha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nigar Sultana
+    - 14.1:
+        non_striker: Nigar Sultana
+        bowler: P Vastrakar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fargana Hoque
+    - 14.2:
+        non_striker: Nigar Sultana
+        bowler: P Vastrakar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Fargana Hoque
+    - 14.3:
+        non_striker: Nigar Sultana
+        bowler: P Vastrakar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fargana Hoque
+    - 14.4:
+        non_striker: Nigar Sultana
+        bowler: P Vastrakar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fargana Hoque
+    - 14.5:
+        non_striker: Nigar Sultana
+        bowler: P Vastrakar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Fargana Hoque
+    - 14.6:
+        non_striker: Nigar Sultana
+        bowler: P Vastrakar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fargana Hoque
+    - 15.1:
+        non_striker: Fargana Hoque
+        bowler: DP Vaidya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nigar Sultana
+    - 15.2:
+        non_striker: Fargana Hoque
+        bowler: DP Vaidya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nigar Sultana
+    - 15.3:
+        non_striker: Fargana Hoque
+        bowler: DP Vaidya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nigar Sultana
+    - 15.4:
+        non_striker: Nigar Sultana
+        bowler: DP Vaidya
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Fargana Hoque
+    - 15.5:
+        non_striker: Nigar Sultana
+        bowler: DP Vaidya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fargana Hoque
+    - 15.6:
+        non_striker: Nigar Sultana
+        bowler: DP Vaidya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fargana Hoque
+    - 16.1:
+        non_striker: Fargana Hoque
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nigar Sultana
+    - 16.2:
+        non_striker: Fargana Hoque
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nigar Sultana
+    - 16.3:
+        non_striker: Fargana Hoque
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nigar Sultana
+    - 16.4:
+        non_striker: Nigar Sultana
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Fargana Hoque
+    - 16.5:
+        non_striker: Nigar Sultana
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fargana Hoque
+    - 16.6:
+        non_striker: Nigar Sultana
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fargana Hoque
+    - 17.1:
+        non_striker: Fargana Hoque
+        bowler: DP Vaidya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nigar Sultana
+    - 17.2:
+        non_striker: Nigar Sultana
+        bowler: DP Vaidya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Fargana Hoque
+    - 17.3:
+        non_striker: Fargana Hoque
+        bowler: DP Vaidya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nigar Sultana
+    - 17.4:
+        non_striker: Nigar Sultana
+        bowler: DP Vaidya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fargana Hoque
+    - 17.5:
+        non_striker: Nigar Sultana
+        bowler: DP Vaidya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Fargana Hoque
+    - 17.6:
+        non_striker: Fargana Hoque
+        bowler: DP Vaidya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nigar Sultana
+    - 18.1:
+        non_striker: Fargana Hoque
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Nigar Sultana
+    - 18.2:
+        non_striker: Fargana Hoque
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nigar Sultana
+    - 18.3:
+        non_striker: Fargana Hoque
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nigar Sultana
+    - 18.4:
+        non_striker: Fargana Hoque
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nigar Sultana
+    - 18.5:
+        non_striker: Nigar Sultana
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fargana Hoque
+    - 18.6:
+        non_striker: Nigar Sultana
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fargana Hoque
+    - 19.1:
+        non_striker: Fargana Hoque
+        bowler: DP Vaidya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nigar Sultana
+    - 19.2:
+        non_striker: Fargana Hoque
+        bowler: DP Vaidya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nigar Sultana
+    - 19.3:
+        non_striker: Fargana Hoque
+        bowler: DP Vaidya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nigar Sultana
+    - 19.4:
+        non_striker: Fargana Hoque
+        bowler: DP Vaidya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nigar Sultana
+    - 19.5:
+        non_striker: Nigar Sultana
+        bowler: DP Vaidya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fargana Hoque
+    - 19.6:
+        non_striker: Nigar Sultana
+        bowler: DP Vaidya
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Fargana Hoque
+    - 20.1:
+        non_striker: Fargana Hoque
+        bowler: AB Kaur
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nigar Sultana
+    - 20.2:
+        non_striker: Fargana Hoque
+        bowler: AB Kaur
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Nigar Sultana
+    - 20.3:
+        non_striker: Fargana Hoque
+        bowler: AB Kaur
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nigar Sultana
+    - 20.4:
+        non_striker: Fargana Hoque
+        bowler: AB Kaur
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nigar Sultana
+    - 20.5:
+        non_striker: Nigar Sultana
+        bowler: AB Kaur
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fargana Hoque
+    - 20.6:
+        non_striker: Nigar Sultana
+        bowler: AB Kaur
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fargana Hoque
+        wicket:
+          player_out: Fargana Hoque
+          fielders:
+          - YH Bhatia
+          kind: caught
+    - 20.7:
+        non_striker: Nigar Sultana
+        bowler: AB Kaur
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ritu Moni
+    - 21.1:
+        non_striker: Nigar Sultana
+        bowler: S Rana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ritu Moni
+    - 21.2:
+        non_striker: Nigar Sultana
+        bowler: S Rana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ritu Moni
+    - 21.3:
+        non_striker: Nigar Sultana
+        bowler: S Rana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ritu Moni
+    - 21.4:
+        non_striker: Nigar Sultana
+        bowler: S Rana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ritu Moni
+    - 21.5:
+        non_striker: Nigar Sultana
+        bowler: S Rana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ritu Moni
+    - 21.6:
+        non_striker: Nigar Sultana
+        bowler: S Rana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ritu Moni
+    - 22.1:
+        non_striker: Ritu Moni
+        bowler: AB Kaur
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nigar Sultana
+    - 22.2:
+        non_striker: Ritu Moni
+        bowler: AB Kaur
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nigar Sultana
+    - 22.3:
+        non_striker: Ritu Moni
+        bowler: AB Kaur
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nigar Sultana
+    - 22.4:
+        non_striker: Ritu Moni
+        bowler: AB Kaur
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nigar Sultana
+    - 22.5:
+        non_striker: Nigar Sultana
+        bowler: AB Kaur
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Ritu Moni
+    - 22.6:
+        non_striker: Nigar Sultana
+        bowler: AB Kaur
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ritu Moni
+    - 23.1:
+        non_striker: Ritu Moni
+        bowler: S Rana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nigar Sultana
+    - 23.2:
+        non_striker: Nigar Sultana
+        bowler: S Rana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ritu Moni
+    - 23.3:
+        non_striker: Nigar Sultana
+        bowler: S Rana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ritu Moni
+    - 23.4:
+        non_striker: Nigar Sultana
+        bowler: S Rana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ritu Moni
+    - 23.5:
+        non_striker: Ritu Moni
+        bowler: S Rana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nigar Sultana
+    - 23.6:
+        non_striker: Ritu Moni
+        bowler: S Rana
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Nigar Sultana
+    - 24.1:
+        non_striker: Nigar Sultana
+        bowler: P Vastrakar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ritu Moni
+    - 24.2:
+        non_striker: Ritu Moni
+        bowler: P Vastrakar
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Nigar Sultana
+    - 24.3:
+        non_striker: Ritu Moni
+        bowler: P Vastrakar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nigar Sultana
+    - 24.4:
+        non_striker: Ritu Moni
+        bowler: P Vastrakar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nigar Sultana
+    - 24.5:
+        non_striker: Nigar Sultana
+        bowler: P Vastrakar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ritu Moni
+    - 24.6:
+        non_striker: Nigar Sultana
+        bowler: P Vastrakar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ritu Moni
+    - 25.1:
+        non_striker: Ritu Moni
+        bowler: DP Vaidya
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Nigar Sultana
+    - 25.2:
+        non_striker: Ritu Moni
+        bowler: DP Vaidya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nigar Sultana
+    - 25.3:
+        non_striker: Nigar Sultana
+        bowler: DP Vaidya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ritu Moni
+    - 25.4:
+        non_striker: Nigar Sultana
+        bowler: DP Vaidya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ritu Moni
+    - 25.5:
+        non_striker: Ritu Moni
+        bowler: DP Vaidya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nigar Sultana
+    - 25.6:
+        non_striker: Ritu Moni
+        bowler: DP Vaidya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nigar Sultana
+    - 25.7:
+        non_striker: Nigar Sultana
+        bowler: DP Vaidya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ritu Moni
+        wicket:
+          player_out: Ritu Moni
+          fielders:
+          - JI Rodrigues
+          kind: caught
+    - 26.1:
+        non_striker: Rabeya Khan
+        bowler: P Vastrakar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nigar Sultana
+    - 26.2:
+        non_striker: Rabeya Khan
+        bowler: P Vastrakar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nigar Sultana
+    - 26.3:
+        non_striker: Rabeya Khan
+        bowler: P Vastrakar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nigar Sultana
+    - 26.4:
+        non_striker: Rabeya Khan
+        bowler: P Vastrakar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nigar Sultana
+    - 26.5:
+        non_striker: Rabeya Khan
+        bowler: P Vastrakar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nigar Sultana
+    - 26.6:
+        non_striker: Rabeya Khan
+        bowler: P Vastrakar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nigar Sultana
+    - 27.1:
+        non_striker: Rabeya Khan
+        bowler: DP Vaidya
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Nigar Sultana
+    - 27.2:
+        non_striker: Rabeya Khan
+        bowler: DP Vaidya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nigar Sultana
+    - 27.3:
+        non_striker: Rabeya Khan
+        bowler: DP Vaidya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nigar Sultana
+    - 27.4:
+        non_striker: Rabeya Khan
+        bowler: DP Vaidya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nigar Sultana
+    - 27.5:
+        non_striker: Rabeya Khan
+        bowler: DP Vaidya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nigar Sultana
+    - 27.6:
+        non_striker: Rabeya Khan
+        bowler: DP Vaidya
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Nigar Sultana
+    - 27.7:
+        non_striker: Rabeya Khan
+        bowler: DP Vaidya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nigar Sultana
+    - 28.1:
+        non_striker: Rabeya Khan
+        bowler: AB Kaur
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Nigar Sultana
+    - 28.2:
+        non_striker: Rabeya Khan
+        bowler: AB Kaur
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nigar Sultana
+    - 28.3:
+        non_striker: Rabeya Khan
+        bowler: AB Kaur
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nigar Sultana
+    - 28.4:
+        non_striker: Nigar Sultana
+        bowler: AB Kaur
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rabeya Khan
+    - 28.5:
+        non_striker: Nigar Sultana
+        bowler: AB Kaur
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rabeya Khan
+    - 28.6:
+        non_striker: Rabeya Khan
+        bowler: AB Kaur
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nigar Sultana
+    - 28.7:
+        non_striker: Nigar Sultana
+        bowler: AB Kaur
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Rabeya Khan
+    - 29.1:
+        non_striker: Rabeya Khan
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nigar Sultana
+    - 29.2:
+        non_striker: Nigar Sultana
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rabeya Khan
+    - 29.3:
+        non_striker: Nigar Sultana
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Rabeya Khan
+    - 29.4:
+        non_striker: Nigar Sultana
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rabeya Khan
+    - 29.5:
+        non_striker: Rabeya Khan
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Nigar Sultana
+    - 29.6:
+        non_striker: Rabeya Khan
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nigar Sultana
+    - 30.1:
+        non_striker: Rabeya Khan
+        bowler: AB Kaur
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nigar Sultana
+        wicket:
+          player_out: Nigar Sultana
+          kind: lbw
+    - 30.2:
+        non_striker: Rabeya Khan
+        bowler: AB Kaur
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nahida Akter
+    - 30.3:
+        non_striker: Rabeya Khan
+        bowler: AB Kaur
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nahida Akter
+    - 30.4:
+        non_striker: Rabeya Khan
+        bowler: AB Kaur
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nahida Akter
+    - 30.5:
+        non_striker: Rabeya Khan
+        bowler: AB Kaur
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nahida Akter
+    - 30.6:
+        non_striker: Nahida Akter
+        bowler: AB Kaur
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rabeya Khan
+    - 31.1:
+        non_striker: Rabeya Khan
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nahida Akter
+    - 31.2:
+        non_striker: Rabeya Khan
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nahida Akter
+    - 31.3:
+        non_striker: Rabeya Khan
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nahida Akter
+    - 31.4:
+        non_striker: Rabeya Khan
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nahida Akter
+    - 31.5:
+        non_striker: Rabeya Khan
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nahida Akter
+    - 31.6:
+        non_striker: Rabeya Khan
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nahida Akter
+    - 32.1:
+        non_striker: Nahida Akter
+        bowler: AB Kaur
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rabeya Khan
+    - 32.2:
+        non_striker: Rabeya Khan
+        bowler: AB Kaur
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nahida Akter
+    - 32.3:
+        non_striker: Rabeya Khan
+        bowler: AB Kaur
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nahida Akter
+    - 32.4:
+        non_striker: Rabeya Khan
+        bowler: AB Kaur
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nahida Akter
+    - 32.5:
+        non_striker: Rabeya Khan
+        bowler: AB Kaur
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nahida Akter
+    - 33.1:
+        non_striker: Rabeya Khan
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nahida Akter
+        wicket:
+          player_out: Nahida Akter
+          fielders:
+          - PS Punia
+          kind: caught
+    - 33.2:
+        non_striker: Rabeya Khan
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fahima Khatun
+    - 33.3:
+        non_striker: Rabeya Khan
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Fahima Khatun
+    - 33.4:
+        non_striker: Rabeya Khan
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Fahima Khatun
+    - 33.5:
+        non_striker: Fahima Khatun
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rabeya Khan
+    - 33.6:
+        non_striker: Rabeya Khan
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fahima Khatun
+    - 34.1:
+        non_striker: Fahima Khatun
+        bowler: AB Kaur
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rabeya Khan
+    - 34.2:
+        non_striker: Fahima Khatun
+        bowler: AB Kaur
+        runs:
+          extras: 5
+          total: 5
+          batsman: 0
+        extras:
+          wides: 5
+        batsman: Rabeya Khan
+    - 34.3:
+        non_striker: Fahima Khatun
+        bowler: AB Kaur
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Rabeya Khan
+    - 34.4:
+        non_striker: Fahima Khatun
+        bowler: AB Kaur
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rabeya Khan
+        wicket:
+          player_out: Rabeya Khan
+          fielders:
+          - S Mandhana
+          kind: caught
+    - 34.5:
+        non_striker: Fahima Khatun
+        bowler: AB Kaur
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sultana Khatun
+    - 34.6:
+        non_striker: Sultana Khatun
+        bowler: AB Kaur
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fahima Khatun
+    - 34.7:
+        non_striker: Sultana Khatun
+        bowler: AB Kaur
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fahima Khatun
+    - 34.8:
+        non_striker: Sultana Khatun
+        bowler: AB Kaur
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fahima Khatun
+    - 35.1:
+        non_striker: Fahima Khatun
+        bowler: DP Vaidya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sultana Khatun
+    - 35.2:
+        non_striker: Fahima Khatun
+        bowler: DP Vaidya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sultana Khatun
+    - 35.3:
+        non_striker: Sultana Khatun
+        bowler: DP Vaidya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Fahima Khatun
+    - 35.4:
+        non_striker: Fahima Khatun
+        bowler: DP Vaidya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sultana Khatun
+    - 35.5:
+        non_striker: Fahima Khatun
+        bowler: DP Vaidya
+        runs:
+          extras: 5
+          total: 5
+          batsman: 0
+        extras:
+          wides: 5
+        batsman: Sultana Khatun
+    - 35.6:
+        non_striker: Fahima Khatun
+        bowler: DP Vaidya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sultana Khatun
+    - 35.7:
+        non_striker: Sultana Khatun
+        bowler: DP Vaidya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fahima Khatun
+    - 36.1:
+        non_striker: Fahima Khatun
+        bowler: P Vastrakar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sultana Khatun
+    - 36.2:
+        non_striker: Sultana Khatun
+        bowler: P Vastrakar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fahima Khatun
+    - 36.3:
+        non_striker: Sultana Khatun
+        bowler: P Vastrakar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Fahima Khatun
+    - 36.4:
+        non_striker: Fahima Khatun
+        bowler: P Vastrakar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sultana Khatun
+    - 36.5:
+        non_striker: Fahima Khatun
+        bowler: P Vastrakar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Sultana Khatun
+    - 36.6:
+        non_striker: Fahima Khatun
+        bowler: P Vastrakar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sultana Khatun
+    - 37.1:
+        non_striker: Sultana Khatun
+        bowler: S Rana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Fahima Khatun
+    - 37.2:
+        non_striker: Fahima Khatun
+        bowler: S Rana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sultana Khatun
+    - 37.3:
+        non_striker: Sultana Khatun
+        bowler: S Rana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fahima Khatun
+    - 37.4:
+        non_striker: Sultana Khatun
+        bowler: S Rana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fahima Khatun
+    - 37.5:
+        non_striker: Sultana Khatun
+        bowler: S Rana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fahima Khatun
+    - 37.6:
+        non_striker: Sultana Khatun
+        bowler: S Rana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fahima Khatun
+    - 38.1:
+        non_striker: Fahima Khatun
+        bowler: P Vastrakar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sultana Khatun
+    - 38.2:
+        non_striker: Fahima Khatun
+        bowler: P Vastrakar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Sultana Khatun
+    - 38.3:
+        non_striker: Fahima Khatun
+        bowler: P Vastrakar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sultana Khatun
+    - 38.4:
+        non_striker: Fahima Khatun
+        bowler: P Vastrakar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sultana Khatun
+    - 38.5:
+        non_striker: Fahima Khatun
+        bowler: P Vastrakar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sultana Khatun
+    - 38.6:
+        non_striker: Fahima Khatun
+        bowler: P Vastrakar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sultana Khatun
+    - 39.1:
+        non_striker: Sultana Khatun
+        bowler: DP Vaidya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Fahima Khatun
+    - 39.2:
+        non_striker: Fahima Khatun
+        bowler: DP Vaidya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sultana Khatun
+    - 39.3:
+        non_striker: Fahima Khatun
+        bowler: DP Vaidya
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Sultana Khatun
+    - 39.4:
+        non_striker: Fahima Khatun
+        bowler: DP Vaidya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sultana Khatun
+    - 39.5:
+        non_striker: Sultana Khatun
+        bowler: DP Vaidya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Fahima Khatun
+    - 39.6:
+        non_striker: Fahima Khatun
+        bowler: DP Vaidya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sultana Khatun
+        wicket:
+          player_out: Sultana Khatun
+          kind: bowled
+    - 40.1:
+        non_striker: Marufa Akter
+        bowler: S Rana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fahima Khatun
+    - 40.2:
+        non_striker: Marufa Akter
+        bowler: S Rana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fahima Khatun
+    - 40.3:
+        non_striker: Marufa Akter
+        bowler: S Rana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fahima Khatun
+    - 40.4:
+        non_striker: Marufa Akter
+        bowler: S Rana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fahima Khatun
+    - 40.5:
+        non_striker: Marufa Akter
+        bowler: S Rana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Fahima Khatun
+    - 40.6:
+        non_striker: Fahima Khatun
+        bowler: S Rana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Marufa Akter
+    - 41.1:
+        non_striker: Marufa Akter
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Fahima Khatun
+    - 41.2:
+        non_striker: Fahima Khatun
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Marufa Akter
+    - 41.3:
+        non_striker: Fahima Khatun
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Marufa Akter
+    - 41.4:
+        non_striker: Fahima Khatun
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Marufa Akter
+    - 41.5:
+        non_striker: Fahima Khatun
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Marufa Akter
+    - 41.6:
+        non_striker: Fahima Khatun
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Marufa Akter
+    - 42.1:
+        non_striker: Fahima Khatun
+        bowler: S Rana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Marufa Akter
+    - 42.2:
+        non_striker: Marufa Akter
+        bowler: S Rana
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Fahima Khatun
+    - 42.3:
+        non_striker: Marufa Akter
+        bowler: S Rana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fahima Khatun
+    - 42.4:
+        non_striker: Marufa Akter
+        bowler: S Rana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fahima Khatun
+    - 42.5:
+        non_striker: Marufa Akter
+        bowler: S Rana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fahima Khatun
+    - 42.6:
+        non_striker: Marufa Akter
+        bowler: S Rana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fahima Khatun
+        wicket:
+          player_out: Marufa Akter
+          fielders:
+          - DP Vaidya
+          kind: run out
+- 2nd innings:
+    team: India
+    deliveries:
+    - 0.1:
+        non_striker: S Mandhana
+        bowler: Marufa Akter
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PS Punia
+    - 0.2:
+        non_striker: PS Punia
+        bowler: Marufa Akter
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Mandhana
+    - 0.3:
+        non_striker: PS Punia
+        bowler: Marufa Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Mandhana
+    - 0.4:
+        non_striker: PS Punia
+        bowler: Marufa Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Mandhana
+    - 0.5:
+        non_striker: PS Punia
+        bowler: Marufa Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Mandhana
+    - 0.6:
+        non_striker: PS Punia
+        bowler: Marufa Akter
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Mandhana
+    - 1.1:
+        non_striker: S Mandhana
+        bowler: Nahida Akter
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PS Punia
+    - 1.2:
+        non_striker: PS Punia
+        bowler: Nahida Akter
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Mandhana
+    - 1.3:
+        non_striker: S Mandhana
+        bowler: Nahida Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PS Punia
+    - 1.4:
+        non_striker: S Mandhana
+        bowler: Nahida Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PS Punia
+    - 1.5:
+        non_striker: S Mandhana
+        bowler: Nahida Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PS Punia
+    - 1.6:
+        non_striker: S Mandhana
+        bowler: Nahida Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PS Punia
+    - 2.1:
+        non_striker: PS Punia
+        bowler: Marufa Akter
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Mandhana
+    - 2.2:
+        non_striker: PS Punia
+        bowler: Marufa Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Mandhana
+    - 2.3:
+        non_striker: PS Punia
+        bowler: Marufa Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Mandhana
+    - 2.4:
+        non_striker: PS Punia
+        bowler: Marufa Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Mandhana
+    - 2.5:
+        non_striker: PS Punia
+        bowler: Marufa Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Mandhana
+    - 2.6:
+        non_striker: PS Punia
+        bowler: Marufa Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Mandhana
+        wicket:
+          player_out: S Mandhana
+          fielders:
+          - Nigar Sultana
+          kind: caught
+    - 3.1:
+        non_striker: YH Bhatia
+        bowler: Sultana Khatun
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PS Punia
+    - 3.2:
+        non_striker: PS Punia
+        bowler: Sultana Khatun
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: YH Bhatia
+    - 3.3:
+        non_striker: YH Bhatia
+        bowler: Sultana Khatun
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: PS Punia
+    - 3.4:
+        non_striker: YH Bhatia
+        bowler: Sultana Khatun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PS Punia
+    - 3.5:
+        non_striker: YH Bhatia
+        bowler: Sultana Khatun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PS Punia
+    - 3.6:
+        non_striker: YH Bhatia
+        bowler: Sultana Khatun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PS Punia
+    - 4.1:
+        non_striker: PS Punia
+        bowler: Marufa Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: YH Bhatia
+    - 4.2:
+        non_striker: PS Punia
+        bowler: Marufa Akter
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: YH Bhatia
+    - 4.3:
+        non_striker: PS Punia
+        bowler: Marufa Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: YH Bhatia
+    - 4.4:
+        non_striker: PS Punia
+        bowler: Marufa Akter
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: YH Bhatia
+    - 4.5:
+        non_striker: YH Bhatia
+        bowler: Marufa Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PS Punia
+    - 4.6:
+        non_striker: YH Bhatia
+        bowler: Marufa Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PS Punia
+    - 5.1:
+        non_striker: PS Punia
+        bowler: Sultana Khatun
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: YH Bhatia
+    - 5.2:
+        non_striker: YH Bhatia
+        bowler: Sultana Khatun
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PS Punia
+    - 5.3:
+        non_striker: PS Punia
+        bowler: Sultana Khatun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: YH Bhatia
+    - 5.4:
+        non_striker: PS Punia
+        bowler: Sultana Khatun
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: YH Bhatia
+    - 5.5:
+        non_striker: YH Bhatia
+        bowler: Sultana Khatun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PS Punia
+    - 5.6:
+        non_striker: YH Bhatia
+        bowler: Sultana Khatun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PS Punia
+    - 6.1:
+        non_striker: PS Punia
+        bowler: Marufa Akter
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: YH Bhatia
+    - 6.2:
+        non_striker: YH Bhatia
+        bowler: Marufa Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PS Punia
+    - 6.3:
+        non_striker: YH Bhatia
+        bowler: Marufa Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PS Punia
+    - 6.4:
+        non_striker: YH Bhatia
+        bowler: Marufa Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PS Punia
+    - 6.5:
+        non_striker: YH Bhatia
+        bowler: Marufa Akter
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PS Punia
+    - 6.6:
+        non_striker: PS Punia
+        bowler: Marufa Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: YH Bhatia
+    - 7.1:
+        non_striker: YH Bhatia
+        bowler: Sultana Khatun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PS Punia
+    - 7.2:
+        non_striker: YH Bhatia
+        bowler: Sultana Khatun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PS Punia
+    - 7.3:
+        non_striker: YH Bhatia
+        bowler: Sultana Khatun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PS Punia
+    - 7.4:
+        non_striker: YH Bhatia
+        bowler: Sultana Khatun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PS Punia
+    - 7.5:
+        non_striker: YH Bhatia
+        bowler: Sultana Khatun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PS Punia
+    - 7.6:
+        non_striker: YH Bhatia
+        bowler: Sultana Khatun
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PS Punia
+    - 8.1:
+        non_striker: YH Bhatia
+        bowler: Marufa Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PS Punia
+        wicket:
+          player_out: PS Punia
+          fielders:
+          - Murshida Khatun
+          kind: caught
+    - 8.2:
+        non_striker: YH Bhatia
+        bowler: Marufa Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Kaur
+    - 8.3:
+        non_striker: YH Bhatia
+        bowler: Marufa Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Kaur
+    - 8.4:
+        non_striker: YH Bhatia
+        bowler: Marufa Akter
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Kaur
+    - 8.5:
+        non_striker: H Kaur
+        bowler: Marufa Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: YH Bhatia
+    - 8.6:
+        non_striker: H Kaur
+        bowler: Marufa Akter
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: YH Bhatia
+    - 9.1:
+        non_striker: H Kaur
+        bowler: Nahida Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: YH Bhatia
+    - 9.2:
+        non_striker: H Kaur
+        bowler: Nahida Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: YH Bhatia
+    - 9.3:
+        non_striker: H Kaur
+        bowler: Nahida Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: YH Bhatia
+    - 9.4:
+        non_striker: H Kaur
+        bowler: Nahida Akter
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: YH Bhatia
+    - 9.5:
+        non_striker: YH Bhatia
+        bowler: Nahida Akter
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: H Kaur
+    - 9.6:
+        non_striker: YH Bhatia
+        bowler: Nahida Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Kaur
+        wicket:
+          player_out: H Kaur
+          kind: lbw
+    - 10.1:
+        non_striker: JI Rodrigues
+        bowler: Ritu Moni
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: YH Bhatia
+    - 10.2:
+        non_striker: JI Rodrigues
+        bowler: Ritu Moni
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: YH Bhatia
+    - 10.3:
+        non_striker: YH Bhatia
+        bowler: Ritu Moni
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JI Rodrigues
+    - 10.4:
+        non_striker: YH Bhatia
+        bowler: Ritu Moni
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JI Rodrigues
+    - 10.5:
+        non_striker: YH Bhatia
+        bowler: Ritu Moni
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JI Rodrigues
+    - 10.6:
+        non_striker: YH Bhatia
+        bowler: Ritu Moni
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JI Rodrigues
+    - 10.7:
+        non_striker: JI Rodrigues
+        bowler: Ritu Moni
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: YH Bhatia
+    - 11.1:
+        non_striker: JI Rodrigues
+        bowler: Nahida Akter
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: YH Bhatia
+    - 11.2:
+        non_striker: YH Bhatia
+        bowler: Nahida Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JI Rodrigues
+    - 11.3:
+        non_striker: YH Bhatia
+        bowler: Nahida Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JI Rodrigues
+    - 11.4:
+        non_striker: YH Bhatia
+        bowler: Nahida Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JI Rodrigues
+    - 11.5:
+        non_striker: YH Bhatia
+        bowler: Nahida Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JI Rodrigues
+    - 11.6:
+        non_striker: YH Bhatia
+        bowler: Nahida Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JI Rodrigues
+    - 12.1:
+        non_striker: JI Rodrigues
+        bowler: Rabeya Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: YH Bhatia
+    - 12.2:
+        non_striker: JI Rodrigues
+        bowler: Rabeya Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: YH Bhatia
+    - 12.3:
+        non_striker: JI Rodrigues
+        bowler: Rabeya Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: YH Bhatia
+    - 12.4:
+        non_striker: JI Rodrigues
+        bowler: Rabeya Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: YH Bhatia
+    - 12.5:
+        non_striker: YH Bhatia
+        bowler: Rabeya Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JI Rodrigues
+    - 12.6:
+        non_striker: JI Rodrigues
+        bowler: Rabeya Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: YH Bhatia
+        wicket:
+          player_out: YH Bhatia
+          kind: bowled
+    - 13.1:
+        non_striker: DB Sharma
+        bowler: Nahida Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JI Rodrigues
+    - 13.2:
+        non_striker: DB Sharma
+        bowler: Nahida Akter
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JI Rodrigues
+    - 13.3:
+        non_striker: JI Rodrigues
+        bowler: Nahida Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DB Sharma
+    - 13.4:
+        non_striker: JI Rodrigues
+        bowler: Nahida Akter
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DB Sharma
+    - 13.5:
+        non_striker: DB Sharma
+        bowler: Nahida Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JI Rodrigues
+    - 13.6:
+        non_striker: DB Sharma
+        bowler: Nahida Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JI Rodrigues
+    - 14.1:
+        non_striker: JI Rodrigues
+        bowler: Rabeya Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DB Sharma
+    - 14.2:
+        non_striker: DB Sharma
+        bowler: Rabeya Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JI Rodrigues
+    - 14.3:
+        non_striker: JI Rodrigues
+        bowler: Rabeya Khan
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: DB Sharma
+    - 14.4:
+        non_striker: DB Sharma
+        bowler: Rabeya Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JI Rodrigues
+    - 14.5:
+        non_striker: DB Sharma
+        bowler: Rabeya Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JI Rodrigues
+    - 14.6:
+        non_striker: JI Rodrigues
+        bowler: Rabeya Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DB Sharma
+    - 14.7:
+        non_striker: JI Rodrigues
+        bowler: Rabeya Khan
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: DB Sharma
+    - 14.8:
+        non_striker: DB Sharma
+        bowler: Rabeya Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JI Rodrigues
+    - 15.1:
+        non_striker: DB Sharma
+        bowler: Nahida Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JI Rodrigues
+    - 15.2:
+        non_striker: DB Sharma
+        bowler: Nahida Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JI Rodrigues
+    - 15.3:
+        non_striker: DB Sharma
+        bowler: Nahida Akter
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JI Rodrigues
+    - 15.4:
+        non_striker: JI Rodrigues
+        bowler: Nahida Akter
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DB Sharma
+    - 15.5:
+        non_striker: DB Sharma
+        bowler: Nahida Akter
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JI Rodrigues
+    - 15.6:
+        non_striker: JI Rodrigues
+        bowler: Nahida Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DB Sharma
+    - 16.1:
+        non_striker: DB Sharma
+        bowler: Rabeya Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JI Rodrigues
+    - 16.2:
+        non_striker: JI Rodrigues
+        bowler: Rabeya Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DB Sharma
+    - 16.3:
+        non_striker: DB Sharma
+        bowler: Rabeya Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JI Rodrigues
+    - 16.4:
+        non_striker: JI Rodrigues
+        bowler: Rabeya Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DB Sharma
+    - 16.5:
+        non_striker: DB Sharma
+        bowler: Rabeya Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JI Rodrigues
+    - 16.6:
+        non_striker: DB Sharma
+        bowler: Rabeya Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JI Rodrigues
+        wicket:
+          player_out: JI Rodrigues
+          fielders:
+          - Murshida Khatun
+          kind: caught
+    - 17.1:
+        non_striker: AB Kaur
+        bowler: Fahima Khatun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DB Sharma
+    - 17.2:
+        non_striker: AB Kaur
+        bowler: Fahima Khatun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DB Sharma
+    - 17.3:
+        non_striker: AB Kaur
+        bowler: Fahima Khatun
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: DB Sharma
+    - 17.4:
+        non_striker: AB Kaur
+        bowler: Fahima Khatun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DB Sharma
+    - 17.5:
+        non_striker: AB Kaur
+        bowler: Fahima Khatun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DB Sharma
+    - 17.6:
+        non_striker: AB Kaur
+        bowler: Fahima Khatun
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DB Sharma
+    - 18.1:
+        non_striker: AB Kaur
+        bowler: Rabeya Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DB Sharma
+    - 18.2:
+        non_striker: AB Kaur
+        bowler: Rabeya Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DB Sharma
+    - 18.3:
+        non_striker: AB Kaur
+        bowler: Rabeya Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DB Sharma
+    - 18.4:
+        non_striker: DB Sharma
+        bowler: Rabeya Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AB Kaur
+    - 18.5:
+        non_striker: AB Kaur
+        bowler: Rabeya Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DB Sharma
+    - 18.6:
+        non_striker: AB Kaur
+        bowler: Rabeya Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DB Sharma
+    - 19.1:
+        non_striker: DB Sharma
+        bowler: Fahima Khatun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AB Kaur
+    - 19.2:
+        non_striker: DB Sharma
+        bowler: Fahima Khatun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AB Kaur
+    - 19.3:
+        non_striker: DB Sharma
+        bowler: Fahima Khatun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AB Kaur
+    - 19.4:
+        non_striker: DB Sharma
+        bowler: Fahima Khatun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AB Kaur
+    - 19.5:
+        non_striker: DB Sharma
+        bowler: Fahima Khatun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AB Kaur
+    - 19.6:
+        non_striker: DB Sharma
+        bowler: Fahima Khatun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AB Kaur
+    - 20.1:
+        non_striker: AB Kaur
+        bowler: Rabeya Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DB Sharma
+    - 20.2:
+        non_striker: DB Sharma
+        bowler: Rabeya Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AB Kaur
+    - 20.3:
+        non_striker: DB Sharma
+        bowler: Rabeya Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AB Kaur
+    - 20.4:
+        non_striker: DB Sharma
+        bowler: Rabeya Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AB Kaur
+    - 20.5:
+        non_striker: DB Sharma
+        bowler: Rabeya Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AB Kaur
+    - 20.6:
+        non_striker: DB Sharma
+        bowler: Rabeya Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AB Kaur
+    - 21.1:
+        non_striker: DB Sharma
+        bowler: Fahima Khatun
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AB Kaur
+    - 21.2:
+        non_striker: AB Kaur
+        bowler: Fahima Khatun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DB Sharma
+    - 21.3:
+        non_striker: AB Kaur
+        bowler: Fahima Khatun
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: DB Sharma
+    - 21.4:
+        non_striker: DB Sharma
+        bowler: Fahima Khatun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AB Kaur
+    - 21.5:
+        non_striker: DB Sharma
+        bowler: Fahima Khatun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AB Kaur
+    - 21.6:
+        non_striker: DB Sharma
+        bowler: Fahima Khatun
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AB Kaur
+    - 22.1:
+        non_striker: DB Sharma
+        bowler: Sultana Khatun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AB Kaur
+    - 22.2:
+        non_striker: DB Sharma
+        bowler: Sultana Khatun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AB Kaur
+    - 22.3:
+        non_striker: DB Sharma
+        bowler: Sultana Khatun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AB Kaur
+    - 22.4:
+        non_striker: DB Sharma
+        bowler: Sultana Khatun
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AB Kaur
+    - 22.5:
+        non_striker: AB Kaur
+        bowler: Sultana Khatun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DB Sharma
+    - 22.6:
+        non_striker: AB Kaur
+        bowler: Sultana Khatun
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DB Sharma
+    - 23.1:
+        non_striker: AB Kaur
+        bowler: Fahima Khatun
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DB Sharma
+    - 23.2:
+        non_striker: DB Sharma
+        bowler: Fahima Khatun
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AB Kaur
+    - 23.3:
+        non_striker: AB Kaur
+        bowler: Fahima Khatun
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DB Sharma
+    - 23.4:
+        non_striker: DB Sharma
+        bowler: Fahima Khatun
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AB Kaur
+    - 23.5:
+        non_striker: AB Kaur
+        bowler: Fahima Khatun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DB Sharma
+    - 23.6:
+        non_striker: AB Kaur
+        bowler: Fahima Khatun
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DB Sharma
+    - 24.1:
+        non_striker: AB Kaur
+        bowler: Sultana Khatun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DB Sharma
+    - 24.2:
+        non_striker: AB Kaur
+        bowler: Sultana Khatun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DB Sharma
+    - 24.3:
+        non_striker: AB Kaur
+        bowler: Sultana Khatun
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DB Sharma
+    - 24.4:
+        non_striker: DB Sharma
+        bowler: Sultana Khatun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AB Kaur
+    - 24.5:
+        non_striker: DB Sharma
+        bowler: Sultana Khatun
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AB Kaur
+    - 24.6:
+        non_striker: AB Kaur
+        bowler: Sultana Khatun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DB Sharma
+    - 25.1:
+        non_striker: DB Sharma
+        bowler: Nahida Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AB Kaur
+    - 25.2:
+        non_striker: DB Sharma
+        bowler: Nahida Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AB Kaur
+    - 25.3:
+        non_striker: DB Sharma
+        bowler: Nahida Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AB Kaur
+    - 25.4:
+        non_striker: DB Sharma
+        bowler: Nahida Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AB Kaur
+    - 25.5:
+        non_striker: DB Sharma
+        bowler: Nahida Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AB Kaur
+    - 25.6:
+        non_striker: DB Sharma
+        bowler: Nahida Akter
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AB Kaur
+    - 26.1:
+        non_striker: DB Sharma
+        bowler: Sultana Khatun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AB Kaur
+    - 26.2:
+        non_striker: DB Sharma
+        bowler: Sultana Khatun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AB Kaur
+    - 26.3:
+        non_striker: DB Sharma
+        bowler: Sultana Khatun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AB Kaur
+    - 26.4:
+        non_striker: DB Sharma
+        bowler: Sultana Khatun
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AB Kaur
+    - 26.5:
+        non_striker: AB Kaur
+        bowler: Sultana Khatun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DB Sharma
+    - 26.6:
+        non_striker: AB Kaur
+        bowler: Sultana Khatun
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DB Sharma
+    - 27.1:
+        non_striker: AB Kaur
+        bowler: Nahida Akter
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DB Sharma
+    - 27.2:
+        non_striker: DB Sharma
+        bowler: Nahida Akter
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AB Kaur
+    - 27.3:
+        non_striker: AB Kaur
+        bowler: Nahida Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DB Sharma
+    - 27.4:
+        non_striker: AB Kaur
+        bowler: Nahida Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DB Sharma
+    - 27.5:
+        non_striker: AB Kaur
+        bowler: Nahida Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DB Sharma
+    - 27.6:
+        non_striker: AB Kaur
+        bowler: Nahida Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DB Sharma
+    - 28.1:
+        non_striker: DB Sharma
+        bowler: Marufa Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AB Kaur
+    - 28.2:
+        non_striker: DB Sharma
+        bowler: Marufa Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AB Kaur
+    - 28.3:
+        non_striker: DB Sharma
+        bowler: Marufa Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AB Kaur
+    - 28.4:
+        non_striker: DB Sharma
+        bowler: Marufa Akter
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AB Kaur
+    - 28.5:
+        non_striker: DB Sharma
+        bowler: Marufa Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AB Kaur
+        wicket:
+          player_out: AB Kaur
+          fielders:
+          - Nigar Sultana
+          kind: caught
+    - 28.6:
+        non_striker: DB Sharma
+        bowler: Marufa Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Rana
+        wicket:
+          player_out: S Rana
+          kind: bowled
+    - 29.1:
+        non_striker: DP Vaidya
+        bowler: Rabeya Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DB Sharma
+        wicket:
+          player_out: DB Sharma
+          fielders:
+          - Ritu Moni
+          kind: caught
+    - 29.2:
+        non_striker: DP Vaidya
+        bowler: Rabeya Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Vastrakar
+    - 29.3:
+        non_striker: DP Vaidya
+        bowler: Rabeya Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Vastrakar
+    - 29.4:
+        non_striker: P Vastrakar
+        bowler: Rabeya Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DP Vaidya
+    - 29.5:
+        non_striker: P Vastrakar
+        bowler: Rabeya Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DP Vaidya
+    - 29.6:
+        non_striker: P Vastrakar
+        bowler: Rabeya Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DP Vaidya
+    - 30.1:
+        non_striker: DP Vaidya
+        bowler: Marufa Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Vastrakar
+    - 30.2:
+        non_striker: DP Vaidya
+        bowler: Marufa Akter
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: P Vastrakar
+    - 30.3:
+        non_striker: DP Vaidya
+        bowler: Marufa Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Vastrakar
+    - 30.4:
+        non_striker: DP Vaidya
+        bowler: Marufa Akter
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Vastrakar
+    - 30.5:
+        non_striker: P Vastrakar
+        bowler: Marufa Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DP Vaidya
+    - 30.6:
+        non_striker: P Vastrakar
+        bowler: Marufa Akter
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: DP Vaidya
+    - 30.7:
+        non_striker: P Vastrakar
+        bowler: Marufa Akter
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DP Vaidya
+    - 30.8:
+        non_striker: DP Vaidya
+        bowler: Marufa Akter
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Vastrakar
+    - 31.1:
+        non_striker: DP Vaidya
+        bowler: Rabeya Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Vastrakar
+    - 31.2:
+        non_striker: DP Vaidya
+        bowler: Rabeya Khan
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: P Vastrakar
+    - 31.3:
+        non_striker: P Vastrakar
+        bowler: Rabeya Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DP Vaidya
+    - 31.4:
+        non_striker: P Vastrakar
+        bowler: Rabeya Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DP Vaidya
+    - 31.5:
+        non_striker: P Vastrakar
+        bowler: Rabeya Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DP Vaidya
+    - 31.6:
+        non_striker: DP Vaidya
+        bowler: Rabeya Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Vastrakar
+    - 32.1:
+        non_striker: P Vastrakar
+        bowler: Sultana Khatun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DP Vaidya
+    - 32.2:
+        non_striker: P Vastrakar
+        bowler: Sultana Khatun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DP Vaidya
+    - 32.3:
+        non_striker: P Vastrakar
+        bowler: Sultana Khatun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DP Vaidya
+    - 32.4:
+        non_striker: P Vastrakar
+        bowler: Sultana Khatun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DP Vaidya
+    - 32.5:
+        non_striker: P Vastrakar
+        bowler: Sultana Khatun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DP Vaidya
+    - 32.6:
+        non_striker: P Vastrakar
+        bowler: Sultana Khatun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DP Vaidya
+    - 33.1:
+        non_striker: DP Vaidya
+        bowler: Fahima Khatun
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Vastrakar
+    - 33.2:
+        non_striker: P Vastrakar
+        bowler: Fahima Khatun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DP Vaidya
+    - 33.3:
+        non_striker: P Vastrakar
+        bowler: Fahima Khatun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DP Vaidya
+    - 33.4:
+        non_striker: P Vastrakar
+        bowler: Fahima Khatun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DP Vaidya
+    - 33.5:
+        non_striker: P Vastrakar
+        bowler: Fahima Khatun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DP Vaidya
+    - 33.6:
+        non_striker: P Vastrakar
+        bowler: Fahima Khatun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DP Vaidya
+    - 34.1:
+        non_striker: DP Vaidya
+        bowler: Sultana Khatun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Vastrakar
+        wicket:
+          player_out: P Vastrakar
+          fielders:
+          - Nigar Sultana
+          kind: caught
+    - 34.2:
+        non_striker: DP Vaidya
+        bowler: Sultana Khatun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BM Anusha
+    - 34.3:
+        non_striker: DP Vaidya
+        bowler: Sultana Khatun
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BM Anusha
+    - 34.4:
+        non_striker: BM Anusha
+        bowler: Sultana Khatun
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: DP Vaidya
+    - 34.5:
+        non_striker: DP Vaidya
+        bowler: Sultana Khatun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BM Anusha
+    - 34.6:
+        non_striker: DP Vaidya
+        bowler: Sultana Khatun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BM Anusha
+    - 35.1:
+        non_striker: BM Anusha
+        bowler: Rabeya Khan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DP Vaidya
+    - 35.2:
+        non_striker: BM Anusha
+        bowler: Rabeya Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DP Vaidya
+    - 35.3:
+        non_striker: BM Anusha
+        bowler: Rabeya Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DP Vaidya
+    - 35.4:
+        non_striker: DP Vaidya
+        bowler: Rabeya Khan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: BM Anusha
+    - 35.5:
+        non_striker: DP Vaidya
+        bowler: Rabeya Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BM Anusha
+    - 35.6:
+        non_striker: BM Anusha
+        bowler: Rabeya Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DP Vaidya
+        wicket:
+          player_out: BM Anusha
+          fielders:
+          - Sultana Khatun
+          kind: run out

@@ -1,0 +1,1655 @@
+---
+meta:
+  data_version: 0.92
+  created: '2023-09-13'
+  revision: 2
+info:
+  balls_per_over: 6
+  city: Northampton
+  dates:
+  - '2023-09-12'
+  gender: female
+  match_type: ODI
+  match_type_number: 1336
+  outcome:
+    result: no result
+  overs: 50
+  players:
+    Sri Lanka:
+    - AC Jayangani
+    - RMVD Gunaratne
+    - H Madavi
+    - GWHM Perera
+    - H Karunaratne
+    - WK Dilhari
+    - MAA Sanjeewani
+    - OU Ranasinghe
+    - KDU Prabodhani
+    - WGAKK Kulasuriya
+    - I Ranaweera
+    England:
+    - CE Dean
+    - TT Beaumont
+    - HC Knight
+    - ME Bouchier
+    - NR Sciver-Brunt
+    - A Capsey
+    - AE Jones
+    - S Glenn
+    - KL Cross
+    - L Filer
+    - AN Davidson-Richards
+  registry:
+    people:
+      A Capsey: 910dd54e
+      AC Jayangani: ac56b5a7
+      AE Jones: b05e45e4
+      AN Davidson-Richards: 35828bdd
+      AY Harris: 90d95b82
+      CE Dean: c6625a26
+      GWHM Perera: 53068b45
+      H Karunaratne: f8e27d4a
+      H Madavi: 85021bcd
+      HC Knight: 4ba0289e
+      I Ranaweera: a61850e6
+      J Naeem: 0dc3fee0
+      James Middlebrook: ddcd1520
+      KDU Prabodhani: a0fdf513
+      KL Cross: 1ade138e
+      L Filer: 31adb911
+      MAA Sanjeewani: 318a4039
+      ME Bouchier: c2554b59
+      NR Sciver-Brunt: f3a18a0c
+      OU Ranasinghe: 52d3b7ff
+      Phil Whitticase: 99d5f6fa
+      RMVD Gunaratne: 9e866b59
+      S Glenn: b34e0c77
+      S Redfern: 5b038989
+      TT Beaumont: b2664905
+      WGAKK Kulasuriya: 550373ea
+      WK Dilhari: c34a15e6
+  teams:
+  - Sri Lanka
+  - England
+  toss:
+    winner: England
+    decision: field
+  umpires:
+  - AY Harris
+  - J Naeem
+  venue: County Ground, Northampton
+innings:
+- 1st innings:
+    team: Sri Lanka
+    deliveries:
+    - 0.1:
+        non_striker: RMVD Gunaratne
+        bowler: KL Cross
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AC Jayangani
+    - 0.2:
+        non_striker: RMVD Gunaratne
+        bowler: KL Cross
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: AC Jayangani
+    - 0.3:
+        non_striker: RMVD Gunaratne
+        bowler: KL Cross
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AC Jayangani
+    - 0.4:
+        non_striker: RMVD Gunaratne
+        bowler: KL Cross
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Jayangani
+    - 0.5:
+        non_striker: RMVD Gunaratne
+        bowler: KL Cross
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Jayangani
+    - 0.6:
+        non_striker: RMVD Gunaratne
+        bowler: KL Cross
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Jayangani
+    - 0.7:
+        non_striker: RMVD Gunaratne
+        bowler: KL Cross
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Jayangani
+    - 1.1:
+        non_striker: AC Jayangani
+        bowler: L Filer
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RMVD Gunaratne
+    - 1.2:
+        non_striker: AC Jayangani
+        bowler: L Filer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RMVD Gunaratne
+    - 1.3:
+        non_striker: AC Jayangani
+        bowler: L Filer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RMVD Gunaratne
+    - 1.4:
+        non_striker: AC Jayangani
+        bowler: L Filer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RMVD Gunaratne
+    - 1.5:
+        non_striker: AC Jayangani
+        bowler: L Filer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RMVD Gunaratne
+    - 1.6:
+        non_striker: AC Jayangani
+        bowler: L Filer
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RMVD Gunaratne
+    - 2.1:
+        non_striker: RMVD Gunaratne
+        bowler: KL Cross
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Jayangani
+    - 2.2:
+        non_striker: RMVD Gunaratne
+        bowler: KL Cross
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AC Jayangani
+    - 2.3:
+        non_striker: RMVD Gunaratne
+        bowler: KL Cross
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Jayangani
+    - 2.4:
+        non_striker: RMVD Gunaratne
+        bowler: KL Cross
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AC Jayangani
+    - 2.5:
+        non_striker: RMVD Gunaratne
+        bowler: KL Cross
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Jayangani
+    - 2.6:
+        non_striker: AC Jayangani
+        bowler: KL Cross
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RMVD Gunaratne
+        wicket:
+          player_out: RMVD Gunaratne
+          fielders:
+          - AE Jones
+          kind: caught
+    - 3.1:
+        non_striker: H Madavi
+        bowler: L Filer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Jayangani
+    - 3.2:
+        non_striker: H Madavi
+        bowler: L Filer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Jayangani
+    - 3.3:
+        non_striker: H Madavi
+        bowler: L Filer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Jayangani
+    - 3.4:
+        non_striker: H Madavi
+        bowler: L Filer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Jayangani
+    - 3.5:
+        non_striker: AC Jayangani
+        bowler: L Filer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Madavi
+    - 3.6:
+        non_striker: AC Jayangani
+        bowler: L Filer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Madavi
+    - 4.1:
+        non_striker: H Madavi
+        bowler: KL Cross
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AC Jayangani
+    - 4.2:
+        non_striker: H Madavi
+        bowler: KL Cross
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Jayangani
+    - 4.3:
+        non_striker: H Madavi
+        bowler: KL Cross
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Jayangani
+    - 4.4:
+        non_striker: AC Jayangani
+        bowler: KL Cross
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Madavi
+    - 4.5:
+        non_striker: AC Jayangani
+        bowler: KL Cross
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Madavi
+    - 4.6:
+        non_striker: AC Jayangani
+        bowler: KL Cross
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Madavi
+    - 5.1:
+        non_striker: H Madavi
+        bowler: L Filer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Jayangani
+    - 5.2:
+        non_striker: H Madavi
+        bowler: L Filer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Jayangani
+    - 5.3:
+        non_striker: H Madavi
+        bowler: L Filer
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: AC Jayangani
+    - 5.4:
+        non_striker: H Madavi
+        bowler: L Filer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Jayangani
+    - 5.5:
+        non_striker: H Madavi
+        bowler: L Filer
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: AC Jayangani
+    - 5.6:
+        non_striker: AC Jayangani
+        bowler: L Filer
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: H Madavi
+    - 5.7:
+        non_striker: AC Jayangani
+        bowler: L Filer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Madavi
+    - 6.1:
+        non_striker: AC Jayangani
+        bowler: KL Cross
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Madavi
+    - 6.2:
+        non_striker: AC Jayangani
+        bowler: KL Cross
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Madavi
+    - 6.3:
+        non_striker: AC Jayangani
+        bowler: KL Cross
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Madavi
+    - 6.4:
+        non_striker: AC Jayangani
+        bowler: KL Cross
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Madavi
+    - 6.5:
+        non_striker: H Madavi
+        bowler: KL Cross
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Jayangani
+    - 6.6:
+        non_striker: H Madavi
+        bowler: KL Cross
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Jayangani
+    - 7.1:
+        non_striker: AC Jayangani
+        bowler: L Filer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Madavi
+    - 7.2:
+        non_striker: AC Jayangani
+        bowler: L Filer
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: H Madavi
+    - 7.3:
+        non_striker: AC Jayangani
+        bowler: L Filer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Madavi
+    - 7.4:
+        non_striker: AC Jayangani
+        bowler: L Filer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Madavi
+        wicket:
+          player_out: H Madavi
+          fielders:
+          - AE Jones
+          kind: caught
+    - 7.5:
+        non_striker: AC Jayangani
+        bowler: L Filer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GWHM Perera
+    - 7.6:
+        non_striker: AC Jayangani
+        bowler: L Filer
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: GWHM Perera
+    - 7.7:
+        non_striker: AC Jayangani
+        bowler: L Filer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GWHM Perera
+    - 7.8:
+        non_striker: AC Jayangani
+        bowler: L Filer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GWHM Perera
+    - 8.1:
+        non_striker: GWHM Perera
+        bowler: KL Cross
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Jayangani
+    - 8.2:
+        non_striker: GWHM Perera
+        bowler: KL Cross
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Jayangani
+    - 8.3:
+        non_striker: GWHM Perera
+        bowler: KL Cross
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AC Jayangani
+    - 8.4:
+        non_striker: GWHM Perera
+        bowler: KL Cross
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Jayangani
+    - 8.5:
+        non_striker: GWHM Perera
+        bowler: KL Cross
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: AC Jayangani
+    - 8.6:
+        non_striker: GWHM Perera
+        bowler: KL Cross
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Jayangani
+    - 9.1:
+        non_striker: GWHM Perera
+        bowler: CE Dean
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Jayangani
+    - 9.2:
+        non_striker: GWHM Perera
+        bowler: CE Dean
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Jayangani
+    - 9.3:
+        non_striker: GWHM Perera
+        bowler: CE Dean
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Jayangani
+    - 9.4:
+        non_striker: GWHM Perera
+        bowler: CE Dean
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Jayangani
+        wicket:
+          player_out: AC Jayangani
+          kind: lbw
+    - 9.5:
+        non_striker: GWHM Perera
+        bowler: CE Dean
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Karunaratne
+    - 9.6:
+        non_striker: GWHM Perera
+        bowler: CE Dean
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Karunaratne
+    - 10.1:
+        non_striker: H Karunaratne
+        bowler: AN Davidson-Richards
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GWHM Perera
+    - 10.2:
+        non_striker: H Karunaratne
+        bowler: AN Davidson-Richards
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GWHM Perera
+    - 10.3:
+        non_striker: H Karunaratne
+        bowler: AN Davidson-Richards
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GWHM Perera
+    - 10.4:
+        non_striker: H Karunaratne
+        bowler: AN Davidson-Richards
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GWHM Perera
+    - 10.5:
+        non_striker: H Karunaratne
+        bowler: AN Davidson-Richards
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GWHM Perera
+    - 10.6:
+        non_striker: H Karunaratne
+        bowler: AN Davidson-Richards
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GWHM Perera
+    - 11.1:
+        non_striker: GWHM Perera
+        bowler: CE Dean
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: H Karunaratne
+    - 11.2:
+        non_striker: GWHM Perera
+        bowler: CE Dean
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Karunaratne
+    - 11.3:
+        non_striker: GWHM Perera
+        bowler: CE Dean
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Karunaratne
+    - 11.4:
+        non_striker: GWHM Perera
+        bowler: CE Dean
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Karunaratne
+    - 11.5:
+        non_striker: H Karunaratne
+        bowler: CE Dean
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GWHM Perera
+    - 11.6:
+        non_striker: H Karunaratne
+        bowler: CE Dean
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GWHM Perera
+    - 12.1:
+        non_striker: H Karunaratne
+        bowler: AN Davidson-Richards
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: GWHM Perera
+    - 12.2:
+        non_striker: H Karunaratne
+        bowler: AN Davidson-Richards
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GWHM Perera
+    - 12.3:
+        non_striker: H Karunaratne
+        bowler: AN Davidson-Richards
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GWHM Perera
+    - 12.4:
+        non_striker: H Karunaratne
+        bowler: AN Davidson-Richards
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GWHM Perera
+    - 12.5:
+        non_striker: GWHM Perera
+        bowler: AN Davidson-Richards
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Karunaratne
+    - 12.6:
+        non_striker: GWHM Perera
+        bowler: AN Davidson-Richards
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Karunaratne
+    - 13.1:
+        non_striker: GWHM Perera
+        bowler: CE Dean
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Karunaratne
+    - 13.2:
+        non_striker: GWHM Perera
+        bowler: CE Dean
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Karunaratne
+    - 13.3:
+        non_striker: GWHM Perera
+        bowler: CE Dean
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Karunaratne
+    - 13.4:
+        non_striker: GWHM Perera
+        bowler: CE Dean
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Karunaratne
+    - 13.5:
+        non_striker: H Karunaratne
+        bowler: CE Dean
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: GWHM Perera
+    - 13.6:
+        non_striker: H Karunaratne
+        bowler: CE Dean
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GWHM Perera
+    - 14.1:
+        non_striker: GWHM Perera
+        bowler: AN Davidson-Richards
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Karunaratne
+    - 14.2:
+        non_striker: H Karunaratne
+        bowler: AN Davidson-Richards
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GWHM Perera
+    - 14.3:
+        non_striker: H Karunaratne
+        bowler: AN Davidson-Richards
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GWHM Perera
+    - 14.4:
+        non_striker: H Karunaratne
+        bowler: AN Davidson-Richards
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GWHM Perera
+    - 14.5:
+        non_striker: H Karunaratne
+        bowler: AN Davidson-Richards
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GWHM Perera
+    - 14.6:
+        non_striker: H Karunaratne
+        bowler: AN Davidson-Richards
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GWHM Perera
+    - 15.1:
+        non_striker: GWHM Perera
+        bowler: CE Dean
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Karunaratne
+    - 15.2:
+        non_striker: GWHM Perera
+        bowler: CE Dean
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Karunaratne
+    - 15.3:
+        non_striker: GWHM Perera
+        bowler: CE Dean
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Karunaratne
+    - 15.4:
+        non_striker: GWHM Perera
+        bowler: CE Dean
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Karunaratne
+    - 15.5:
+        non_striker: GWHM Perera
+        bowler: CE Dean
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Karunaratne
+    - 15.6:
+        non_striker: GWHM Perera
+        bowler: CE Dean
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Karunaratne
+    - 16.1:
+        non_striker: H Karunaratne
+        bowler: AN Davidson-Richards
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GWHM Perera
+    - 16.2:
+        non_striker: GWHM Perera
+        bowler: AN Davidson-Richards
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Karunaratne
+    - 16.3:
+        non_striker: GWHM Perera
+        bowler: AN Davidson-Richards
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Karunaratne
+    - 16.4:
+        non_striker: GWHM Perera
+        bowler: AN Davidson-Richards
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Karunaratne
+        wicket:
+          player_out: H Karunaratne
+          fielders:
+          - S Glenn
+          kind: caught
+    - 16.5:
+        non_striker: GWHM Perera
+        bowler: AN Davidson-Richards
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WK Dilhari
+    - 16.6:
+        non_striker: GWHM Perera
+        bowler: AN Davidson-Richards
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: WK Dilhari
+    - 17.1:
+        non_striker: GWHM Perera
+        bowler: CE Dean
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: WK Dilhari
+    - 17.2:
+        non_striker: GWHM Perera
+        bowler: CE Dean
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WK Dilhari
+    - 17.3:
+        non_striker: GWHM Perera
+        bowler: CE Dean
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WK Dilhari
+    - 17.4:
+        non_striker: GWHM Perera
+        bowler: CE Dean
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WK Dilhari
+    - 17.5:
+        non_striker: GWHM Perera
+        bowler: CE Dean
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WK Dilhari
+        wicket:
+          player_out: WK Dilhari
+          kind: caught and bowled
+    - 17.6:
+        non_striker: GWHM Perera
+        bowler: CE Dean
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MAA Sanjeewani
+    - 17.7:
+        non_striker: GWHM Perera
+        bowler: CE Dean
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MAA Sanjeewani
+    - 18.1:
+        non_striker: MAA Sanjeewani
+        bowler: AN Davidson-Richards
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GWHM Perera
+    - 18.2:
+        non_striker: MAA Sanjeewani
+        bowler: AN Davidson-Richards
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GWHM Perera
+    - 18.3:
+        non_striker: GWHM Perera
+        bowler: AN Davidson-Richards
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MAA Sanjeewani
+    - 18.4:
+        non_striker: GWHM Perera
+        bowler: AN Davidson-Richards
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MAA Sanjeewani
+        wicket:
+          player_out: MAA Sanjeewani
+          kind: bowled
+    - 18.5:
+        non_striker: GWHM Perera
+        bowler: AN Davidson-Richards
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: OU Ranasinghe
+    - 18.6:
+        non_striker: OU Ranasinghe
+        bowler: AN Davidson-Richards
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GWHM Perera
+    - 19.1:
+        non_striker: GWHM Perera
+        bowler: CE Dean
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: OU Ranasinghe
+    - 19.2:
+        non_striker: GWHM Perera
+        bowler: CE Dean
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: OU Ranasinghe
+    - 19.3:
+        non_striker: GWHM Perera
+        bowler: CE Dean
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: OU Ranasinghe
+    - 19.4:
+        non_striker: GWHM Perera
+        bowler: CE Dean
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: OU Ranasinghe
+    - 19.5:
+        non_striker: OU Ranasinghe
+        bowler: CE Dean
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GWHM Perera
+    - 19.6:
+        non_striker: GWHM Perera
+        bowler: CE Dean
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: OU Ranasinghe
+    - 20.1:
+        non_striker: OU Ranasinghe
+        bowler: S Glenn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GWHM Perera
+    - 20.2:
+        non_striker: OU Ranasinghe
+        bowler: S Glenn
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GWHM Perera
+    - 20.3:
+        non_striker: GWHM Perera
+        bowler: S Glenn
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: OU Ranasinghe
+    - 20.4:
+        non_striker: OU Ranasinghe
+        bowler: S Glenn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GWHM Perera
+    - 20.5:
+        non_striker: OU Ranasinghe
+        bowler: S Glenn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GWHM Perera
+    - 20.6:
+        non_striker: OU Ranasinghe
+        bowler: S Glenn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GWHM Perera
+    - 21.1:
+        non_striker: GWHM Perera
+        bowler: CE Dean
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: OU Ranasinghe
+    - 21.2:
+        non_striker: GWHM Perera
+        bowler: CE Dean
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: OU Ranasinghe
+    - 21.3:
+        non_striker: GWHM Perera
+        bowler: CE Dean
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: OU Ranasinghe
+    - 21.4:
+        non_striker: GWHM Perera
+        bowler: CE Dean
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: OU Ranasinghe
+    - 21.5:
+        non_striker: GWHM Perera
+        bowler: CE Dean
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: OU Ranasinghe
+    - 21.6:
+        non_striker: GWHM Perera
+        bowler: CE Dean
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: OU Ranasinghe
+    - 22.1:
+        non_striker: OU Ranasinghe
+        bowler: S Glenn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GWHM Perera
+    - 22.2:
+        non_striker: OU Ranasinghe
+        bowler: S Glenn
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GWHM Perera
+    - 22.3:
+        non_striker: GWHM Perera
+        bowler: S Glenn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: OU Ranasinghe
+    - 22.4:
+        non_striker: GWHM Perera
+        bowler: S Glenn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: OU Ranasinghe
+    - 22.5:
+        non_striker: GWHM Perera
+        bowler: S Glenn
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: OU Ranasinghe
+    - 22.6:
+        non_striker: GWHM Perera
+        bowler: S Glenn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: OU Ranasinghe
+    - 23.1:
+        non_striker: OU Ranasinghe
+        bowler: L Filer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GWHM Perera
+    - 23.2:
+        non_striker: OU Ranasinghe
+        bowler: L Filer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GWHM Perera
+    - 23.3:
+        non_striker: OU Ranasinghe
+        bowler: L Filer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GWHM Perera
+    - 23.4:
+        non_striker: OU Ranasinghe
+        bowler: L Filer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GWHM Perera
+    - 23.5:
+        non_striker: OU Ranasinghe
+        bowler: L Filer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GWHM Perera
+    - 23.6:
+        non_striker: GWHM Perera
+        bowler: L Filer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: OU Ranasinghe
+    - 24.1:
+        non_striker: GWHM Perera
+        bowler: S Glenn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: OU Ranasinghe
+    - 24.2:
+        non_striker: GWHM Perera
+        bowler: S Glenn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: OU Ranasinghe
+    - 24.3:
+        non_striker: GWHM Perera
+        bowler: S Glenn
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: OU Ranasinghe
+    - 24.4:
+        non_striker: GWHM Perera
+        bowler: S Glenn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: OU Ranasinghe
+    - 24.5:
+        non_striker: GWHM Perera
+        bowler: S Glenn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: OU Ranasinghe
+    - 24.6:
+        non_striker: GWHM Perera
+        bowler: S Glenn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: OU Ranasinghe
+        wicket:
+          player_out: OU Ranasinghe
+          kind: lbw
+    - 25.1:
+        non_striker: KDU Prabodhani
+        bowler: L Filer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GWHM Perera
+    - 25.2:
+        non_striker: KDU Prabodhani
+        bowler: L Filer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GWHM Perera
+    - 25.3:
+        non_striker: KDU Prabodhani
+        bowler: L Filer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GWHM Perera
+    - 25.4:
+        non_striker: KDU Prabodhani
+        bowler: L Filer
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GWHM Perera
+    - 25.5:
+        non_striker: KDU Prabodhani
+        bowler: L Filer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GWHM Perera
+    - 25.6:
+        non_striker: KDU Prabodhani
+        bowler: L Filer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GWHM Perera
+    - 26.1:
+        non_striker: GWHM Perera
+        bowler: S Glenn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KDU Prabodhani
+    - 26.2:
+        non_striker: GWHM Perera
+        bowler: S Glenn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KDU Prabodhani
+    - 26.3:
+        non_striker: GWHM Perera
+        bowler: S Glenn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KDU Prabodhani
+    - 26.4:
+        non_striker: GWHM Perera
+        bowler: S Glenn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KDU Prabodhani
+    - 26.5:
+        non_striker: GWHM Perera
+        bowler: S Glenn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KDU Prabodhani
+    - 26.6:
+        non_striker: GWHM Perera
+        bowler: S Glenn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KDU Prabodhani
+    - 27.1:
+        non_striker: KDU Prabodhani
+        bowler: L Filer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GWHM Perera
+    - 27.2:
+        non_striker: KDU Prabodhani
+        bowler: L Filer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GWHM Perera
+    - 27.3:
+        non_striker: KDU Prabodhani
+        bowler: L Filer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GWHM Perera
+    - 27.4:
+        non_striker: KDU Prabodhani
+        bowler: L Filer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GWHM Perera
+    - 27.5:
+        non_striker: KDU Prabodhani
+        bowler: L Filer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GWHM Perera
+    - 27.6:
+        non_striker: GWHM Perera
+        bowler: L Filer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KDU Prabodhani
+    - 28.1:
+        non_striker: KDU Prabodhani
+        bowler: S Glenn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GWHM Perera
+    - 28.2:
+        non_striker: KDU Prabodhani
+        bowler: S Glenn
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GWHM Perera
+    - 28.3:
+        non_striker: GWHM Perera
+        bowler: S Glenn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KDU Prabodhani
+    - 28.4:
+        non_striker: GWHM Perera
+        bowler: S Glenn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KDU Prabodhani
+    - 28.5:
+        non_striker: GWHM Perera
+        bowler: S Glenn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KDU Prabodhani
+    - 28.6:
+        non_striker: GWHM Perera
+        bowler: S Glenn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KDU Prabodhani
+    - 29.1:
+        non_striker: KDU Prabodhani
+        bowler: L Filer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GWHM Perera
+    - 29.2:
+        non_striker: GWHM Perera
+        bowler: L Filer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KDU Prabodhani
+    - 29.3:
+        non_striker: GWHM Perera
+        bowler: L Filer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KDU Prabodhani
+    - 29.4:
+        non_striker: GWHM Perera
+        bowler: L Filer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KDU Prabodhani
+    - 29.5:
+        non_striker: GWHM Perera
+        bowler: L Filer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KDU Prabodhani
+        wicket:
+          player_out: KDU Prabodhani
+          fielders:
+          - AE Jones
+          kind: caught
+    - 29.6:
+        non_striker: GWHM Perera
+        bowler: L Filer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WGAKK Kulasuriya
+    - 30.1:
+        non_striker: WGAKK Kulasuriya
+        bowler: S Glenn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GWHM Perera
+    - 30.2:
+        non_striker: WGAKK Kulasuriya
+        bowler: S Glenn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GWHM Perera
+    - 30.3:
+        non_striker: WGAKK Kulasuriya
+        bowler: S Glenn
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GWHM Perera
+    - 30.4:
+        non_striker: WGAKK Kulasuriya
+        bowler: S Glenn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GWHM Perera
+    - 30.5:
+        non_striker: WGAKK Kulasuriya
+        bowler: S Glenn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GWHM Perera
+        wicket:
+          player_out: WGAKK Kulasuriya
+          fielders:
+          - KL Cross
+          kind: run out

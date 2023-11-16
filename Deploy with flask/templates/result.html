@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <!-- Document Metadata -->
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Result</title>
+
+    <!-- Styles -->
+    <style>
+      body {
+        /* Background styling */
+        background-image: url("/static/cricket3.avif");
+        background-size: cover;
+        background-position: center;
+        font-family: Arial, sans-serif;
+        color: black;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        height: 100vh; /* Full viewport height */
+        margin: 0;
+      }
+
+      .result-box {
+        /* Result Box styling */
+        background-color: rgba(0, 0, 0, 0.8);
+        padding: 20px; /* Padding to the box */
+        border-radius: 10px; /* Rounded corners to the box */
+        text-align: center;
+      }
+
+      h2,
+      p {
+        /* Style for heading and paragraph */
+        text-align: center;
+        font-size: 120px;
+        margin: 10px; /* Margin around heading and paragraph */
+      }
+
+      h2 {
+        /* Specific styling for the main heading */
+        font-size: 55px;
+        margin-bottom: 20px; /* Bottom margin for better spacing */
+      }
+
+      h2,
+      p {
+        /* Text color for both heading and paragraph */
+        -webkit-text-fill-color: white; /* WebKit specific text fill color */
+      }
+
+      /* Button Styling */
+      .navigation-buttons {
+        margin-top: 20px;
+      }
+
+      .navigation-buttons button {
+        background-color: #3498db;
+        color: white;
+        padding: 10px 20px;
+        border: none;
+        border-radius: 5px;
+        margin: 0 10px;
+        cursor: pointer;
+      }
+    </style>
+  </head>
+
+  <body>
+    <!-- Result Display Box -->
+    <div class="result-box">
+      <h2>Predicted Score:</h2>
+      <p>{{ predicted_score }}</p>
+
+      <!-- Navigation Buttons -->
+      <div class="navigation-buttons">
+        <button onclick="goBack()">Make another prediction</button>
+        <button onclick="goToFrontPage()">Go to Front Page</button>
+      </div>
+    </div>
+
+    <script>
+      // JavaScript functions to handle navigation
+      function goBack() {
+        window.history.back();
+      }
+
+      function goToFrontPage() {
+        window.location.href = "/"; // Replace "/" with the actual path to your front page
+      }
+    </script>
+  </body>
+</html>
